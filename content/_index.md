@@ -1,27 +1,21 @@
 ---
-title: 🪴 Quartz 3.1
+title: 🪴 welcome to my notes
+disableToc: true 
 ---
-Host your second brain and [digital garden](https://jzhao.xyz/posts/digital-gardening) for free. Quartz features
-1. Extremely fast full-text search by pressing `/`
-2. Display for backlinks of each note
-3. Fully customizable local graph view
-4. Endlessly powerful page and theme customization using CSS
-5. Automatically generated tag and section lists of content
-6. Beautiful link previews
 
-## Get Started
-> 📚 [Setup your own digital garden using Quartz](notes/setup.md)
+First and foremost, I want to give thanks to Jacky Zhao for building [Quartz](https://github.com/jackyzha0/quartz), a free publishing tool for Obsidian. This website is possible because of Jacky's time, energy, and skillz. 🙏
 
-Not convinced yet? Look at some [community digital gardens](notes/showcase.md) built with Quartz, or read about [why I made Quartz](notes/philosophy.md) to begin with!
+## get started
+Maintaining a note taking practice helps me to [write with quality](https://www.newsletter.rikagoldberg.com/p/40-we-need-quality?s=w)
 
-## Content Lists
-If you prefer browsing the contents of this site through a list instead of a graph, you can find content lists here too:
+> 📚 [index](/index)
 
-- [All Notes](/notes)
-- [Setup-related Notes](/tags/setup)
+> ✨ [projects](/projects)
 
-## Troubleshooting
-- 🚧 [Troubleshooting and FAQ](notes/troubleshooting.md)
-- 🐛 [Submit an Issue](https://github.com/jackyzha0/quartz/issues)
-- 👀 [Discord Community](https://discord.gg/cRFFHYye7t)
+> ✨ [areas](/areas)
+
+> ✨ [resources](/resources)
+
+
+
 

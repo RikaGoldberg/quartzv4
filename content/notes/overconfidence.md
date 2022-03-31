@@ -1,0 +1,4 @@
+#definition 
+#institutions [[content/content/Wikipedia]]
+See also [[content/content/confidence vs narcissim]]
+The overconfidence effect is a well-established bias in which a person's subjective confidence in his or her judgments is reliably greater than the objective accuracy of those judgments, especially when confidence is relatively high. Overconfidence is one example of a miscalibration of subjective probabilities. Throughout the research literature, overconfidence has been defined in three distinct ways: (1) overestimation of one's actual performance; (2) overplacement of one's performance relative to others; and (3) overprecision in expressing unwarranted certainty in the accuracy of one's beliefs.

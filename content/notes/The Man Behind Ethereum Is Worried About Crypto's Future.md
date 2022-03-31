@@ -1,0 +1,76 @@
+#article 
+#institutions [[time magazine]]
+#authors [[andrew r. chow]]
+#toprocess 
+See also: [[content/content/Ukraine Received More Than $30M in Crypto Donations. Here's Where It's Going]] 
+https://time.com/6158182/vitalik-buterin-ethereum-profile/?utm_source=twitter&utm_medium=social&utm_campaign=editorial&utm_term=business_cryptocurrency&linkId=156876379
+
+#summary 
+My pithy attempt at summarizing this Time article:
+
+
+#notes 
+
+
+#quotes 
+Since then, it has emerged as the bedrock layer of what advocates say will be a new, [open-source, decentralized internet](https://time.com/6150884/ukraine-russia-attack-open-source-intelligence/).
+
+**But even as crypto has soared in value and volume, Buterin has watched the world he created evolve with a mixture of pride and dread**. **Ethereum has made a handful of white men unfathomably rich, pumped pollutants into the air, and emerged as a vehicle for tax evasion, money laundering, and mind-boggling scams.**
+
+“Crypto itself has a lot of dystopian potential if implemented wrong,” the Russian-born Canadian explains the morning after the party in an 80-minute interview in his hotel room.
+
+**The peril is you have these $3 million monkeys and it becomes a different kind of gambling,”** he says, referring to the Bored Ape Yacht Club, an überpopular NFT collection of garish primate cartoons that has become a digital-age status symbol for millionaires including Jimmy Fallon and Paris Hilton, and which have traded for more than $1 million a pop. “There definitely are lots of people that are just buying yachts and Lambos.”
+
+**Above all, he wants the platform to be a counterweight to authoritarian governments and to upend Silicon Valley’s stranglehold over our digital lives. But he acknowledges that his vision for the transformative power of Ethereum is at risk of being overtaken by greed.** And so he has reluctantly begun to take on a bigger public role in shaping its future. “If we don’t **exercise our voice**, the only things that get built are the things that are immediately profitable,” he says, reedy voice rising and falling as he fidgets his hands and sticks his toes between the cushions of a lumpy gray couch. “And those are often far from what’s actually the best for the world.”
+
+[More than $100 million](https://time.com/6153320/crypto-ukraine-charity/) in crypto was raised in the invasion’s first three weeks for the Ukrainian government and NGOs. Cryptocurrency has also provided a lifeline for some fleeing Ukrainians whose banks are inaccessible. At the same time, regulators worry that it will be used by Russian oligarchs to evade sanctions.
+
+“**One silver lining of the situation in the last three weeks is that it has reminded a lot of people in the crypto space that ultimately the goal of crypto is not to play games with million-dollar pictures of monkeys, it’s to do things that accomplish meaningful effects in the real world**,” Buterin wrote in an email to TIME on March 14.
+
+“One of the decisions I made in 2022 is to try to be more risk-taking and less neutral,” Buterin says. “I would rather Ethereum offend some people than turn into something that stands for nothing.”
+
+The war is personal to Buterin, who has both Russian and Ukrainian ancestry. He was born outside Moscow in 1994 to two computer scientists, Dmitry Buterin and Natalia Ameline, a few years after the fall of the Soviet Union. Monetary and social systems had collapsed; his mother’s parents lost their life savings amid rising inflation. “Growing up in the USSR, I didn’t realize most of the stuff I’d been told in school that was good, like communism, was all propaganda,” explains Dmitry. “So I wanted Vitalik to question conventions and beliefs, and he grew up very independent as a thinker.”
+
+After seeing the collapse of financial systems in both Russia and the U.S., Dmitry was intrigued by the idea of an alternative global money source that was uncontrolled by authorities. Vitalik soon began writing articles exploring the new technology for the magazine Bitcoin Weekly, for which he earned 5 bitcoins a pop (back then, some $4; today, it would be worth about $200,000).
+
+Even as a teenager, Vitalik Buterin proved to be a pithy writer, able to articulate complex ideas about cryptocurrency and its underlying technology in clear prose. At 18, he co-founded Bitcoin Magazine and became its lead writer, earning a following both in Toronto and abroad. “A lot of people think of him as a typical techie engineer,” says Nathan Schneider, a media-studies professor at the University of Colorado, Boulder, who first interviewed Buterin in 2014. “But a core of his practice even more so is observation and writing—and that helped him see a cohesive vision that others weren’t seeing yet.”
+
+In 2013, Buterin dropped out of college and wrote a 36-page white paper laying out his vision for Ethereum: a new open-source blockchain on which programmers could build any sort of application they wished. **(Buterin swiped the name from a Wikipedia list of elements from science fiction.)** 
+
+While some of the other founders mixed work and play—watching Game of Thrones, persuading friends to bring over beer in exchange for Ether IOUs—Buterin mostly kept to himself, coding away on his laptop, according to Laura Shin’s recent book about the history of Ethereum, The Cryptopians.
+
+Over time, it became apparent that the group had very different plans for the nascent technology. **Buterin wanted a decentralized open platform on which anyone could build anything**. O**thers wanted to use the technology to create a business.** One idea was to build the crypto equivalent to Google, in which Ethereum would use customer data to sell targeted ads. The men also squabbled over power and titles. One co-founder, Charles Hoskinson, appointed himself CEO—a designation that was of no interest to Buterin, who joked his title would be C-3PO, after the droid from Star Wars.
+
+The ensuing conflicts left Buterin with culture shock. In the space of a few months, he had gone from a cloistered life of writing code and technical articles to a that of a decisionmaker grappling with bloated egos and power struggles. His vision for Ethereum hung in the balance. “The biggest divide was definitely that a lot of these people cared about making money. For me, that was totally not my goal,” says Buterin, whose net worth is at least $800 million, according to public records on the blockchain whose accuracy was confirmed by a spokesperson. “There were even times at the beginning where I was negotiating down the percentages of the Ether distribution that both myself and the other top-level founders would get, in order to be more egalitarian. That did make them upset.
+
+Buterin says the other founders tried to take advantage of his naiveté to push through their own ideas about how Ethereum should run. “People used my fear of regulators against me,” he recalls, “saying that we should have a for-profit entity because it’s so much simpler legally than making a nonprofit.” As tensions rose, the group implored Buterin to make a decision. In June 2014, he asked Hoskinson and Amir Chetrit, two co-founders who were pushing Ethereum to become a business, to leave the group. He then set in motion the creation of the Ethereum Foundation (EF), a nonprofit established to safeguard Ethereum’s infrastructure and fund research and development projects.
+
+One by one, all the other founders peeled off over the next few years to pursue their own projects, either in tandem with Ethereum or as direct competitors. Some of them remain critical of Buterin’s approach. “In the dichotomy between centralization and anarchy, Ethereum seems to be going toward anarchy,” says Hoskinson, who now leads his own blockchain, Cardano. “We think there’s a middle ground to create some sort of blockchain-based governance system.”
+
+“He’s not good at bossing people around,” says Aya Miyaguchi, the executive director of the EF. “From a social-navigation perspective, he was immature. He’s probably still conflict-averse,” says Danny Ryan, a lead researcher at the EF. Buterin calls his struggle to inhabit the role of an organizational leader “my curse for the first few years at Ethereum.”
+
+Yet almost everyone who has a full conversation with Buterin comes away starry-eyed. Buterin is wryly funny and almost wholly devoid of pretension or ego. He’s an unabashed geek whose eyes spark when he alights upon one of his favorite concepts, whether it be quadratic voting or the governance system futarchy. Just as Ethereum is designed to be an everything machine, Buterin is an everything thinker, fluent in disciplines ranging from sociological theory to advanced calculus to land-tax history. (He’s currently using Duolingo to learn his fifth and sixth languages.) He doesn’t talk down to people, and he eschews a security detail. “An emotional part of me says that once you start going down that way, professionalizing is just another word for losing your soul,” he says.
+
+**Alexis Ohanian, the co-founder of Reddit and a major crypto investor, says being around Buterin gives him “a similar vibe to when I first got to know Sir Tim Berners-Lee,” the inventor of the World Wide Web. “He’s very thoughtful and unassuming,” Ohanian says, “and he’s giving the world some of the most powerful Legos it’s ever seen.”**
+
+**The fees have undermined some of Buterin’s favorite projects on the blockchain. Take Proof of Humanity, which awards a universal basic income—currently about $40 per month—to anyone who signs up. Depending on the week, the network’s congestion fees can make pulling money out of your wallet to pay for basic needs prohibitively expensive. “With fees being the way they are today,” Buterin says, “it really gets to the point where the financial derivatives and the gambley stuff start pricing out some of the cool stuff.”**
+
+**Inequities have crept into crypto in other ways, including a stark lack of gender and racial diversity.** “It hasn’t been among the things I’ve put a lot of intellectual effort into,” Buterin admits of gender parity. “The ecosystem does need to improve there.” He’s scornful of the dominance of coin voting, a voting process for DAOs that Buterin feels is just a new version of plutocracy, one in which wealthy venture capitalists can make self-interested decisions with little resistance. “It’s become a de facto standard, which is a dystopia I’ve been seeing unfolding over the last few years,” he says.
+
+The EF research team is also working on two crucial technical updates. The first is known as the “merge,” which converts Ethereum from Proof of Work, a form of blockchain verification, to Proof of Stake, which the EF says will reduce Ethereum’s energy usage by more than 99% and make the network more secure. Buterin has been stumping for Proof of Stake since Ethereum’s founding, but repeated delays have turned implementation into a Waiting for Godot–style drama. At ETHDenver, the EF researcher Danny Ryan declared that the merge would happen within the next six months, unless “something insanely catastrophic” happens. The same day, Buterin encouraged companies worried about the environmental impact to delay using Ethereum until the merge is completed—even if it “gets delayed until 2025.”
+
+As he often does when faced with legitimate criticism, Buterin responded with a thoughtful, detailed post on Reddit. “The properly authenticated decentralized blockchain world is coming, and is much closer to being here than many people think,” he wrote. “I see no technical reason why the future needs to look like the status quo today.”
+
+Buterin is aware that crypto’s utopian promises sound stale to many, and calls the race to implement sharding in the face of competition a “ticking time bomb.” “If we don’t have sharding fast enough, then people might just start migrating to more centralized solutions,” he says. “And if after all that stuff happens and it still centralizes, then yes, there’s a much stronger argument that there’s a big problem.”
+
+As the technical kinks get worked out, Buterin has turned his attention toward larger sociopolitical issues he thinks the blockchain might solve. On his blog and on Twitter, you’ll find treatises on housing; on voting systems; on the best way to distribute public goods; on city building and longevity research. While Buterin spent much of the pandemic living in Singapore, he increasingly lives as a digital nomad, writing dispatches from the road.
+
+As the technical kinks get worked out, Buterin has turned his attention toward larger sociopolitical issues he thinks the blockchain might solve. On his blog and on Twitter, you’ll find treatises on housing; on voting systems; on the best way to distribute public goods; on city building and longevity research. While Buterin spent much of the pandemic living in Singapore, he increasingly lives as a digital nomad, writing dispatches from the road.
+
+While Buterin’s blog is one of his main tools of public persuasion, his posts aren’t meant to be decrees, but rather intellectual explorations that invite debate. Buterin often dissects the flaws of obscure ideas he once wrote effusively about, like Harberger taxes. His blog is a model for how a leader can work through complex ideas with transparency and rigor, exposing the messy process of intellectual growth for all to see, and perhaps learn from.
+
+There’s definitely signs that are making it seem like crypto is on the verge of becoming a right-leaning thing,” Buterin says. “If it does happen, we’ll sacrifice a lot of the potential it has to offer.”
+
+To Buterin, the worst-case scenario for the future of crypto is that blockchain technology ends up concentrated in the hands of dictatorial governments. He is unhappy with El Salvador’s rollout of Bitcoin as legal tender, which has been riddled with identity theft and volatility. The prospect of governments using the technology to crack down on dissent is one reason Buterin is adamant about crypto remaining decentralized. He sees the technology as the most powerful equalizer to surveillance technology deployed by governments (like China’s) and powerful companies (like Meta) alike.
+
+“Bad crazy is when there’s just huge amounts of money being drained and all it’s doing is subsidizing the hacker industry. Good crazy is when there’s tech work and research and development and public goods coming out of the other end. So there’s this battle. And we have to be intentional, and make sure more of the right things happen.”

@@ -1,0 +1,25 @@
+Metadata
+	#YODA 
+	#concepts 
+
+Description:
+
+According to [[content/content/donnella meadows]] [[content/content/self-organization]] is a system's ability to change itself by creating whole new structures and behaviors. 
+
+#quotes 
+pg. 61
+The most stunning thing living systems and some social systems can do is to change themselves utterly by creating whole new structures and behaviors. **In biological systems that power is called evolution. In human economies it's called technical advance or social revolution. In systems lingo it's called self-organization.**
+
+**Self-organization means changing any aspect of a system lower on this list-adding completely new physical structures, such as brains or wings or computers-adding new balancing or reinforcing loops, or new rules.** The ability to self-organize is the strongest form of system resilience. **A system that can evolve can survive almost any change, by changing itself**. The human immune system has the power to develop new responses to some kinds of insults it has never before encountered. The human brain can take in new information and pop out completely new thoughts.
+
+The power of self-organization seems so wondrous that we tend to regard it as mysterious, miraculous, heaven sent. Economists often model technology as magic-coming from nowhere, costing nothing, increasing the productivity of an economy by some steady percent each year. For centuries people have regarded the spectacular variety of nature with the same awe. Only a divine creator could bring forth such a creation. Further investigation of self-organizing systems reveals that the divine creator, if there is one, does not have to produce evolutionary miracles. He, she, or it, just has to write marvelously clever *rules for self-organization.*
+
+These rules basically govern how, where, and what the system can add onto subtract from itself under what conditions. As hundreds of self-organiz an evolve from quite simple sets of rules. The genetic code within the computer models have demonstrated, complex and delightful patterns DNA that is the basis of all biological evolution contains just four different letters, combined into words of three letters each. That pattern, and the Nes for replicating and rearranging it, has been constant for something like 3 billion years, during which it has spewed out an unimaginable variety of failed and successful self-evolved creatures. 
+
+Self-organization is basically a matter of an evolutionary raw material-a highly variable stock of information from which to select possible patterns and a means for experimentation, for selecting and testing new patterns. For biological evolution, the raw material is DNA, one source of variety is spontaneous mutation, and the testing mechanism is changing environment in which some individuals do not survive to reproduce. For technology, the raw material is the body of understanding science has accumulated and stored in libraries and in the brains of its practitioners. The source of variety is human creativity (whatever that is) and the selection mechanism can be whatever the market will reward, or whatever governments and foundations will fund, or whatever meets human needs.
+
+[[content/content/self-organized systems must be diverse]]
+
+The same could be said of human cultures, of course, which are the store of behavioral repertoires, accumulated over not billions, but hundreds of thousands of years. They are a stock out of which social evolution can arise. Unfortunately, people appreciate the precious evolutionary potential of cultures even less than they understand the preciousness of every genetic variation in the world's ground squirrels. I guess that's because one aspect of almost every culture is the belief in the utter superiority of that culture.
+
+Insistence on a single culture shuts down learning and cuts back [[content/content/resilience]]. Any system, biological, economic, or social, that gets so encrusted that it cannot self-evolve, a system that systematically scorns experimentation and wipes out the raw material of innovation, is doomed over the long term on this highly variable planet. The intervention point here is obvious, but unpopular. Encouraging variability and experimentation and diversity means "losing control." Let a thousand flowers bloom and *anything* could happen! Who wants that? Let's play it safe and push this lever in the wrong direction by wiping out biological, cultural, social, and market diversity! 

@@ -1,0 +1,1 @@
+Former finance minister of Greece

@@ -1,0 +1,6 @@
+#book [[content/content/Thinking in Systems]] by [[content/content/donnella meadows]]
+
+#quotes 
+When you understand the power of system self-organization, you begin to understand why biologists worship [[content/content/diversity|biodiversity]] even more than economists worship technology. The wildly varied stock of DNA, evolved and accumulated over billions of years, is the source of evolutionary potential, just as science libraries and labs and universities where scientists are trained are the source of technological potential. Allowing a species to go extinct is a systems crime, just as randomly eliminating all copies of particular science journals or particular kinds of scientists would be.
+
+The same could be said of human cultures, of course, which are the store of behavioral repertoires, accumulated over not billions, but hundreds of thousands of years. They are a stock out of which social evolution can arise. Unfortunately, people appreciate the precious evolutionary potential of cultures even less than they understand the preciousness of every genetic variation in the world's ground squirrels. I guess that's because one aspect of almost every culture is the belief in the utter superiority of that culture
