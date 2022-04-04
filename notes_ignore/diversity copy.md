@@ -1,0 +1,5 @@
+#definition 
+#institutions [[quartz/notes_ignore/Merriam-Webster]]
+https://www.merriam-webster.com/dictionary/diversity
+
+the condition of having or being composed of differing elements
