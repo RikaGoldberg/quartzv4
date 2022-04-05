@@ -5,9 +5,9 @@ date: 2022-04-02
 
 ![hi](projects/YODA.png)
 
-I received funding from [MetaCartel](quartz/notes_ignore/MetaCartel.md) to write nonfiction stories about the MetaCartel family of [DAO Wei](quartz/content/notes/DAO%20Wei.md)s.  
+I received funding from [MetaCartel](quartz/notes_ignore/MetaCartel.md) to write nonfiction stories about the MetaCartel family of [DAO Wei1](quartz/content/notes/DAO%20Wei1.md)s.  
 
-The goal is to write informative, interesting, and fun narratives toonboard more talented non-technical people into the space and make [DAO Wei](quartz/content/notes/DAO%20Wei.md)s less exclusive. 
+The goal is to write informative, interesting, and fun narratives toonboard more talented non-technical people into the space and make [DAO Wei1](quartz/content/notes/DAO%20Wei1.md)s less exclusive. 
 
 ### anthology series
 *[Story #1: MetaCartel DAO](https://mirror.xyz/rikasukenik.eth/ypr4aOWQIJqyvY3vxNgWk9YMfysXOzd62bPPLexY2Mg)  status = published
