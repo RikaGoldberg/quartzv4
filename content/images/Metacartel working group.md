@@ -1,0 +1,1 @@
+**![Metacartel working group](https://lh4.googleusercontent.com/OS53uT5h7-npQPB01Efngtxa41B2aXxgpNJtlxQkm7va7aDBt3g2do_61TEyx9PfztQJxmiSUGRyY08TXTL0MFySR9bxMF7e-nMrm9p11MbY0ciqbJ3GE_jW6A0iRJ-B_3dC6C6o)**

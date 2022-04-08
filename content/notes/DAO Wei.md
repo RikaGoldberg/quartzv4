@@ -5,27 +5,38 @@ tags:
 - fruit
 ---
 
-![Be Kind, Stay Humble, Show up, & Throw Down](https://lh5.googleusercontent.com/WXcTUAAArRpEvGDMzFTR2HHDzMQEtDfq3GMDAh3ldjKItUNCRqFNUO1VvLgGgmpGJzPZP9VKQYnVPByl1De1Y6zE4tbzcRK5b8ElL4rpYcKIebuRYsyd8UyQ-QZFjCTFdY5-K7gb)
+**Related** [YODA](/notes/YODA.md)
 
-![cohort approach to onboarding](https://lh4.googleusercontent.com/ju9zPhZpVvBtpG69GJgXDBafKH1KJq3vrdZN1IbKfulh1_ggFc-KK43nlD9V4eYLq8Cz4MiQj0WwEv1uBHN7IriFGfSGy4SWtetEqa0PFHbX1SlFOeH25xgrnLB9HEJ-_m837O-9)
+## Why these principles?
+In crafting the DAO Wei, I was deeply inspired by [Donella Meadows](/notes/Donella%20Meadows) a legendary systems thinker and teacher. Her book [Thinking in Systems](https://www.goodreads.com/book/show/3828902-thinking-in-systems) shaped many of my ideas. I was also inspired by [MetaFactory](/notes/MetaFactory.md) – one of the [DAOs](/notes/DAO.md) in the [MetaCartel DAO](/notes/MetaCartel%20DAO.md) family.
 
+Since DAOs are systems - consisting of many relationships bound together by coordination mechanisms that incentivize positive-sum behavior - it is relevant and useful to use [systems thinking](/notes/Systems%20thinking) to understand how [DAOs](/notes/DAO.md) work so we can become more effective contributors and make progress on our shared vision and values.
+
+I realized there was an opportunity to formalize the DAO Wei, thinking deeper about what principles would be helpful for DAO contributors, including myself, as I, like you, start to contribute to more DAOs and find my wei. And the more research that I did on MetaFactory, the more apparent it became that MetaFactory’s members embody the DAO Wei, every day, in the wei they relate to one another and to the world they are building.
+ 
+The DAO Wei is not set in stone. Quite the opposite. I hope that the principles of the DAO Wei will be used as a starting point to riff on, elaborate, and evolve the DAO Wei, together, as a community of believers. 
 
 
 ## Principles of the DAO Wei
+![Be Kind](https://lh5.googleusercontent.com/WXcTUAAArRpEvGDMzFTR2HHDzMQEtDfq3GMDAh3ldjKItUNCRqFNUO1VvLgGgmpGJzPZP9VKQYnVPByl1De1Y6zE4tbzcRK5b8ElL4rpYcKIebuRYsyd8UyQ-QZFjCTFdY5-K7gb)
 
-### [Start with the assumption that you don't know the wei](/notes/Start%20with%20the%20assumption%20that%20you%20don't%20know%20the%20wei.md)
+![cohort approach to onboarding](https://lh4.googleusercontent.com/ju9zPhZpVvBtpG69GJgXDBafKH1KJq3vrdZN1IbKfulh1_ggFc-KK43nlD9V4eYLq8Cz4MiQj0WwEv1uBHN7IriFGfSGy4SWtetEqa0PFHbX1SlFOeH25xgrnLB9HEJ-_m837O-9)
 
-### [Become a student of the wei](/notes/Become%20a%20student%20of%20the%20wei.md)
+### Principle 1 Start with the assumption that you don't know the wei
+[Start with the assumption that you don't know the wei](/notes/Start%20with%20the%20assumption%20that%20you%20don't%20know%20the%20wei.md)
 
-### [Remix your wei](/notes/Remix%20your%20wei.md)
+### Principle 2 Become a student of the wei
+[Become a student of the wei](/notes/Become%20a%20student%20of%20the%20wei.md)
 
-### [Laugh all the wei](/notes/Laugh%20all%20the%20wei.md)
+### Principle 3 Remix your wei
+[Remix your wei](/notes/Remix%20your%20wei.md)
 
-### [Dance with the system](/notes/Dance%20with%20the%20system.md)
+### Principle 4 Laugh all the wei 
+[Laugh all the wei](/notes/Laugh%20all%20the%20wei.md)
 
-### [Symmetry is the wei](/notes/Symmetry%20is%20the%20wei.md)
+### Principle 5 Dance with the system 
+[Dance with the system](/notes/Dance%20with%20the%20system.md)
 
-
-
-
+### Principle 6 Symmetry is the wei 
+[Symmetry is the wei](/notes/Symmetry%20is%20the%20wei.md)
 

@@ -12,7 +12,8 @@ This digital garden is built with [Quartz](https://quartz.jzhao.xyz/). BIG shout
 
 
 ## 💀 About me
-In the Fall of 2020, I read a book that changed my life. [Thinking in Systems](notes/Thinking%20in%20Systems.md) by [Donella Meadows](/notes/Donella%20Meadows.md) has not only been a great companion during the pandemic, but it has also shaped my thinking about crypto and [DAOs](/notes/YODA.md) 
+In the Fall of 2020, I read a book that changed my life. [Book Thinking in Systems](quartz/content/notes/Book%20Thinking%20in%20Systems.md) by [Donella Meadows](/notes/Donella%20Meadows.md)
+has not only been a great companion during the pandemic, but it has also shaped my thinking about crypto and [DAOs](/notes/DAO.md) 
 
 Another book that changed my life is [Transcend The New Science of Self Actualization](/notes/Transcend%20The%20New%20Science%20of%20Self%20Actualization.md) by the psychologist [Scott Barry Kaufman](/notes/Scott%20Barry%20Kaufman.md). Drawing from the teachings of Abraham Maslow, Scott dives into how each one of us can reach our true potential. 
 
@@ -20,7 +21,7 @@ The biggest myth about Maslow is that our needs are arranged in a hierarchy. Som
 > Life isn’t a trek up a summit. It’s more like a vast ocean, full of new opportunities for meaning and discovery but also danger and uncertainty. In this choppy surf, a pyramid is of little use. What we really need is something more flexible and functional: a _sailboat_. 
 ![Sailboat Metaphor](/images/Sailboat%20Metaphor.png) 
 
-Because [life is not a game](notes/life%20is%20not%20a%20game.md) (although if you stay on Twitter too long, it may start to feel that way) so it's important to develop a healthy confidence (not centered around external validation) to help you navigate through the good and the bad times. 
+Because [life is not a game](/notes/life%20is%20not%20a%20game.md) (although if you stay on Twitter too long, it may start to feel that way) so it's important to develop a healthy confidence (not centered around external validation) to help you navigate through the good and the bad times. 
 
 Borrowing from Scott, **this is me. hey, what's up?**
 
@@ -40,9 +41,16 @@ Borrowing from Scott, **this is me. hey, what's up?**
 
 ## 🌲 Evergreen notes
 * [Systems thinking](/notes/Systems%20thinking.md)
+* [DAO](/notes/DAO.md)
 * [DAO Wei](/notes/DAO%20Wei.md)
 * [Relationships](/notes/Relationships.md)
-* [life is not a game](/notes/life%20is%20not%20a%20game.md)
+* [Life is not a game](/notes/life%20is%20not%20a%20game.md)
+* [Reading list](/notes/Reading%20list.md)
+* [It's good to have many unfinished projects](/notes/It's%20good%20to%20have%20many%20unfinished%20projects.md)
+* [Web1 vs. Web2 vs. Web3](/notes/Web1%20vs.%20Web2%20vs.%20Web3.md)
+* []
+
+
 
 
 

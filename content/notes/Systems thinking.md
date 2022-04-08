@@ -4,15 +4,17 @@ date: 2022-04-05
 tags:
 - fruit
 ---
+**Related**[DAO Wei](/notes/DAO%20Wei.md)
 
-## How do you change systems?
-The great systems thinker [Donella Meadows](/notes/Donella%20Meadows.md) says this in her book [Thinking in Systems](notes/Thinking%20in%20Systems.md)
+## TLDR; 
+Systems thinking is based on systems theory, an interdisciplinary study of how independent parts work together to form a whole that is greater than the sum of the parts. 
 
->So how do you change paradigms? Thomas Kuhn, who wrote the seminal book about the great paradigm shifts of science, has a lot to say about that. You keep pointing at the anomalies and failures in the old paradigm. You keep speaking and acting, loudly and with assurance, from the new one. You insert people with the new paradigm in places of public visibility and power. You don’t waste time with reactionaries; rather, you work with active change agents and with the vast middle ground of people who are open-minded.
+## Great systems thinkers
+[Donella Meadows](/notes/Donella%20Meadows) was a proponent of designing systems that are harmonious with the wei of nature. While working at MIT in the early 1970s, Donnella brought a fresh perspective to a field dominated by computer models that attempted to predict the future. She warned about the consequences of over relying on these models and challenged her colleagues to think about systems more holistically, focusing on relationships and value flow.
 
-DAOs are changing how people coordinate and work with one another. 
 
-To achieve system change, you need to change [relationships](/notes/Relationships.md) between the elements of the system.
+
+
 
 
 

@@ -4,7 +4,7 @@ https://noahpinion.substack.com/p/interview-me?s=r
 
 See also: 
 
-#summary 
+** Summary 
 We need to support the middle class. There is a broad group of people who have opportunity. Their parents didn't teach them to have confidence. They didn't go out into the world and achieve. But we should find those people and raise them up. Support them. Our current system is winner take all games. If I win, you lose. 
 
 #quotes 
