@@ -5,7 +5,7 @@ tags:
 - seed
 ---
 
-## TLDR;
+## TL;DR;
 Web 3 is a somewhat hazy and overused concept. It seems to include not only blockchain and cryptocurrency, but also artificial intelligence, and 3D graphics. People are still trying to answer what exactly Web 3 is supposed to be. Perhaps the point is that we don’t know yet, in the same way that no one knew exactly how the Internet would unfold.
 
 ## Musings from the Internet

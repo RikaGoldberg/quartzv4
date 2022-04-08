@@ -47,8 +47,8 @@ Borrowing from Scott, **this is me. hey, what's up?**
 * [Life is not a game](/notes/life%20is%20not%20a%20game.md)
 * [Reading list](/notes/Reading%20list.md)
 * [It's good to have many unfinished projects](/notes/It's%20good%20to%20have%20many%20unfinished%20projects.md)
-* [Web1 vs. Web2 vs. Web3](/notes/Web1%20vs.%20Web2%20vs.%20Web3.md)
-* []
+* [Web1 vs Web2 vs Web3](/notes/Web1%20vs%20Web2%20vs%20Web3.md)
+
 
 
 
