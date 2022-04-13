@@ -7,6 +7,8 @@ tags:
 
 **Related** [YODA](/notes/YODA.md)
 
+[A Reddit thread I started](https://www.reddit.com/r/ethereumnoobies/comments/u327ow/the_dao_wei_an_emerging_philosophy/)
+
 ## Why these principles?
 In crafting the DAO Wei, I was deeply inspired by [Donella Meadows](/notes/Donella%20Meadows) a legendary systems thinker and teacher. Her book [Thinking in Systems](https://www.goodreads.com/book/show/3828902-thinking-in-systems) shaped many of my ideas. I was also inspired by [MetaFactory](/notes/MetaFactory.md) – one of the [DAOs](/notes/DAO.md) in the [MetaCartel DAO](/notes/MetaCartel%20DAO.md) family.
 
@@ -34,9 +36,8 @@ The DAO Wei is not set in stone. Quite the opposite. I hope that the principles 
 ### Principle 4 Laugh all the wei 
 [Laugh all the wei](/notes/Laugh%20all%20the%20wei.md)
 
-### Principle 5 Dance with the system 
-[Dance with the system](/notes/Dance%20with%20the%20system.md)
+### Principle 5 Dance with the wei of the system 
+[Dance with the wei of the system](/notes/Dance%20with%20the%20wei%20of%20the%20system.md)
 
-### Principle 6 Symmetry is the wei 
-[Symmetry is the wei](/notes/Symmetry%20is%20the%20wei.md)
+
 

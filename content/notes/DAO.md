@@ -5,7 +5,13 @@ tags:
 - fruit
 ---
 
-**Related**: [MetaCartel DAO](/notes/MetaCartel%20DAO.md) [Foster DAO](/notes/Foster%20DAO.md)
+**Related**: 
+
+[MetaCartel DAO](/notes/MetaCartel%20DAO.md) 
+
+[Foster DAO](/notes/Foster%20DAO.md) 
+
+[DAO OpeEd](https://beincrypto.com/real-humans-need-to-shape-daos-so-they-dont-become-a-rich-kid-club/)
 
 ## What tis a DAO?
 Stands for "Decentralized Autonomous Organization" which doesn't seem to say much about DAOs, yeah? so I propose that we call them [YODA](/notes/YODA.md). It's more fun this [wei](/notes/DAO%20Wei.md)

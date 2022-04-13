@@ -8,7 +8,6 @@ tags:
 > A cynic is a (wo)man who knows the price of everything, and the value of nothing.
 	-   Oscar Wilde, Irish poet and playwright
     
-
 A cynic’s complaint about MetaFactory may come in a flavor like this: 
 
 “MetaFactory’s products are way overpriced! Sneakers and t-shirts for $200, get out of here…it’s so not worth the price..”
@@ -82,7 +81,7 @@ MetaFactory is also committed to designing an organizational structure aligned w
 
 Most importantly, MetaFactory members have fun working.
 
-As MFL Quarterback Drew Brees said:
+As NFL Quarterback Drew Brees said:
 
 >you can’t compete with someone having fun.
 

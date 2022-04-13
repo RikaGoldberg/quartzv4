@@ -29,10 +29,12 @@ Borrowing from Scott, **this is me. hey, what's up?**
 
 ## 📒 Projects
 * My main focus area right now is researching and writing about DAOs. I received a [grant](https://forum.metacartel.org/t/proposal-an-open-source-anthology-of-stories-about-daos/1331) from MetaCartel DAO to write a nonfiction anthology called [YODA](/notes/YODA.md)
-
-* I also write a weekly newsletter called [Sharing is Caring](notes/sharing%20is%20caring.md)
+* I'm also working on [Foster DAO](/notes/Foster%20DAO.md) and [Foster Diversity and Inclusion Fellowship](/notes/Foster%20Diversity%20and%20Inclusion%20Fellowship.md)
+* I'm learning about and writing Tweet threads for [Crypto, Culture, and Society](https://app.station.express/terminal/ccs/initiative-board)
+* I write a weekly newsletter called [Sharing is Caring](/newsletter)
 
 ## 🧠 Top of mind
+* [Wikipedia Page for DAO Wei](/notes/Wikipedia%20Page%20for%20DAO%20Wei.md)
 * [Metta Gamma Delta $1M fund](/notes/Metta%20Gamma%20Delta%20$1M%20fund.md)
 * [Foster DAO](/notes/Foster%20DAO.md)
 * [Foster Diversity and Inclusion Fellowship](/notes/Foster%20Diversity%20and%20Inclusion%20Fellowship.md)
@@ -45,12 +47,14 @@ Borrowing from Scott, **this is me. hey, what's up?**
 * [DAO Wei](/notes/DAO%20Wei.md)
 * [Relationships](/notes/Relationships.md)
 * [Life is not a game](/notes/life%20is%20not%20a%20game.md)
-* [Reading list](/notes/Reading%20list.md)
 * [It's good to have many unfinished projects](/notes/It's%20good%20to%20have%20many%20unfinished%20projects.md)
 * [Web1 vs Web2 vs Web3](/notes/Web1%20vs%20Web2%20vs%20Web3.md)
+* [How does one achieve great things?](/notes/How%20does%20one%20achieve%20great%20things?.md)
 
 
-
+## 📗 What I'm Reading 
+* [Articles Hopper](/notes/Articles%20Hopper.md)
+* [Books Hopper](/notes/Books%20Hopper.md)
 
 
 
