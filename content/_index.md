@@ -30,7 +30,7 @@ Borrowing from Scott, **this is me. hey, what's up?**
 ## 📒 Projects
 * My main focus area right now is researching and writing about DAOs. I received a [grant](https://forum.metacartel.org/t/proposal-an-open-source-anthology-of-stories-about-daos/1331) from MetaCartel DAO to write a nonfiction anthology called [YODA](/notes/YODA.md)
 * I'm also working on [Foster DAO](/notes/Foster%20DAO.md) and [Foster Diversity and Inclusion Fellowship](/notes/Foster%20Diversity%20and%20Inclusion%20Fellowship.md)
-* I'm learning about and writing Tweet threads for [Crypto, Culture, and Society](https://app.station.express/terminal/ccs/initiative-board)
+* I am writing [Twitter Threads](/ccs) for [Crypto Culture and Society](https://app.station.express/terminal/ccs/initiative-board)
 * I write a weekly newsletter called [Sharing is Caring](/newsletter)
 * [Unfinished drafts](/notes/Unfinished%20drafts.md)
 * [Finished drafts](/notes/Finished%20drafts.md)
@@ -44,6 +44,7 @@ Borrowing from Scott, **this is me. hey, what's up?**
 
 
 ## 🌲 Evergreen notes
+* [Experiments](/notes/Experiments.md)
 * [Systems thinking](/notes/Systems%20thinking.md)
 * [DAO](/notes/DAO.md)
 * [DAO Wei](/notes/DAO%20Wei.md)
@@ -54,7 +55,6 @@ Borrowing from Scott, **this is me. hey, what's up?**
 * [How does one achieve great things?](/notes/How%20does%20one%20achieve%20great%20things?.md)
 * [DAO Advice](/notes/DAO%20Advice.md) 
 * 
-
 
 ## 📗 What I'm Reading 
 * [Articles Hopper](/notes/Articles%20Hopper.md)

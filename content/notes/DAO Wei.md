@@ -18,6 +18,10 @@ I realized there was an opportunity to formalize the DAO Wei, thinking deeper ab
  
 The DAO Wei is not set in stone. Quite the opposite. I hope that the principles of the DAO Wei will be used as a starting point to riff on, elaborate, and evolve the DAO Wei, together, as a community of believers. 
 
+## How can these principles be useful?
+I believe that DAOs are the future of work. More people will contribute to DAOs, earning tokens as rewards. 
+
+It is important to [design token economies well](/CCS/Useful%20metaphors%20to%20design%20token%20economies.md) to incentivize early adopters. As an early adopter of DAOs, you can get a lot of upside. 
 
 ## Principles of the DAO Wei
 ![Be Kind](https://lh5.googleusercontent.com/WXcTUAAArRpEvGDMzFTR2HHDzMQEtDfq3GMDAh3ldjKItUNCRqFNUO1VvLgGgmpGJzPZP9VKQYnVPByl1De1Y6zE4tbzcRK5b8ElL4rpYcKIebuRYsyd8UyQ-QZFjCTFdY5-K7gb)

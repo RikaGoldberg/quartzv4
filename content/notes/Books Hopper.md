@@ -5,6 +5,8 @@ tags:
 - seed
 ---
 
+### [The Body Keeps the Score, Bessel Van Der Kolk, MD](/notes/The%20Body%20Keeps%20the%20Score,%20Bessel%20Van%20Der%20Kolk,%20MD.md)
+
 ### [Book Tao Te Ching, Ursula Le Guin](/notes/Book%20Tao%20Te%20Ching,%20Ursula%20Le%20Guin.md)
 
 ### The Ayn Rand Reader, Ayn Rand, Gary Hull (Editor), Leonard Peikoff
