@@ -1,5 +1,5 @@
 ---
-title: " 🍊 "
+title: " Home 🍊 "
 date: 2022-04-02
 ---
 
@@ -32,6 +32,8 @@ Borrowing from Scott, **this is me. hey, what's up?**
 * I'm also working on [Foster DAO](/notes/Foster%20DAO.md) and [Foster Diversity and Inclusion Fellowship](/notes/Foster%20Diversity%20and%20Inclusion%20Fellowship.md)
 * I'm learning about and writing Tweet threads for [Crypto, Culture, and Society](https://app.station.express/terminal/ccs/initiative-board)
 * I write a weekly newsletter called [Sharing is Caring](/newsletter)
+* [Unfinished drafts](/notes/Unfinished%20drafts.md)
+* [Finished drafts](/notes/Finished%20drafts.md)
 
 ## 🧠 Top of mind
 * [Wikipedia Page for DAO Wei](/notes/Wikipedia%20Page%20for%20DAO%20Wei.md)
@@ -50,6 +52,8 @@ Borrowing from Scott, **this is me. hey, what's up?**
 * [It's good to have many unfinished projects](/notes/It's%20good%20to%20have%20many%20unfinished%20projects.md)
 * [Web1 vs Web2 vs Web3](/notes/Web1%20vs%20Web2%20vs%20Web3.md)
 * [How does one achieve great things?](/notes/How%20does%20one%20achieve%20great%20things?.md)
+* [DAO Advice](/notes/DAO%20Advice.md) 
+* 
 
 
 ## 📗 What I'm Reading 
