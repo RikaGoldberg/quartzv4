@@ -54,8 +54,8 @@ Borrowing from Scott, **this is me. hey, what's up?**
 * [Web1 vs Web2 vs Web3](/notes/Web1%20vs%20Web2%20vs%20Web3.md)
 * [How does one achieve great things?](/notes/How%20does%20one%20achieve%20great%20things?.md)
 * [DAO Advice](/notes/DAO%20Advice.md) 
-* 
-
+* [Sage Writing Advice](/notes/Sage%20Writing%20Advice.md)
+* [Journal]
 ## 📗 What I'm Reading 
 * [Articles Hopper](/notes/Articles%20Hopper.md)
 * [Books Hopper](/notes/Books%20Hopper.md)
