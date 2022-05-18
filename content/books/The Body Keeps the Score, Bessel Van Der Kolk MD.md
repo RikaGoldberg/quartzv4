@@ -1,13 +1,21 @@
 ---
-title: "The Body Keeps the Score"
-date: 2022-04-16
+title: "The Body Keeps the Score, Bessel Van Der Kolk MD"
+date: 2022-04-24
 tags:
-- seed
+- sapling
 ---
+
+### Notes
+* [The statistics](/notes/Trauma%20Statistics.md) for how many people have experienced trauma in the US is astounding. 
+* Traumatic experiences impact our histories and culture and leave people with deep, dark family secrets that are unknowingly passed down through generations. 
+* Traumatic experiences prevent us from experiencing joy and intimacy. They impact our health, too, our biology and immune systems. 
+* Experiencing deep intimacy means being able to mobilize without fear. Trauma patients have a hard time knowing when they are safe. 
+*[Stephen Porges](/notes/Stephen%20Porges.md) has done some great work with healing trauma patients, including developing polyvagal theory. This work inspired Van der Kolk's team to develop treatment for patients in the trauma center. 
+
 
 ### Highlights
 
-Research by the Centers for Disease Control and Prevention has shown that one in five Americans was sexually molested as a child; one in four was beaten by a parent to the point of a mark being left on their body; and one in three couples engages in physical violence. A quarter of us grew up with alcoholic relatives, and one of eight witnessed their mother being beaten or hit. 
+Research by the Centers for Disease Control and Prevention has shown that one in five Americans was sexually molested as a child; one in four was beaten by a parent to the point of a mark being left on their body; and one in three couples engages in physical violence. A quarter of us grew up with alcoholic relatives, and one of eight witnessed their mother being beaten or hit.
 
 As human beings we belong to an extremely resilient species. Since time immemorial we have rebounded from our relentless wars, countless disasters (both natural and man-made), and the violence and betrayal in our own lives. But traumatic experiences do leave traces, whether on a large scale (on our histories and cultures) or close to home, on our families, with dark secrets being imperceptibly passed down through generations. They also leave traces on our minds and emotions, on our capacity for joy and intimacy, and even on our biology and immune systems.
 
@@ -20,6 +28,13 @@ Sherry walked into my office with her shoulders slumped, her chin nearly touchin
 Porges's work has had a profound effect on how my Trauma Center colleagues and I organize the treatment of abused children and traumatized adults. **It's true that we would probably have developed a therapeutic yoga program for women at some point, given that yoga had proved so successful in helping them calm down and get in touch with their dissociated bodies. We would also have been likely to experiment with a theater program in the Boston inner-city schools, with a karate program for rape survivors called impact model mugging, and with play techniques and body modalities like sensory stimulation that have now been used with survivors around the world.** (All of these and more will be explored in part 5.)
 
 But the polyvagal theory helped us understand and explain why all these disparate, unconventional techniques worked so well. It enabled us to become more conscious of combining top-down approaches (to activate social engagement) with bottom-up methods (to calm the physical tensions in the body). We were more open to the value of other age-old, nonpharmacological approaches to health that have long been practiced outside Western medicine, **ranging from breath exercises (pranayama) and chanting to martial arts like qigong to drumming and group singing and dancing.** All rely on inter personal rhythms, visceral awareness, and vocal and facial communication, which help shift people out of fight/flight of danger, and in relaxing. We simply cannot help but respond to these indicators of safety or danger.
+
+
+
+
+
+
+
 
 
 

@@ -15,7 +15,7 @@ Sharing this is a little scary, but it feels necessary to face my fears and get 
 
 On January 27, 2021, I started Sharing is Caring to prove to myself that I could start and maintain a writing habit. My intention was to write primarily for myself, to help make sense of a broken world filled with antiquated advice - urging us to work harder, to keep pushing, to suck it up, and to be strong. This - the advice says - is how you become successful. 
 
-Sure - this is one path to success. And - in an Ayn Randian/Atlas Shrugged world, strong-willed behavior is incentivized. But it also creates many problems - problems with dire consequences that we see all around us today, like overwork, burnout, health, and relationship problems. 
+Sure - this is one path to success. And - in an [Ayn Randian/Atlas Shrugged World](/books/The%20Ayn%20Rand%20Reader,%20Gary%20Hull%20(Editor),%20Leonard%20Peikoff.md), strong-willed behavior is incentivized. But it also creates many problems - problems with dire consequences that we see all around us today, like overwork, burnout, health, and relationship problems. 
 
 As they say, _shit rolls down hill._ We don’t have to succumb to the environment that our parents and grandparents had to survive in. We can do better. We must do better. Our wellbeing, our quality of life, is on the line. 
 

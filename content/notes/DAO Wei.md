@@ -10,7 +10,7 @@ tags:
 [A Reddit thread I started](https://www.reddit.com/r/ethereumnoobies/comments/u327ow/the_dao_wei_an_emerging_philosophy/)
 
 ## Why these principles?
-In crafting the DAO Wei, I was deeply inspired by [Donella Meadows](/notes/Donella%20Meadows) a legendary systems thinker and teacher. Her book [Thinking in Systems](https://www.goodreads.com/book/show/3828902-thinking-in-systems) shaped many of my ideas. I was also inspired by [MetaFactory](/notes/MetaFactory.md) – one of the [DAOs](/notes/DAO.md) in the [MetaCartel DAO](/notes/MetaCartel%20DAO.md) family.
+In crafting the DAO Wei, I was deeply inspired by [Donella Meadows 1](quartz/content/notes/Donella%20Meadows%201.md) a legendary systems thinker and teacher. Her book [Thinking in Systems](https://www.goodreads.com/book/show/3828902-thinking-in-systems) shaped many of my ideas. I was also inspired by [MetaFactory](/notes/MetaFactory.md) – one of the [DAOs](/notes/DAO.md) in the [MetaCartel DAO](/notes/MetaCartel%20DAO.md) family.
 
 Since DAOs are systems - consisting of many relationships bound together by coordination mechanisms that incentivize positive-sum behavior - it is relevant and useful to use [systems thinking](/notes/Systems%20thinking) to understand how [DAOs](/notes/DAO.md) work so we can become more effective contributors and make progress on our shared vision and values.
 

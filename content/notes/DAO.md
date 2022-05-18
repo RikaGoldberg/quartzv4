@@ -13,8 +13,24 @@ tags:
 
 [DAO OpeEd](https://beincrypto.com/real-humans-need-to-shape-daos-so-they-dont-become-a-rich-kid-club/)
 
-## What tis a DAO?
-Stands for "Decentralized Autonomous Organization" which doesn't seem to say much about DAOs, yeah? so I propose that we call them [YODA](/notes/YODA.md). It's more fun this [wei](/notes/DAO%20Wei.md)
+
+# What tis a DAO?
+## TL;DR
+DAO stands for decentralized autonomous organization. This is not super helpful for understanding, so silly me proposes we call DAOs: [YODA](/notes/YODA.md). It's more fun this [wei](/notes/DAO%20Wei.md)
+
+DAOs enable people to organize to achieve a shared mission, and are possible because of the trustless nature of Ethereum that permits groups of strangers who meet on the Internet to:
+
+1.  **create and maintain a transparent and shared treasury**
+    
+2.  **submit proposals for how to spend treasury monies (e.g., pay members, fundraise, give grants)**
+    
+3.  **cast an immutable vote yay/nay for a proposal**
+    
+4.  **experiment with emergent, non-hierarchical organizational structures and create models for the future of work**
+    
+5.  **have fun**
+
+## DAOs as a system
 
 Everyone is curious about what exactly a DAO is and a lot of people attempt to label it with a label they already know. For example, a DAO is a club with a shared bank account or a DAO is a co-op or a DAO is a decentralized entity. 
 
@@ -30,7 +46,8 @@ Communities are super important. DAOs are a vehicle for changing the world towar
 
 ![online communities](images/online%20communities.png)
 
-DAOs are online communities that bring people together and spread good vibes. In the past, corporations would do this. Society relied on the structure of corporations to bring people together and give them money and resources to solve problems in society. Today, we also have [DAOs] to do this. Society relies on DAOs to coordinate groups of people and give them money and resources so they can solve problems. DAOs enable a fairer system by aligning incentives better than corporations, resulting in more people acquiring wealth while working on problems that they care about with people whom they care about.
+Corporations used to be the default way to bring people together, pool, and allocate resources. Society relied on the structure of corporations to bring people together and give them money and resources to solve problems in society. Today, we also have DAOs to serve this function. Society relies on DAOs to coordinate groups of people and give them money and resources so they can solve problems. DAOs enable a fairer system by aligning incentives better than corporations, resulting in more people acquiring wealth while working on problems that they care about with people whom they care about.
+
 
 
 

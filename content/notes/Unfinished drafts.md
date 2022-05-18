@@ -7,7 +7,7 @@ tags:
 
  **Related**: [It's good to have many unfinished projects](/notes/It's%20good%20to%20have%20many%20unfinished%20projects.md)
 
-[How does one achieve great things?](/notes/How%20does%20one%20achieve%20great%20things?.md)
+[How does one achieve great things? 1](quartz/content/notes/How%20does%20one%20achieve%20great%20things?%201.md)
 - Woof, this is a beast. I have sat down now, for two long writing sessions, to write this piece, but it's not ripe yet. No problem. It's a sapling now. 
 
 [Systems thinking](/notes/Systems%20thinking.md)

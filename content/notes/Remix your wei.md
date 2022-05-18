@@ -2,7 +2,7 @@
 title: "Remix your wei"
 date: 2022-04-02
 tags:
-- seed
+- fruit
 ---
 
 > Cognitive exploration - which can be defined as a general curiosity about information and a tendency toward complexity and flexibility in information processing - enables us to be curious about confusing situations, increasing the likelihood that we will find new meaning in the seemingly incomprehensible.

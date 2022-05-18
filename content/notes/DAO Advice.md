@@ -5,7 +5,7 @@ tags:
 - seed
 ---
 
- **A collective consciousnes [DAO Wei](/notes/DAO%20Wei.md) is is percolating on the Internet. A whole lot of good stuff can be learned if you know the right places to look.**
+ **A collective consciousness [DAO Wei](/notes/DAO%20Wei.md) is is percolating on the Internet. A whole lot of good stuff can be learned if you know the right places to look.**
 
 ## Tweets from @DAOFen
 

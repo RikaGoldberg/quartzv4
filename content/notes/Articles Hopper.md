@@ -7,10 +7,10 @@ tags:
 
 ## [Costly Signals of Skill](https://www.flyingpenguins.io/p/costly-signals-of-skill?s=r&curius=1599)
 
-### Highlights
-Instead of following that path, I’ve worked for a number of relatively unknown startups focused on big and difficult problems I care about. I’m absolutely not com
+### Notes
 
-plaining — it was via privilege that I could be in the position to make those decisions. But in order to allow more people to pursue entrepreneurial paths, we have to make the reputation system less biased, less based on wins and losses and more based on the quality of the work.
+### Highlights
+Instead of following that path, I’ve worked for a number of relatively unknown startups focused on big and difficult problems I care about. I’m absolutely not com plaining — it was via privilege that I could be in the position to make those decisions. But in order to allow more people to pursue entrepreneurial paths, we have to make the reputation system less biased, less based on wins and losses and more based on the quality of the work.
 
 It’s also an answer to the question of “what’s the next iteration of LinkedIn” except the answer isn’t an iteration but a replacement of the existing system entirely.
 

@@ -2,7 +2,7 @@
 title: "Become a student of the wei"
 date: 2022-04-02
 tags:
-- seed
+- fruit
 ---
 
 >**Adler distinguished between striving for power and striving for mastery and overcoming obstacles. He argued that both offer ways of satisfying our “striving for perfection” but that the mastery drive is more about overcoming one’s personal challenges than wielding power over others.
