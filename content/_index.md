@@ -1,5 +1,5 @@
 ---
-title: "My Public Notes"
+title: "Public Notes"
 ---
 
 ## About These Notes
