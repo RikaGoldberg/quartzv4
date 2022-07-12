@@ -1,67 +1,83 @@
 ---
-title: " Rika's digital garden 🍊 "
-date: 2022-04-02
+title: "My Public Notes"
 ---
 
-## 🤖 Welcome to my digital garden
-This is a space to sharpen my thinking through writing and building in public. Everything in here is evergreen, meaning I am constantly iterating and revising as I get new information and make novel connections. If you notice that something is factually wrong, please let me know 🙏
+## About These Notes
+Hi Readers, 
 
-If my thinking resonates with you and/or you want to learn how to create your own digital garden, feel free to reach out to me on [Twitter](https://twitter.com/RikaGoldberg). You can also [schedule a coffee chat](https://calendly.com/rikagoldberg628/30min?back=1&month=2022-04) with me. If you live in the Bay Area, I am very down to meet up IRL because in-person coffee chats are the best. 
+Welcome to my public notes where I write about finance, psychology, systems theory, and Web3/Crypto.
 
-This digital garden is built with [Quartz](https://quartz.jzhao.xyz/). BIG shout out to [Jackie Zhao](https://jzhao.xyz/) for his time and skills. 🙏
+I know what you're probably thinking: Web3/Crypto is a Ponzi scheme. A burning house of cards. 
+
+Maybe. 
+
+I'm neither God nor a fortune teller. My role is to read, research, and write. 
+
+I welcome skepticism. 
+
+Most importantly, I invite debate and discourse. My notes are a starting point for healthy conversation. 
+
+## Definitions / Big Picture Notes 🌲
+* [Systems thinking](/notes/Systems%20thinking.md)
+* [DAO](/notes/DAO.md)
+* [DAO Wei](/notes/DAO%20Wei.md)
+* [Decentralized Finance](/notes/Decentralized%20Finance.md)
+* [Web1 vs Web2 vs Web3](/notes/Web1%20vs%20Web2%20vs%20Web3.md)
+* [DAO Advice](/notes/DAO%20Advice.md) 
+* [Writing Advice](/notes/Writing%20Advice.md)
+
+## Ideas / Blurbs
+* [Communes, Crypto, and DAOs](/notes/Communes,%20Crypto,%20and%20DAOs.md)
+
+## Books
 
 
-## 💀 About me
-In the Fall of 2020, I read a book that changed my life. [Thinking in Systems](quartz/content/books/Thinking%20in%20Systems.md) by [Donella Meadows](/notes/Donella%20Meadows.md)
-has not only been a great companion during the pandemic, but it has also shaped my thinking about crypto and [DAOs](/notes/DAO.md) 
-
-Another book that changed my life is [Transcend The New Science of Self Actualization](/notes/Transcend%20The%20New%20Science%20of%20Self%20Actualization.md) by the psychologist [Scott Barry Kaufman](/notes/Scott%20Barry%20Kaufman.md). Drawing from the teachings of Abraham Maslow, Scott dives into how each one of us can reach our true potential. 
-
-The biggest myth about Maslow is that our needs are arranged in a hierarchy. Somewhere, somehow, some wires got crossed and schools started to teach kids that our needs are hierarchical. Scott writes: 
+## 💀 Personal Philosophy 
+Borrowing from the late Abraham Maslow and the living Scott Barry Kaufman, 
 > Life isn’t a trek up a summit. It’s more like a vast ocean, full of new opportunities for meaning and discovery but also danger and uncertainty. In this choppy surf, a pyramid is of little use. What we really need is something more flexible and functional: a _sailboat_. 
+
 ![Sailboat Metaphor](/images/Sailboat%20Metaphor.png) 
 
-Because [life is not a game](/notes/life%20is%20not%20a%20game.md) (although if you stay on Twitter too long, it may start to feel that way) so it's important to develop a healthy confidence (not centered around external validation) to help you navigate through the good and the bad times. 
+Keep an active archive because we are all in the state of becoming. 
 
-Borrowing from Scott, **this is me. hey, what's up?**
+In order to navigate through the good and the bad times, it's important to develop a healthy confidence -- showing up in a way that is not centered around external validation.
 
 ![healthy confidence](/images/healthy%20confidence.png)
 
-## 📒 Projects
-* My main focus area right now is researching and writing about DAOs. I received a [grant](https://forum.metacartel.org/t/proposal-an-open-source-anthology-of-stories-about-daos/1331) from MetaCartel DAO to write a nonfiction anthology called [YODA](/notes/YODA.md)
-* I'm also working on [Foster DAO](/notes/Foster%20DAO.md) and [Foster Diversity and Inclusion Fellowship](/notes/Foster%20Diversity%20and%20Inclusion%20Fellowship.md)
-* I am writing [Twitter Threads](/ccs) for [Crypto Culture and Society](https://app.station.express/terminal/ccs/initiative-board)
-* I write a weekly newsletter called [Sharing is Caring](/newsletter)
+## 📒 Writing samples
+* [A nonfiction anthology about DAOs](/notes/YODA.md)
+* [Sharing is Caring Newsletter](www.newsletter.rikagoldberg.com)
+* [DAO OpeEd](https://beincrypto.com/real-humans-need-to-shape-daos-so-they-dont-become-a-rich-kid-club/)
+* [Foster DAO](www.foster.co)
+* [Twitter Threads](/ccs) for [Crypto Culture and Society](https://app.station.express/terminal/ccs/initiative-board)
 * [Unfinished drafts](/notes/Unfinished%20drafts.md)
 * [Finished drafts](/notes/Finished%20drafts.md)
 
+## Projects
+* [Founding team member of Foster DAO -- a writers' collective](/notes/Foster%20DAO.md) 
+* Core contributor to DAOHaus -- infrastructure and tooling for DAOs
+* Core contributor to Metafactory-- decentralized digiphysical brand
+* Core contributor to Metacartel -- grants giving DAO
+
 ## 🧠 Top of mind
 * [Researching Public Goods](/notes/Researching%20Public%20Goods.md)
-* [Foster DAO](/notes/Foster%20DAO.md)
-* [Decentralized Finance](/notes/Decentralized%20Finance.md)
+* 
 
 ## ❔Research Questions
-- Will opening up platforms result in more innovation?
+- [Will opening up platforms result in more innovation](/notes/Will%20opening%20up%20platforms%20result%20in%20more%20innovation.md)
 - What is the role of speculation in healthy markets? 
 -  [How to use Reddit](/notes/How%20to%20use%20Reddit.md) 
 - [How does one achieve great things?](/notes/How%20does%20one%20achieve%20great%20things?.md)
 - Do I want to start emailing gentle, kind, ambitious authors (e.g, authors of why greatness cannot be planned.)
+- [What is a better way to think about money?](/notes/What%20is%20a%20better%20way%20to%20think%20about%20money?.md) 
+- [How can Brene Brown's vulnerability research be applied to personal finance?](/notes/How%20can%20Brene%20Brown's%20vulnerability%20research%20be%20applied%20to%20personal%20finance?.md)
+- Who are today's famous powerful women writers?
 
-## 🌲 Evergreen notes
-* [Experiments](/notes/Experiments.md)
-* [Systems thinking](/notes/Systems%20thinking.md)
-* [DAO](/notes/DAO.md)
-* [DAO Wei](/notes/DAO%20Wei.md)
-* [Relationships](/notes/Relationships.md)
-* [Life is not a game](/notes/life%20is%20not%20a%20game.md)
-* [It's good to have many unfinished projects](/notes/It's%20good%20to%20have%20many%20unfinished%20projects.md)
-* [Web1 vs Web2 vs Web3](/notes/Web1%20vs%20Web2%20vs%20Web3.md)
-* [DAO Advice](/notes/DAO%20Advice.md) 
-* [Sage Writing Advice](/notes/Sage%20Writing%20Advice.md)
+
 
 ## 🌼 Garden
 This is how I take ideas from seed to fruit. 
-
+![Oak Tree](/images/Pasted%20image%2020220629121432.png)
 * [inbox](/tags/inbox)
 
 * [seed](/tags/seed)
@@ -87,5 +103,10 @@ All of these newsletters use the power of words to share stories that inspire, p
 * [Wikipedia Page for DAO Wei](/notes/Wikipedia%20Page%20for%20DAO%20Wei.md)
 * [Metta Gamma Delta $1M fund](/notes/Metta%20Gamma%20Delta%20$1M%20fund.md)
 * [Foster Diversity and Inclusion Fellowship](/notes/Foster%20Diversity%20and%20Inclusion%20Fellowship.md)
+* [Experiments](/notes/Experiments.md)
+
+This website is built with [Quartz](https://quartz.jzhao.xyz/).
+
+[Twitter](https://twitter.com/RikaGoldberg)
 
 

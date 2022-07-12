@@ -21,7 +21,7 @@ III. Doing the DAOWei
 	1. "Before you disturb the system in any way, watch how it behaves. If it’s a piece of music or a whitewater rapid or a fluctuation in a commodity price, study its beat. If it’s a social system, watch it work. Learn its history. Ask people who’ve been around a long time to tell you what happened."
 	2. As I was studying the beat of MetaFactory to write this story, new chord progressions kept emerging - surely, a result of the uniqueness and diversity of MetaFactory - a beautiful testament to the value it places on autonomy and self-organization. 
 	3. I want to give you a holistic, 360, understanding of MetaFactory - including all of its wonderful quirks and weirdnesses - but to do so, we must first get through the boring activity of aligning on key terms. Bear with me, please. 
-		1. .Let's align on some definitions before moving forward with what is a [[quartz/notes_ignore/decentralized brand]] 
+		1. .Let's align on some definitions before moving forward with what is a [[quartz/content/notes/decentralized brand]] 
 			1. A [[quartz/notes_ignore/brand]] is a name, term, design, or symbol, that distinguishes one seller’s goods or services from those of other sellers. 
 			2. [[quartz/notes_ignore/decentralized]]means the process by which the activities of an organization, particularly those regarding planning and decision making, are distributed or delegated away from a central, authoritative location or group.
 			3. Let's look at what branding is from a historical lens: 
@@ -31,7 +31,7 @@ III. Doing the DAOWei
 				1. A [[quartz/notes_ignore/brand community]] is a brand community is a group of like-minded people who form an attachment to a brand or product.
 				2. A [[quartz/notes_ignore/brand economy]] is a marketplace where a brand’s assets can be bought and sold
 			5. Finally, we have a **starter** definition of decentralized brand that I will expand on so you get a holistic, 360 degree view of MetaFactory. 
-				1. A starter definition of a [[quartz/notes_ignore/decentralized brand]] is an apparel marketplace that sells dope products that are deeply valued by its community of loyal followers. The community makes decisions about which products are sold and the direction of the marketplace, without managerial oversight or a central approval authority. 
+				1. A starter definition of a [[quartz/content/notes/decentralized brand]] is an apparel marketplace that sells dope products that are deeply valued by its community of loyal followers. The community makes decisions about which products are sold and the direction of the marketplace, without managerial oversight or a central approval authority. 
 	IV.  SwagDAO: The Origin of MetaFactory DAO
 			1. I want you to introduce you to [[quartz/notes_ignore/Drew Harding]] the co-founder of MetaFactory DAO, and the creator of SwagDAO. 
 			2. [[quartz/notes_ignore/swagDAO]] was the first attempt at transforming crypto culture with fashion. The ground for transformation was extremely fertile: the existing fashion was barebones consisting of company swag like t-shirts. 
@@ -48,7 +48,7 @@ III. Doing the DAOWei
 					1. He needed cryptoeconomic designers who could model these principles and he would also need seasoned Solidity engineers to write the smart contract code whilst ensuring the highest security so funds are kept secure. 
 		V. “Physicists often do [[thought experiments]]. Einstein shoots a light ray through a moving elevator; Schrodinger puts a cat in a box. There is no elevator, no cat, no box. The experiment is performed, the question is asked, in the mind. Einstein's elevator, Schrodinger's cat, my Gethenians, are simply a way of thinking."
 			- [[Ursula Le Guin]]  from her essay: [[quartz/notes_ignore/Is gender necessary?]]about her book, [[quartz/notes_ignore/Left Hand of Darkness]]
-			1. MetaFactory, in it’s short existence, since 2020, has already conducted tons of [[thought experiments]] - and has been well on its way to achieving its mission of becoming a [[quartz/notes_ignore/decentralized brand]]. 
+			1. MetaFactory, in it’s short existence, since 2020, has already conducted tons of [[thought experiments]] - and has been well on its way to achieving its mission of becoming a [[quartz/content/notes/decentralized brand]]. 
 		VI. The DAOWei: Appreciate beauty 
 			1. 	If something is ugly, say so. If it is tacky, inappropriate, out of proportion, unsustainable, morally degrading, ecologically impoverishing, or humanly demeaning, don’t let it pass. Don’t be stopped by the “if you can’t define it and measure it, I don’t have to pay attention to it ploy.” **No one can define or measure justice, democracy, security, freedom, truth or love. No one can define or measure any value.** **But if no one speaks up for them, if systems aren’t designed to produce them, if we don’t speak about them and point toward their presence or absence, they will cease to exist.** #quotes 
 				-  [[quartz/notes_ignore/donnellameadows]][[quartz/notes_ignore/Thinking in Systems]]

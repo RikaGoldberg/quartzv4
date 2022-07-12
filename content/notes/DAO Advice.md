@@ -2,7 +2,7 @@
 title: "DAO Advice"
 date: 2022-04-14
 tags:
-- seed
+- Sapling
 ---
 
  **A collective consciousness [DAO Wei](/notes/DAO%20Wei.md) is is percolating on the Internet. A whole lot of good stuff can be learned if you know the right places to look.**

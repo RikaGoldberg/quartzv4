@@ -2,21 +2,16 @@
 title: "DAO Wei"
 date: 2022-04-05
 tags:
-- fruit
+- Sapling
 ---
 
-**Related** [YODA](/notes/YODA.md)
+**Related to** [YODA](/notes/YODA.md)
 
-[A Reddit thread I started](https://www.reddit.com/r/ethereumnoobies/comments/u327ow/the_dao_wei_an_emerging_philosophy/)
+[A Reddit thread](https://www.reddit.com/r/ethereumnoobies/comments/u327ow/the_dao_wei_an_emerging_philosophy/)
 
-## Why these principles?
-In crafting the DAO Wei, I was deeply inspired by [Donella Meadows 1](quartz/content/notes/Donella%20Meadows%201.md) a legendary systems thinker and teacher. Her book [Thinking in Systems](https://www.goodreads.com/book/show/3828902-thinking-in-systems) shaped many of my ideas. I was also inspired by [MetaFactory](/notes/MetaFactory.md) – one of the [DAOs](/notes/DAO.md) in the [MetaCartel DAO](/notes/MetaCartel%20DAO.md) family.
+## Principles
+The DAO Wei is my attempt to formalize the philosophy of DAOs. This is continually evolving as DAOs are shaped. 
 
-Since DAOs are systems - consisting of many relationships bound together by coordination mechanisms that incentivize positive-sum behavior - it is relevant and useful to use [systems thinking](/notes/Systems%20thinking) to understand how [DAOs](/notes/DAO.md) work so we can become more effective contributors and make progress on our shared vision and values.
-
-I realized there was an opportunity to formalize the DAO Wei, thinking deeper about what principles would be helpful for DAO contributors, including myself, as I, like you, start to contribute to more DAOs and find my wei. And the more research that I did on MetaFactory, the more apparent it became that MetaFactory’s members embody the DAO Wei, every day, in the wei they relate to one another and to the world they are building.
- 
-The DAO Wei is not set in stone. Quite the opposite. I hope that the principles of the DAO Wei will be used as a starting point to riff on, elaborate, and evolve the DAO Wei, together, as a community of believers. 
 
 ## How can these principles be useful?
 I believe that DAOs are the future of work. More people will contribute to DAOs, earning tokens as rewards. 

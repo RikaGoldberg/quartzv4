@@ -23,5 +23,15 @@ I want to experiment with full-day phone breaks. This means no phone in the even
 At the beginning of each day, I want to write down important phone/text conversations I expect to have and then schedule a time to intentionally check my phone *only* for that conversation. 
 
 ### Increase reach on Twitter
-I want to write meaningful tweets that align with my world view and beliefs, with the intention of increasing followers and getting more visibility, while not falling prey to Twitter's gamification tactics attempting to turn me into a one trick pony. I wrote about this in my newsletter 
+I want to write meaningful tweets that align with my world view and beliefs, with the intention of increasing followers and getting more visibility, while not falling prey to Twitter's gamification tactics attempting to turn me into a one trick pony. I wrote about this in my newsletter.
+
+### Get more plugged in to Web3 writing
+July 27, 2021
+
+I am drawn to lore, storytelling. DAOHaus. 
+
+https://enchanted.network/working-with-lore/discursive-landscapes?curius=1599
+ - Pattern language
+ - Shared understanding of the work that needs to be done
+ - 
 

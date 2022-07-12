@@ -6,13 +6,13 @@ tags:
 ---
 
 **Courage**
-“Heroics is important and we certainly need heroes, but I think we’ve lost touch with the idea that speaking honestly and openly about who we are, about what we’re feeling, and about our experiences (good and bad) is the definition of courage.”
+“Heroics is important and we certainly need heroes, but I think **we’ve lost touch with the idea that speaking honestly and openly about who we are, about what we’re feeling, and about our experiences (good and bad) is the definition of courage.”**
 
 **Compassion**
-“In her book The Places That Scare You, Chödrön writes, “When we practice generating compassion, we can expect to experience the fear of our pain. Compassion practice is daring. It involves learning to relax and allow ourselves to move gently toward what scares us.”
+“In her book The Places That Scare You, Pema Chödrön writes, **“When we practice generating compassion, we can expect to experience the fear of our pain. Compassion practice is daring. It involves learning to relax and allow ourselves to move gently toward what scares us.”**
 
 **Boundaries and Compassion**
-“Here’s what I learned: The heart of compassion is really acceptance. The better we are at accepting ourselves and others, the more compassionate we become. Well, it’s difficult to accept people when they are hurting us or taking advantage of us or walking all over us. This research has taught me that if we really want to practice compassion, we have to start by setting boundaries and holding people accountable for their behavior.”
+“Here’s what I learned: **The heart of compassion is really acceptance.** **The better we are at accepting ourselves and others, the more compassionate we become.** **Well, it’s difficult to accept people when they are hurting us or taking advantage of us or walking all over us. This research has taught me that if we really want to practice compassion, we have to start by setting boundaries and holding people accountable for their behavior.”**
 
 “From Washington, DC, and Wall Street to our own schools and homes, I think this rage-blame-too-tired-and-busy-to-follow-through mind-set is why we’re so heavy on self-righteous anger and so low on compassion.”
 
