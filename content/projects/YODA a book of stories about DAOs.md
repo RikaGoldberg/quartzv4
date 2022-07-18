@@ -1,6 +1,7 @@
 ---
 title: "YODA a book of stories about DAOs"
 date: 2022-04-02
+tags: project
 ---
 
 ![hi](projects/YODA.png)

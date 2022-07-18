@@ -3,11 +3,15 @@ title: "Communes, Crypto, and DAOs"
 date: 2022-07-12
 tags:
 - Seed
-
 enableToc: false
 ---
 
-## From Jenny Odell's book *How to Do Nothing*
+## DAO Proposal 
+[Foster Proposal: Meta Review of Governance](https://docs.google.com/document/d/1QNgc3sx_1x12Fi2KcWCT1CAvHigq3xrTgt9zycZPZNk/edit?usp=sharing)
+
+See also: [Foster DAO](/notes/Foster%20DAO.md)
+
+## Highlights from Jenny Odell's book *How to Do Nothing*
 
 > Things may seem bad now, but some would argue that the la 1960s were worse. Nixon was president, the Vietnam War war raging, Martin Luther King, Jr., and Robert Kennedy were assassinated, and unarmed student protestors were shot at Kent State destroy Signs of environmental devastation were accumulating, and large scale urban redevelopment projects and freeways were ing the fabric of "blighted" ethnic neighborhoods. All the while successful adulthood was pictured as a two-car garage house in a white suburb. To young people, this looked like a sham, and they were ready to quit.
    >**Between 1965 and 1970, more than a thousand communal groups formed across the country. The writer Robert Houriet, who visited fifty American "communal experiments" between 1968 and 1970. described this movement as "the gut reaction of a generation" who saw no other way to resist:**
@@ -21,4 +25,14 @@ enableToc: false
 	> Politics inevitably surfaced, sometimes like an unwelcome guest a house party. At Bryn Athyn, a short-lived commune near Stratford Vermont, Houriet describes the general apathy of the members when one of them tries to figure out the legal details of buying the farm. And when conflicts arose, a political process was notably lacking.
 
 
+
+
+## Notes
+Are DAOs as idealistic as communes? Are DAOs disgruntled employees, battered by the system, who are refusing by creating something new from scratch..from the bottom up...
+
+The difference is that DAOs aren't reinventing the wheel. They are leveraging existing governance structures. Principles from democracy...
+
+Decentralized cities and countries are too mechanistic, like Walden II. Technocratic regimes are not good. 
+
+The privatization of everything is also not good. 
 

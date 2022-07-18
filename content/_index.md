@@ -2,22 +2,26 @@
 title: "Public Notes"
 ---
 
-## About These Notes
+## Introduction 🫖
 Hi Readers, 
 
-Welcome to my public notes where I write about finance, psychology, systems theory, and Web3/Crypto.
+Welcome to my public notes. I write about finance, psychology, systems theory,  Web3/Crypto, and the craft of writing. 
 
-I know what you're probably thinking: Web3/Crypto is a Ponzi scheme. A burning house of cards. 
+You're probably thinking: Web3/Crypto is a Ponzi scheme. A burning house of cards. 
 
 Maybe. 
 
-I'm neither God nor a fortune teller. My role is to read, research, and write. 
+I'm not a fortune teller. 
 
-I welcome skepticism. 
+My role is to share my experience and knowledge to help you form your own perspective. 
 
-Most importantly, I invite debate and discourse. My notes are a starting point for healthy conversation. 
+I read, research, and write. 
 
-## Definitions / Big Picture Notes 🌲
+Skepticism and discourse are highly encouraged. 
+
+Let's talk. 
+
+## Big Picture Notes 🫶
 * [Systems thinking](/notes/Systems%20thinking.md)
 * [DAO](/notes/DAO.md)
 * [DAO Wei](/notes/DAO%20Wei.md)
@@ -25,9 +29,11 @@ Most importantly, I invite debate and discourse. My notes are a starting point f
 * [Web1 vs Web2 vs Web3](/notes/Web1%20vs%20Web2%20vs%20Web3.md)
 * [DAO Advice](/notes/DAO%20Advice.md) 
 * [Writing Advice](/notes/Writing%20Advice.md)
+* [The Metaverse - A B2B Play](/notes/The%20Metaverse%20-%20A%20B2B%20Play.md)
 
-## Ideas / Blurbs
+## Drafts in Progress
 * [Communes, Crypto, and DAOs](/notes/Communes,%20Crypto,%20and%20DAOs.md)
+* [How does one achieve great things?](/notes/How%20does%20one%20achieve%20great%20things?.md)
 
 ## Books
 
