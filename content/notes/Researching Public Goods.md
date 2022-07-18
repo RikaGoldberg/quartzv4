@@ -6,16 +6,10 @@ tags:
 ---
 
 See also: 
-[Decentralized Finance](/notes/Decentralized%20Finance.md)
+* [Decentralized Finance](/notes/Decentralized%20Finance.md)
 
-### Personal thoughts
-Relationships can be public goods. 
+* [Meta Review of Governance](https://docs.google.com/document/d/1QNgc3sx_1x12Fi2KcWCT1CAvHigq3xrTgt9zycZPZNk/edit?usp=sharing) 
 
-Related to my personal exploration of: 
-
-What are the paths to success without playing the competitive, break my back for someone else, game? how can one think differently? what new models/playbooks are out there? there are no shortcuts, but what is being lazy if not shortcuts? shortcuts are learning from others.
-
-### Relevant reading and notes
 
 [How can we develop transformative tools for thought?](/articles/How%20can%20we%20develop%20transformative%20tools%20for%20thought?.md)
 
