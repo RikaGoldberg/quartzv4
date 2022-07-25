@@ -3,8 +3,11 @@ title: "Communes, Crypto, and DAOs"
 date: 2022-07-12
 tags:
 - Seed
+- Inbox
 enableToc: false
 ---
+
+See also: [Co-Ops and DAOs](/notes/Co-Ops%20and%20DAOs.md)
 
 ## DAO Proposal 
 [Foster Proposal: Meta Review of Governance](https://docs.google.com/document/d/1QNgc3sx_1x12Fi2KcWCT1CAvHigq3xrTgt9zycZPZNk/edit?usp=sharing)

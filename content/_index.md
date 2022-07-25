@@ -2,26 +2,18 @@
 title: "Public Notes"
 ---
 
-## Introduction 🫖
-Hi Readers, 
+## What is a digital garden?
+A digital garden is a space where my ideas can grow from seed to sapling to fruit. 
 
-Welcome to my public notes. I write about finance, psychology, systems theory,  Web3/Crypto, and the craft of writing. 
+* [seed](/tags/seed)
+* [sapling](/tags/sapling)
+* [fruit](/tags/fruit)
 
-You're probably thinking: Web3/Crypto is a Ponzi scheme. A burning house of cards. 
+ I use an inbox system to help me remember to return to and flesh out ideas. 
 
-Maybe. 
+* [inbox](/tags/inbox)
 
-I'm not a fortune teller. 
-
-My role is to share my experience and knowledge to help you form your own perspective. 
-
-I read, research, and write. 
-
-Skepticism and discourse are highly encouraged. 
-
-Let's talk. 
-
-## Big Picture Notes 🫶
+## Entrypoints
 * [Systems thinking](/notes/Systems%20thinking.md)
 * [DAO](/notes/DAO.md)
 * [DAO Wei](/notes/DAO%20Wei.md)
@@ -47,6 +39,7 @@ In order to navigate through the good and the bad times, it's important to devel
 ## Drafts in Progress
 * [Communes, Crypto, and DAOs](/notes/Communes,%20Crypto,%20and%20DAOs.md)
 * [How does one achieve great things?](/notes/How%20does%20one%20achieve%20great%20things?.md)
+* [Co-Ops and DAOs](/notes/Co-Ops%20and%20DAOs.md)
 
 
 ## Published Writing 📒 
@@ -63,22 +56,13 @@ In order to navigate through the good and the bad times, it's important to devel
 
 
 
-## ❔Research Questions
-- [Will opening up platforms result in more innovation](/notes/Will%20opening%20up%20platforms%20result%20in%20more%20innovation.md)
-- What is the role of speculation in healthy markets? 
--  [How to use Reddit](/notes/How%20to%20use%20Reddit.md) 
 
 
 
 
 
 
-## Digital Garden 🌼
-![Oak Tree](/images/Pasted%20image%2020220629121432.png)
-* [inbox](/tags/inbox)
-* [seed](/tags/seed)
-* [sapling](/tags/sapling)
-* [fruit](/tags/fruit)
+
 
 ## Books
 * [Book Highlights](/notes/Books%20Hopper.md)
