@@ -5,6 +5,8 @@ tags:
 - seed
 ---
 
+#inbox 
+
 Thinking about sub DAOs
 
 

@@ -3,7 +3,6 @@ title: "🥼 Experiments"
 date: 2022-04-16
 tags:
 - seed
-- inbox
 ---
 Experiments are my way to see reality more clearly by designing my work in the present, rather than trying to predict and plan for the future. 
 

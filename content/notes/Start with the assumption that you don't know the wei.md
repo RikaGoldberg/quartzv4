@@ -40,7 +40,7 @@ Your goal should be to understand the DAO’s structure: the [Relationships](/no
 >In any complex endeavor, you can rarely forecast ahead of time which of several shared foundations will be the optimal one: you need only something that is ‟good enough,ˮ and let emergence guide you from there.
 	- [Google, Published Patterns, Self-organizing team](https://sites.google.com/a/scrumplop.org/published-patterns/product-organization-pattern-language/development-team/self-organizing-team)
 
-Nature follows the system principle of self-organization. We see this principle at work in animal swarming, from how birds flock to how ants work in groups.
+Nature follows the system principle of [Self-Organization](/notes/Self-Organization.md). We see this principle at work in animal swarming, from how birds flock to how ants work in groups.
 
 Let’s look at how ants organize.
 
@@ -48,11 +48,11 @@ Let’s look at how ants organize.
 
 Ants organize and work together beautifully and harmoniously by reacting to stimuli in their environments, listening to their senses, and smelling their wei around. Intuition is their guide.
 
-Mother Nature designed ant colonies to be leaderless. The queen ant, the mother of all the ants, does not provide any guidance to her babies. Instead, she allows them to follow their instincts and trust their scent, in turn creating space for the wonder of [emergence](https://en.wikipedia.org/wiki/Emergence).
+Mother Nature designed ant colonies to be leaderless. The queen ant, the mother of all the ants, does not provide any guidance to her babies. Instead, she allows them to follow their instincts and trust their scent, in turn creating space for the wonder of [emergence](/notes/emergence.md)
 
 An ant colony functions like a factory where each ant specializes in a certain task, deciding what the task is based on personal preferences, interactions with other ants, and cues in the environment. 
 
-This type of [organizational structure](/notes/Organizational%20structure.md)  creates a super-organism. Ants, together, can accomplish extraordinary feats, like converting resources into more ants, hunting, and protecting the colony. These feats would be impossible for a solitary ant.
+This type of [organizational structure](/notes/Organizational%20structure.md) creates a super-organism. Ants, together, can accomplish extraordinary feats, like converting resources into more ants, hunting, and protecting the colony. These feats would be impossible for a solitary ant.
 
 ## MetaFactory Case Study
 MetaFactory DAO members are like a colony of ants. Members effectively organize to become a superorganism and, together, accomplish great feats. 

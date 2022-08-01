@@ -23,7 +23,7 @@ III. Doing the DAOWei
 	3. I want to give you a holistic, 360, understanding of MetaFactory - including all of its wonderful quirks and weirdnesses - but to do so, we must first get through the boring activity of aligning on key terms. Bear with me, please. 
 		1. .Let's align on some definitions before moving forward with what is a [[quartz/content/notes/decentralized brand]] 
 			1. A [[quartz/notes_ignore/brand]] is a name, term, design, or symbol, that distinguishes one seller’s goods or services from those of other sellers. 
-			2. [[quartz/notes_ignore/decentralized]]means the process by which the activities of an organization, particularly those regarding planning and decision making, are distributed or delegated away from a central, authoritative location or group.
+			2. [[quartz/content/notes/Decentralization]]means the process by which the activities of an organization, particularly those regarding planning and decision making, are distributed or delegated away from a central, authoritative location or group.
 			3. Let's look at what branding is from a historical lens: 
 				1.  “The practice of branding - in the original literal sense of marking by burning - is thought to have begun with the ancient Egyptians, who were known to have engaged in livestock branding as early as 2,700 BCE. Branding was used to differentiate one person's cattle from another's by means of a distinctive symbol burned into the animal's skin with a hot branding iron.”
 				2. Interesting! Societies, for thousands of years, have used various objects, even livestock, to capture value. No surprise, then, that our modern society places extraordinary value in a company’s, or a person’s, brand. 

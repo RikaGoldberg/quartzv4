@@ -3,7 +3,6 @@ title: "Polyvagal Perspective"
 date: 2022-06-20
 tags:
 - seed
-- inbox
 ---
 
 https://sci-hub.se/https://doi.org/10.1016/j.biopsycho.2006.06.009

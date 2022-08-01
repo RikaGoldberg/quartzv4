@@ -2,12 +2,11 @@
 title: "Communes, Crypto, and DAOs"
 date: 2022-07-12
 tags:
-- Seed
-- Inbox
-enableToc: false
+- Fruit
 ---
-
 See also: [Co-Ops and DAOs](/notes/Co-Ops%20and%20DAOs.md)
+
+Sapling: [Decentralized cities go against systems principles](/notes/Decentralized%20cities%20go%20against%20systems%20principles.md)
 
 ## DAO Proposal 
 [Foster Proposal: Meta Review of Governance](https://docs.google.com/document/d/1QNgc3sx_1x12Fi2KcWCT1CAvHigq3xrTgt9zycZPZNk/edit?usp=sharing)
@@ -28,8 +27,6 @@ See also: [Foster DAO](/notes/Foster%20DAO.md)
 	> Politics inevitably surfaced, sometimes like an unwelcome guest a house party. At Bryn Athyn, a short-lived commune near Stratford Vermont, Houriet describes the general apathy of the members when one of them tries to figure out the legal details of buying the farm. And when conflicts arose, a political process was notably lacking.
 
 
-
-
 ## Notes
 Are DAOs as idealistic as communes? Are DAOs disgruntled employees, battered by the system, who are refusing by creating something new from scratch..from the bottom up...
 
@@ -37,5 +34,5 @@ The difference is that DAOs aren't reinventing the wheel. They are leveraging ex
 
 Decentralized cities and countries are too mechanistic, like Walden II. Technocratic regimes are not good. 
 
-The privatization of everything is also not good. 
+
 

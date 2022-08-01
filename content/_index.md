@@ -3,7 +3,9 @@ title: "Public Notes"
 ---
 
 ## What is a digital garden?
-A digital garden is a space where my ideas can grow from seed to sapling to fruit. 
+A digital garden is a space where my ideas can grow from seed to sapling to fruit.
+
+[Digital Garden Process](/notes/Digital%20Garden%20Process.md)
 
 * [seed](/tags/seed)
 * [sapling](/tags/sapling)
@@ -14,7 +16,8 @@ A digital garden is a space where my ideas can grow from seed to sapling to frui
 * [inbox](/tags/inbox)
 
 ## Entrypoints
-* [Systems thinking](/notes/Systems%20thinking.md)
+* [Systems Principles](/notes/Systems%20thinking.md)
+* [Decentralization](/notes/decentralization.md)
 * [DAO](/notes/DAO.md)
 * [DAO Wei](/notes/DAO%20Wei.md)
 * [Decentralized Finance](/notes/Decentralized%20Finance.md)
@@ -23,6 +26,11 @@ A digital garden is a space where my ideas can grow from seed to sapling to frui
 * [Writing Advice](/notes/Writing%20Advice.md)
 * [The Metaverse - A B2B Play](/notes/The%20Metaverse%20-%20A%20B2B%20Play.md)
 
+
+## Index
+[self-organization](quartz/notes_ignore/self-organization.md)
+[DAO Governance]
+[DAO Lore]
 
 ## 💀 Personal Philosophy 
 Borrowing from the late Abraham Maslow and the living Scott Barry Kaufman, 
@@ -53,16 +61,6 @@ In order to navigate through the good and the bad times, it's important to devel
 * [Researching Public Goods](/notes/Researching%20Public%20Goods.md)
 * [Voting, Governance, and veTokens](https://docs.google.com/document/d/1y26rZ9opaShUD3Jkf3-kHxGJE9UhJ0TwmxmwW-qPUio/edit?usp=sharing)
 * [Building an Economy Within a DAO -- A Twitter Thread](https://twitter.com/CryptoSocietyS1/status/1516509915153453057?s=20&t=E_U3tIrdUhI62qF9mNPpkg)
-
-
-
-
-
-
-
-
-
-
 
 ## Books
 * [Book Highlights](/notes/Books%20Hopper.md)

@@ -4,7 +4,9 @@ date: 2022-06-09
 tags:
 - seed
 ---
+Source: [The Beginning of Infinity, David Deutsch](https://www.goodreads.com/book/show/10483171-the-beginning-of-infinity)
 
+## Highlights
 A galaxy is a mind-bogglingly huge thing. For that matter, a star is a mind-bogglingly huge thing. Our own planet is. A human brain is -in terms of both its internal complexity and the reach of human ideas. And there can be thousands of galaxies in a cluster, which can be millions of light years across. **The phrase 'thousands of galaxies' trips lightly off the tongue, but it takes a while to make room in one's mind for the reality of it.**
 
 I was wrong to be impressed by the mere scale of what I was looking at. Some people become depressed at the scale of the universe, because it makes them feel insignificant. Other people are relieved to feel insignificant, which is even worse. But, in any case, those are mistakes. **Feeling insignificant because the universe is large has exactly the same logic as feeling inadequate for not being a cow. Or a herd of cows. The universe is not there to overwhelm us; it is our home, and our resource. The bigger the better.**
