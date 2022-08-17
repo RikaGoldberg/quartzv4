@@ -14,7 +14,7 @@ DAOs need to mimic the structure of human genetic code, where out of only four d
 
 
 
-Self-organization is superior to a hierarchical structure. Hierarchies are the default path for many companies because it is familiar and satisfies our human desire to control and exert power, but it is in contradiction to the way of nature. [[content/content/self organization is superior to a top down hierarchical structure]]
+Self-organization is superior to a hierarchical structure. Hierarchies are the default path for many companies because it is familiar and satisfies our human desire to control and exert power, but it is in contradiction to the way of #nature. [[/content/self organization is superior to a top down hierarchical structure]]
 
 The idea here is that teams work best when they are self-organized. The best work is done when people are given autonomy.  
 

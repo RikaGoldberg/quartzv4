@@ -20,17 +20,21 @@ A digital garden is a space where my ideas can grow from seed to sapling to frui
 * [Decentralization](/notes/decentralization.md)
 * [DAO](/notes/DAO.md)
 * [DAO Wei](/notes/DAO%20Wei.md)
+* [Foster DAO](/notes/Foster%20DAO.md)
 * [Decentralized Finance](/notes/Decentralized%20Finance.md)
 * [Web1 vs Web2 vs Web3](/notes/Web1%20vs%20Web2%20vs%20Web3.md)
 * [DAO Advice](/notes/DAO%20Advice.md) 
 * [Writing Advice](/notes/Writing%20Advice.md)
 * [The Metaverse - A B2B Play](/notes/The%20Metaverse%20-%20A%20B2B%20Play.md)
+* [Governance](/notes/Governance.md)
 
+## Questions
+[What would make you proud of Foster DAO in the next 60 days?](/notes/What%20would%20make%20you%20proud%20of%20Foster%20DAO%20in%20the%20next%2060%20days?.md)
 
-## Index
-[self-organization](quartz/notes_ignore/self-organization.md)
-[DAO Governance]
-[DAO Lore]
+[What is wrong with online communities?](/notes/What%20is%20wrong%20with%20online%20communities?.md)
+
+[[When are hierarchical structures good?]]
+
 
 ## 💀 Personal Philosophy 
 Borrowing from the late Abraham Maslow and the living Scott Barry Kaufman, 
@@ -52,7 +56,7 @@ In order to navigate through the good and the bad times, it's important to devel
 
 ## Published Writing 📒 
 * [A nonfiction anthology about DAOs](/notes/YODA.md)
-* [Sharing is Caring Newsletter](www.newsletter.rikagoldberg.com)
+* [Sharing is Caring Newsletter](https://www.newsletter.rikagoldberg.com/)
 * [DAO OpeEd](https://beincrypto.com/real-humans-need-to-shape-daos-so-they-dont-become-a-rich-kid-club/)
 
 
@@ -63,7 +67,7 @@ In order to navigate through the good and the bad times, it's important to devel
 * [Building an Economy Within a DAO -- A Twitter Thread](https://twitter.com/CryptoSocietyS1/status/1516509915153453057?s=20&t=E_U3tIrdUhI62qF9mNPpkg)
 
 ## Books
-* [Book Highlights](/notes/Books%20Hopper.md)
+* [Books Master List](/books/Books%20Master%20List.md)
 * [Goodreads](https://www.goodreads.com/user/show/143484105-rika-goldberg)
 
 ## DAO Contributor
@@ -71,6 +75,7 @@ In order to navigate through the good and the bad times, it's important to devel
 * [MetaCartel](quartz/notes/MetaCartel%20DAO.md)
 * [MetaFactory](/notes/MetaFactory.md)
 * [DAOHaus](/notes/DAO%20Haus.md)
+
 ## Archive
 * [Wikipedia Page for DAO Wei](/notes/Wikipedia%20Page%20for%20DAO%20Wei.md)
 * [Metta Gamma Delta $1M fund](/notes/Metta%20Gamma%20Delta%20$1M%20fund.md)

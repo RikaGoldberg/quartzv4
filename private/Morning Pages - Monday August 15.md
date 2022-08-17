@@ -1,0 +1,1 @@
+I'm thinking about DAO leadership because I feel like I'm not contributing my best self to Foster DAO. 

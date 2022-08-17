@@ -53,9 +53,9 @@ direction, it is no coincidence that the term divergent thinking is associated w
 creativity and innovation. It is for the very reason that divergent thinkers do not
 become trapped in a stale corner of the search space that they are known for
 fearless and surprising discoveries that others tend to miss. By foregoing explicit
-final objectives, novelty search becomes a form of divergent search, thereby joining
+final objectives, [[novelty search becomes a form of divergent search, thereby joining
 company with natural evolution and human innovation, and aligning it with this
-more exotic and radical form of discovery.
+more exotic and radical form of discovery.]]
 
 
 

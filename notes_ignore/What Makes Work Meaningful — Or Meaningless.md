@@ -7,7 +7,7 @@ https://sloanreview.mit.edu/article/what-makes-work-meaningful-or-meaningless/#:
 
 Drawing on these findings, we defined meaningful work as arising “when an individual perceives an authentic connection between work and a broader transcendent life purpose beyond the self.
 
-Our study also revealed five unexpected features of meaningful work; in these, we find clues that might explain the fragile and intangible nature of meaningfulness.
+Our study also revealed five unexpected features of meaningful work; in these, we find clues that might explain the fragile and intangible #nature of meaningfulness.
 
 #### 1. Self-Transcendent
 

@@ -1,6 +1,6 @@
 ---
-title: "Thinking in Systems"
-date: 2022-04-05
+title: "Thinking in Systems, Donnella Meadows"
+date: 2022-08-10
 tags:
 - seed
 ---

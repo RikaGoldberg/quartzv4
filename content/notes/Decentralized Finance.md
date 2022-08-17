@@ -5,12 +5,11 @@ tags:
 - Sapling
 ---
 
-## Definition
-Decentralized finance is a new financial economy that cuts out intermediaries like banks. 
+### Properties
+* [Composability](/notes/Composability.md) -- used existing resources as shared infrastructure. Developers can do more with less. 
+* [Interoperability](/notes/Interoperability.md) -- common standards
+* [Liquidity](/content/notes/Liquidity.md)
 
-is a tool to incentivize funding public goods. 
-
-Tokenomics is designing crypto systems for value flow. 
 
 
 

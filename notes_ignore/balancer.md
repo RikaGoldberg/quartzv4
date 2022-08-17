@@ -8,7 +8,7 @@ https://docs.balancer.fi/
 Balancer is a defi tool, like an index fund, that exposes investors to a broad range of tokens. Pools are created. 
 
 #quotes 
-**Balancer is a community-driven protocol, automated portfolio manager, liquidity provider, and price sensor that empowers decentralized exchange and the automated portfolio management of tokens on the Ethereum blockchain and other EVM compatible systems.**
+**Balancer is a community-driven protocol, automated portfolio manager, [liquidity](/content/notes/Liquidity.md)liquidity provider, and price sensor that empowers decentralized exchange and the automated portfolio management of tokens on the Ethereum blockchain and other EVM compatible systems.**
 
 **Balancer Pools contains two or more tokens that traders can swap between. Liquidity Providers put their tokens in the pools in order to collect swap fees.** 
 

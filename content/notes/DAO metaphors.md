@@ -9,7 +9,7 @@ Related: [Useful metaphors to design token economies](/content/CCS/Useful%20meta
 * DAOs are like global nation states
 	* DAOs are like alliances (closer to nation state than M&A)
 	* Token swaps are like NATO agreements
-* Bandwidth is to Internet age as liquidity is to the blockchain age
+* Bandwidth is to Internet age as [liquidity](/content/notes/Liquidity) is to the blockchain age
 
 
 

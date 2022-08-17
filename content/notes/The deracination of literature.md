@@ -26,7 +26,7 @@ I brought up the writer John Updike; I was teaching a novel by him which was har
 
 I wanted to hear what Oates had to say about it because she’s of an older generation; she and Updike were peers. What she said was (paraphrasing again): yes, John could describe anything and everything but no one wants to read that any more, because (directly quoting) “people have moved on”/  I was really surprised by this. “Moved on”? We’ve moved on from the world we live in? How is that possible?
 
-This second statement is completely untrue; conventional beauty standards can be made irrelevant when describing a face if you want to focus on how the person’s nature animates that face.
+This second statement is completely untrue; conventional beauty standards can be made irrelevant when describing a face if you want to focus on how the person’s #nature animates that face.
 
 Artistic looking is about care and respect. It is like saying: I see this human in my mind’s eye and this particular human is worth the most precise attention I can give them. Because they won’t be here forever and they are as amazing as any animal you might see in a documentary devoted to the heart-breaking beauty of endangered animals. 
 

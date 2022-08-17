@@ -27,7 +27,7 @@ I'm wondering now, does it really matter that Ayn Rand is against altruism and c
 
 Reminds me of the Zen saying, "in 100 years, all new people." Screw Ayn Rand. She's not worth my time. Focus on better. 
 
-[Donella Meadows 1](quartz/content/notes/Donella%20Meadows%201.md) advocates for diversity in systems, borrowing from nature, and [Noah Smith](/notes/Noah%20Smith.md) also advocates for diversity. 
+[Donella Meadows 1](/notes/Donella%20Meadows%201.md) advocates for diversity in systems, borrowing from nature, and [Noah Smith](/notes/Noah%20Smith.md) also advocates for diversity. 
 
 
 

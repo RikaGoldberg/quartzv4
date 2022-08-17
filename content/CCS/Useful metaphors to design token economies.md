@@ -84,7 +84,7 @@ A useful analogy is that what bandwidth provided to the Internet age, liquidity 
   
 image source: [@LiquidityWizard](https://twitter.com/LiquidityWizard)[![Image](https://pbs.twimg.com/media/FQu5xhJVsAEZHzp.png)](https://pbs.twimg.com/media/FQu5xhJVsAEZHzp.png)
 
-Bandwidth is the rate at which data flows across the network, and liquidity is the ease with which you can exchange your asset for something else.  
+Bandwidth is the rate at which data flows across the network, and [liquidity](/content/notes/Liquidity.md)liquidity is the ease with which you can exchange your asset for something else.  
   
 Having ample amounts of both is what allowed their respective economies to flourish. 
 
