@@ -48,7 +48,7 @@ But there are counterexamples of token incentives’ mixed impact on user engage
 
 While liquidity mining programs (rewarding users with ownership via tokens for providing liquidity) have become pervasive and driven short-term participation in new products, they have not historically contributed to long-term sustainability.
 
-As a result, many projects are rethinking token incentive mechanisms, and a wave of new models is beginning to emerge. For example, Curve’s voting escrow (“ve”) contracts use lockup periods to increase token rewards; Gro also introduced a vesting mechanism to encourage long-term engagement. As scholarship about token engineering and cryptoeconomics proliferates, these models are increasingly tested and scrutinized, suggesting the next generation of tokens will more effectively engage users and incentivize long-term contributions.
+As a result, many projects are rethinking token incentive mechanisms, and a wave of new models is beginning to emerge. For example, Curve’s [Vote Escrow (VeTokens)](/notes/Vote%20Escrow%20(VeTokens).md) voting escrow (“ve”) contracts use lockup periods to increase token rewards; Gro also introduced a vesting mechanism to encourage long-term engagement. As scholarship about token engineering and cryptoeconomics proliferates, these models are increasingly tested and scrutinized, suggesting the next generation of tokens will more effectively engage users and incentivize long-term contributions.
 
 Shared ownership reinforces network effects and creates a disincentive to switching to other blockchains.
 

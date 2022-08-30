@@ -10,6 +10,9 @@ tags:
 * [Interoperability](/notes/Interoperability.md) -- common standards
 * [Liquidity](/content/notes/Liquidity.md)
 
+### Novel Incentive Mechanisms
+[Vote Escrow (VeTokens)](/notes/Vote%20Escrow%20(VeTokens).md)
+
 
 
 

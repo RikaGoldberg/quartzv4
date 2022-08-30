@@ -5,6 +5,8 @@ tags:
 - seed
 ---
 
+Author: [Olly.eth](/notes/Olly.eth.md)
+
 https://mirror.xyz/olly.eth/SptJwnUcMMKtvjoD7J-xYCWZZNTBkaksahJ1CH3aWr4
 
 See: [Newsletter 55 An era of uncertainty creates combinatorial possibilities](/newsletter/Newsletter%2055%20An%20era%20of%20uncertainty%20creates%20combinatorial%20possibilities.md)

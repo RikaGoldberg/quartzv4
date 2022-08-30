@@ -1,9 +1,11 @@
 ---
-title: "Decentralization enables permissionless innovation"
+title: "Decentralization enables permissionless innovation | Gordon Brander"
 date: 2022-08-09
 tags:
 - seed
 ---
+Author: [Gordon Brander](/notes/Gordon%20Brander.md)
+
 https://subconscious.substack.com/p/decentralization-enables-permissionless?s=r&curius=1294
 
 ### Highlights

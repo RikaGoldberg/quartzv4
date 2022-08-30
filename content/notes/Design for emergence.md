@@ -9,7 +9,7 @@ tags:
 The backstory of emergence is complicated. It can't be boiled down simply and cleanly. We need to dig in, dive deep, share stories of emergence. 
 
 Emergence is as natural to living beings as breathing. 
-- When we breath, we do without doing. Emergence is also do without doing. Instead of creating rigid walls and structure, you just build a foundation. You set up camp and then dissasemble camp. Pitch a tent and then disassemble it. 
+- When we breath, we do without doing. Emergence is also do without doing. Instead of creating rigid walls and structure, you just build a foundation. You set up camp and then disassemble camp. Pitch a tent and then disassemble it. 
 
 Emergence is when structures in a system form on their own. When they are co-created by actors in the system. Not imposed by top down rules. 
 

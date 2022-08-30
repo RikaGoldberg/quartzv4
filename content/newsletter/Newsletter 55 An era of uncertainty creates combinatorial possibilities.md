@@ -5,6 +5,8 @@ tags:
 - fruit
 ---
 
+Seed: [DAOs as novelty search engines](/articles/DAOs%20as%20novelty%20search%20engines.md)
+
 [![File:Babbage Difference Engine.jpg](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fb88020de-5bfd-4f95-86a3-fb030de4612d_800x579.jpeg "File:Babbage Difference Engine.jpg")](https://cdn.substack.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fb88020de-5bfd-4f95-86a3-fb030de4612d_800x579.jpeg)
 
 [The London Science Museum difference engine, the first one actually built from Babbage's design](https://en.wikipedia.org/wiki/File:Babbage_Difference_Engine.jpg)

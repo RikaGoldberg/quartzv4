@@ -5,6 +5,8 @@ tags:
 - seed
 ---
 
+See also: [emergence](/notes/emergence.md)
+
 One of the biggest stories in crypto is about how [DAOs are emerging as powerful new economies](/notes/DAOs%20are%20emerging%20as%20powerful%20new%20economies.md)
   
 But how do you build an economy within a DAO? 🙃  

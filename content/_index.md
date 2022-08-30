@@ -3,7 +3,7 @@ title: "Public Notes"
 ---
 
 ## What is a digital garden?
-A digital garden is a space where my ideas can grow from seed to sapling to fruit.
+A digital garden is a space where my ideas can grow from seed to sapling to fruit. 
 
 [Digital Garden Process](/notes/Digital%20Garden%20Process.md)
 
@@ -14,6 +14,14 @@ A digital garden is a space where my ideas can grow from seed to sapling to frui
  I use an inbox system to help me remember to return to and flesh out ideas. 
 
 * [inbox](/tags/inbox)
+
+## Index
+[DAO Wei](/content/notes/DAO%20Wei.md) [Donella Meadows](/notes/Donella%20Meadows.md)
+[Gordon Brander](/notes/Gordon%20Brander.md)
+[Decentralization](/notes/Decentralization.md)
+[Systems thinking](/notes/Systems%20thinking.md)
+[emergence](/notes/emergence.md)
+
 
 ## Entrypoints
 * [Systems Principles](/notes/Systems%20thinking.md)
@@ -36,8 +44,8 @@ A digital garden is a space where my ideas can grow from seed to sapling to frui
 [[When are hierarchical structures good?]]
 
 
-## 💀 Personal Philosophy 
-Borrowing from the late Abraham Maslow and the living Scott Barry Kaufman, 
+## Personal Philosophy 
+Borrowing from the late Abraham Maslow and the living Scott Barry Kaufman
 > Life isn’t a trek up a summit. It’s more like a vast ocean, full of new opportunities for meaning and discovery but also danger and uncertainty. In this choppy surf, a pyramid is of little use. What we really need is something more flexible and functional: a _sailboat_. 
 
 ![Sailboat Metaphor](/images/Sailboat%20Metaphor.png) 
@@ -70,7 +78,7 @@ In order to navigate through the good and the bad times, it's important to devel
 * [Books Master List](/books/Books%20Master%20List.md)
 * [Goodreads](https://www.goodreads.com/user/show/143484105-rika-goldberg)
 
-## DAO Contributor
+## DAO Contributions
 * [Founding team member of Foster DAO](/notes/Foster%20DAO.md) 
 * [MetaCartel](quartz/notes/MetaCartel%20DAO.md)
 * [MetaFactory](/notes/MetaFactory.md)

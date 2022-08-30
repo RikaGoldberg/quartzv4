@@ -1,9 +1,13 @@
 ---
 title: "Centralization is Inevitable"
-date: 2022-07-25
+date: 2022-08-22
 tags:
--
+- seed
 ---
+
+
+Author: [Gordon Brander](/notes/Gordon%20Brander.md)
+
 https://subconscious.substack.com/p/centralization-is-inevitable#%C2%A7networks-evolve-from-distributed-to-centralized-and-back-again
 
 -   **(Phase 1) Random**: The system is unstructured. Random events occur without particularly changing the structure.
@@ -16,6 +20,6 @@ https://subconscious.substack.com/p/centralization-is-inevitable#%C2%A7networks-
     
 -   **(Repeat)**: The system begins a slow crawl back up the evolutionary ladder of complexity.
 
-Any evolving network experiences catastrophe and then rebirth. Everything from industries to ecosystems. 
+**Any evolving network experiences catastrophe and then rebirth.** Everything from industries to ecosystems. 
 
 https://twitter.com/mjmauboussin/status/1537512770530418697/photo/1
