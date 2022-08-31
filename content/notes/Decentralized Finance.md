@@ -3,6 +3,7 @@ title: "Decentralized Finance"
 date: 2022-04-05
 tags:
 - Sapling
+- Inbox
 ---
 
 ### Properties

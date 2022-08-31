@@ -7,10 +7,8 @@ tags:
 
 See draft article: https://docs.google.com/document/d/1y26rZ9opaShUD3Jkf3-kHxGJE9UhJ0TwmxmwW-qPUio/edit?usp=sharing
 
-VeTokens are called “liquid lockers” because holders lock up their tokens in exchange for special rights. This prevents speculative selling like what happened with UNI and COMP, pioneers in Defi token design, because there was no underlying demand other than speculative selling.
+See: [WTF are VeTokens](/notes/WTF%20are%20VeTokens.md)
 
-A common pattern we saw in DeFi token design for projects that launched before mid-to-late 2021 was the “valueless governance token” model.
-  
-With this model, token holders are solely entitled to governance rights. While this may have been a way to avert regulatory scrutiny, and governance is certainly an incredibly valuable right, this meant that holders have no claim on cash flows, and the token provides no utility or perks to any stakeholders within the protocol; meaning that aside from speculation, there is no underlying demand for the token.
+Basic economics is to reduce the supply of tokens to increase the price. On top of that, you can increase demand by making the tokens have utility - giving holders perks, yields, & governance. Holders should have claims to the tokens cash flows. 
 
-
+If supply goes up, inflation increases and your tokens are worth less so you need to unstake them. 
