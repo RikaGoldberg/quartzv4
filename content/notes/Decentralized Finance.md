@@ -14,6 +14,14 @@ tags:
 ### Novel Incentive Mechanisms
 [Vote Escrow (VeTokens)](/notes/Vote%20Escrow%20(VeTokens).md)
 
+### DeFi Education
+[The DeFi Edge Resources](https://www.thedefiedge.com/resources/)
+
+[The DeFi Edge Twitter](https://twitter.com/thedefiedge)
+
+[DeFi Dad](https://twitter.com/DeFi_Dad)
+
+
 
 
 

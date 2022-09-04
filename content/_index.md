@@ -75,7 +75,7 @@ In order to navigate through the good and the bad times, it's important to devel
 * [Building an Economy Within a DAO -- A Twitter Thread](https://twitter.com/CryptoSocietyS1/status/1516509915153453057?s=20&t=E_U3tIrdUhI62qF9mNPpkg)
 
 ## Books
-* [Books Master List](/books/Books%20Master%20List.md)
+* [Books Master List](/books)
 * [Goodreads](https://www.goodreads.com/user/show/143484105-rika-goldberg)
 
 ## DAO Contributions
