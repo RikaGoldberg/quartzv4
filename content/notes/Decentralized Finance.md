@@ -15,6 +15,8 @@ tags:
 [Vote Escrow (VeTokens)](/notes/Vote%20Escrow%20(VeTokens).md)
 
 ### DeFi Education
+See also: [DeFi Portolio](/notes/DeFi%20Portolio.md)
+
 [The DeFi Edge Resources](https://www.thedefiedge.com/resources/)
 
 [The DeFi Edge Twitter](https://twitter.com/thedefiedge)

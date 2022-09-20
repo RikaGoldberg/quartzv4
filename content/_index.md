@@ -24,6 +24,8 @@ A digital garden is a space where my ideas can grow from seed to sapling to frui
 
 
 ## Entrypoints
+* [Blockchain Principles](/notes/Blockchain%20Principles.md)
+* [Token Engineering](/notes/Token%20Engineering.md)
 * [Systems Principles](/notes/Systems%20thinking.md)
 * [Decentralization](/notes/decentralization.md)
 * [DAO](/notes/DAO.md)
@@ -35,6 +37,7 @@ A digital garden is a space where my ideas can grow from seed to sapling to frui
 * [Writing Advice](/notes/Writing%20Advice.md)
 * [The Metaverse - A B2B Play](/notes/The%20Metaverse%20-%20A%20B2B%20Play.md)
 * [Governance](/notes/Governance.md)
+
 
 ## Questions
 [What would make you proud of Foster DAO in the next 60 days?](/notes/What%20would%20make%20you%20proud%20of%20Foster%20DAO%20in%20the%20next%2060%20days?.md)
@@ -73,6 +76,7 @@ In order to navigate through the good and the bad times, it's important to devel
 * [Researching Public Goods](/notes/Researching%20Public%20Goods.md)
 * [Voting, Governance, and veTokens](https://docs.google.com/document/d/1y26rZ9opaShUD3Jkf3-kHxGJE9UhJ0TwmxmwW-qPUio/edit?usp=sharing)
 * [Building an Economy Within a DAO -- A Twitter Thread](https://twitter.com/CryptoSocietyS1/status/1516509915153453057?s=20&t=E_U3tIrdUhI62qF9mNPpkg)
+* [Community and Web3](/notes/Community%20and%20DAOs.md)
 
 ## Books
 * [Books Master List](/books)
