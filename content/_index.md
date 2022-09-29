@@ -77,6 +77,7 @@ In order to navigate through the good and the bad times, it's important to devel
 * [Voting, Governance, and veTokens](https://docs.google.com/document/d/1y26rZ9opaShUD3Jkf3-kHxGJE9UhJ0TwmxmwW-qPUio/edit?usp=sharing)
 * [Building an Economy Within a DAO -- A Twitter Thread](https://twitter.com/CryptoSocietyS1/status/1516509915153453057?s=20&t=E_U3tIrdUhI62qF9mNPpkg)
 * [Community and Web3](/notes/Community%20and%20DAOs.md)
+* [DAO Working Groups Case Studies](/notes/DAO%20Working%20Groups%20Case%20Studies.md)
 
 ## Books
 * [Books Master List](/books)
