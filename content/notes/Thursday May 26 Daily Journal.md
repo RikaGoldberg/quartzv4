@@ -2,7 +2,7 @@
 title: "Thursday May 26 Daily Journal"
 date: 2022-05-26
 tags:
-- seed
+- sapling
 ---
 
 Top of Mind today: 

@@ -3,8 +3,11 @@ title: "Decentralized Finance"
 date: 2022-04-05
 tags:
 - Sapling
-- Inbox
 ---
+
+See: [Crypto Investing](/notes/Crypto%20Investing.md) 
+
+Sign Up: https://docs.tokenterminal.com/pricing
 
 ### Properties
 * [Composability](/notes/Composability.md) -- used existing resources as shared infrastructure. Developers can do more with less. 

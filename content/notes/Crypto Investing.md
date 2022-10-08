@@ -1,11 +1,37 @@
 ---
-title: "DeFi Portfolio"
+title: "Crypto Investing"
 date: 2022-09-19
 tags:
 - seed
-- inbox
 ---
 
+See: [Decentralized Finance](/notes/Decentralized%20Finance.md)
+
+*Not advice, but education*
+
+![](/images/Pasted%20image%2020220930221801.png)
+
+https://twitter.com/thedefiedge/status/1503433594483589123?s=20&t=QqvPzmxyFG3VvC4FLIXaLg
+
+![](/images/Pasted%20image%2020220930221855.png)
+
+https://twitter.com/thedefiedge/status/1503433601215463425?s=20&t=QqvPzmxyFG3VvC4FLIXaLg
+
+![](/images/Pasted%20image%2020221001093557.png)
+
+https://twitter.com/thedefiedge/status/1543279609566744576?s=20&t=NluYHJbJVTiLd6Gf9lAJdg
+
+![](i/mages/Pasted%20image%2020221001093741.png)
+
+![](/images/Pasted%20image%2020221001093803.png)
+
+![](/images/Pasted%20image%2020221001093900.png)
+
+![](/images/Pasted%20image%2020221001093935.png)
+
+![](/images/Pasted%20image%2020221001094031.png)
+
+--------------------------------------
 Source: 
 https://twitter.com/thedefiedge/status/1508475727552811009
 

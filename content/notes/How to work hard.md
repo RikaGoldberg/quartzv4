@@ -2,7 +2,7 @@
 title: "How to work hard by Paul Graham"
 date: 2022-04-09
 tags:
-- seed
+- sapling
 ---
 ## Source 
 http://paulgraham.com/hwh.html?curius=1599

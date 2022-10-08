@@ -2,7 +2,7 @@
 title: "The Things that Get in the Way"
 date: 2022-05-22
 tags:
-- seed
+- sapling
 ---
 
 ### Highlights
@@ -16,8 +16,8 @@ tags:
 
 “But, strangely enough, telling the story made me less anxious. In fact, the second that I finished telling Steve the story, I felt different. I finally got it. My work—me—the decade I’ve spent doing research—it’s all about “the things that get in the way.” I’m not about the “how-to” because in ten years, I’ve never seen any evidence of “how-to” working without talking about the things that get in the way.”
 
-“For the first time in five years, I realized that the country club woman wasn’t out to get me and sabotage my talk. If that were the case, her ridiculous parameters wouldn’t have been so devastating to me. Her list was symptomatic of our cultural fears. We don’t want to be uncomfortable. We want a quick and dirty “how-to” list for happiness.
-I don’t fit that bill. Never have. Don’t get me wrong, I’d love to skip over the hard stuff, but it just doesn’t work. We don’t change, we don’t grow, and we don’t move forward without the work. If we really want to live a joyful, connected, and meaningful life, we must talk about things that get in the way.”
+“For the first time in five years, I realized that the country club woman wasn’t out to get me and sabotage my talk. If that were the case, her ridiculous parameters wouldn’t have been so devastating to me. **Her list was symptomatic of our cultural fears. We don’t want to be uncomfortable. We want a quick and dirty “how-to” list for happiness.**
+**I don’t fit that bill. Never have. Don’t get me wrong, I’d love to skip over the hard stuff, but it just doesn’t work. We don’t change, we don’t grow, and we don’t move forward without the work. If we really want to live a joyful, connected, and meaningful life, we must talk about things that get in the way.”**
 
 “I’m happy to report that The UP Experience went really well. I actually told this “Light and Breezy” story as my talk. It was a risk, but I figured that even C-suites struggle with worthiness. A couple of weeks after the event, I got a call from the organizer. She said, “Congratulations! The evaluations are in and your talk finished in the top two of the day, and given what you study, you were the dark horse going in.”
 Here’s the bottom line:

@@ -7,7 +7,7 @@ tags:
 
 https://mirror.xyz/james.eth/71ibzWJvs3Frqu3beIzAtcQu5sJ2k8Hz15svQhBWKvI
 
-Wildfire is a meta-governance initiative that creates new squads to tackle token design, governance, and coordination problems. 
+Wildfire is a [Meta-governance](/notes/Meta-governance.md) nitiative that creates new squads to tackle token design, governance, and coordination problems. 
 
 It was created to help [Fire Eyes DAO](/notes/Fire%20Eyes%20DAO.md) scale. 
 

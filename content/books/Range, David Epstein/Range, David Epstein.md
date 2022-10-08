@@ -2,7 +2,7 @@
 title: "Range by David Epstein"
 date: 2022-04-26
 tags:
-- seed
+- sapling
 ---
 
 *Why generalists triumph in a specialized world*

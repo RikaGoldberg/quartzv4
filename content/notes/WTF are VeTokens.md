@@ -5,6 +5,14 @@ tags:
 - seed
 ---
 
+![](quartz/content/images/Pasted%20image%2020220930215648.png)
+
+https://twitter.com/thedefiedge/status/1511737966862823430?s=20&t=NEREcmhsoVlCI52DJD62bw
+
+Stablecoins are in a war for liquidity, so they sometimes bribe you to vote for them. You can vote on Curve for which AMM pools get the most rewards. With more voting power, you can vote for your pool. 
+
+![](quartz/content/images/Pasted%20image%2020220930220508.png)
+
 [https://newsletter.banklesshq.com/p/wtf-are-vetokens?utm_source=url](https://newsletter.banklesshq.com/p/wtf-are-vetokens?utm_source=url)
 
 VeTokens are called “liquid lockers” **because holders lock up their tokens in exchange for special rights.** This prevents speculative selling like what happened with UNI and COMP, **pioneers in Defi token design, because there was no underlying demand other than speculative selling.**

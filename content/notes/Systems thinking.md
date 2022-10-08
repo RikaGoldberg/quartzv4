@@ -4,7 +4,7 @@ date: 2022-04-05
 tags:
 - Sapling
 ---
-Seed: [Decentralization enables permissionless innovation ](/notes/Decentralization%20enables%20permissionless%20innovation%201.md)
+Seed: [Decentralization enables permissionless innovation](/notes/Decentralization%20enables%20permissionless%20innovation%201.md)
 
 See also:
 [DAO Wei](/notes/DAO%20Wei.md)

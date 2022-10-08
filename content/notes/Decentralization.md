@@ -7,15 +7,15 @@ tags:
 
 See also: [Become a student of the wei](/notes/Become%20a%20student%20of%20the%20wei.md)
 
-[Decentralization enables permissionless innovation](quartz/content/notes/Decentralization%20enables%20permissionless%20innovation.md)
+[Decentralization enables permissionless innovation ](/notes/Decentralization%20enables%20permissionless%20innovation%201.md)
 
 Saplings:
 
 [In a decentralized system, agents make decisions independently](/notes/In%20a%20decentralized%20system,%20agents%20make%20decisions%20independently.md)
 
-[In decentralized systems, agents are allowed to make decisions based on individual goals](quartz/content/notes/In%20decentralized%20systems,%20agents%20are%20allowed%20to%20make%20decisions%20based%20on%20individual%20goals.md)
+[In decentralized systems, agents are allowed to make decisions based on individual goals](/notes/In%20decentralized%20systems,%20agents%20are%20allowed%20to%20make%20decisions%20based%20on%20individual%20goals.md)
 
-[In decentralized systems, an individuals goals may be in conflict with their peers' goals](quartz/content/notes/In%20decentralized%20systems,%20an%20individuals%20goals%20may%20be%20in%20conflict%20with%20their%20peers'%20goals.md)
+[In decentralized systems, an individuals goals may be in conflict with their peers' goals](/notes/In%20decentralized%20systems,%20an%20individuals%20goals%20may%20be%20in%20conflict%20with%20their%20peers'%20goals.md)
 
 ------
 [Decentralization is the process by which the activities of an organization, particularly those regarding planning and decision making, are distributed or delegated away from a central, authoritative location or group](https://en.wikipedia.org/wiki/Decentralization)

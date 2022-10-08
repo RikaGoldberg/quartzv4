@@ -2,7 +2,7 @@
 title: "The Afghanistan Papers by Craig Whitlock and The Washington Post"
 date: 2022-04-26
 tags:
-- seed
+- sapling
 ---
 
 https://www.simonandschuster.com/books/The-Afghanistan-Papers/Craig-Whitlock/9781982159009

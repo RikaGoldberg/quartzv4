@@ -26,7 +26,7 @@ I'm wondering now, does it really matter that Ayn Rand is against altruism and c
 
 Reminds me of the Zen saying, "in 100 years, all new people." Screw Ayn Rand. She's not worth my time. Focus on better. 
 
-[Donella Meadows 1](quartz/content/notes/Donella%20Meadows%201.md) advocates for diversity in systems, borrowing from nature, and [Noah Smith](/notes/Noah%20Smith.md) also advocates for diversity. 
+[Donella Meadows](/content/notes/Donella%20Meadows.md) advocates for diversity in systems, borrowing from nature, and [Noah Smith](/notes/Noah%20Smith.md) also advocates for diversity. 
 
 ### Quotes
 "Men have been taught that their first concern is to relieve the suffering of others. But suffering is a disease. Should one come upon it, one tries to give relief and assistance. To make that the highest test of virtue is to make suffering the most important part of life. Then man must wish to see others suffer-in order that he may be virtuous. Such is the #nature of altruism. The creator is not concerned with disease, but with life. Yet the work of the creators has eliminated one form of disease after another, in man's body and spirit, and brought more relief from suffering than any altruist could ever conceive."

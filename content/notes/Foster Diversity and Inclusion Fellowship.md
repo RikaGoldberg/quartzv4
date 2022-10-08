@@ -2,7 +2,7 @@
 title: "Foster Diversity and Inclusion Fellowship"
 date: 2022-04-05
 tags:
-- seed
+- 
 ---
 
 *On hold for now as [Foster DAO]'s (/notes/Foster%20DAO.md) focus is shifted to the ONE thing: funding 100 collaboratively written essays*

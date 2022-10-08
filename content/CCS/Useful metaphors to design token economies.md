@@ -2,7 +2,7 @@
 title: "Useful metaphors to design token economies"
 date: 2022-04-16
 tags:
-- seed
+- sapling
 ---
 
 See also: [emergence](/notes/emergence.md)

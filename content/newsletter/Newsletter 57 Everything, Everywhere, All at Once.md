@@ -2,7 +2,7 @@
 title: "Newsletter 57 Everything, Everywhere, All at Once"
 date: 2022-05-03
 tags:
-- seed
+- fruit
 ---
 
 The writing process is thrilling. Like the best adrenaline, endorphin, and serotonin, pumping drug that you can find, writing takes your mind on a journey through space and time, cutting through the filtered, people-pleasing, nod and smile, reality of daily life.

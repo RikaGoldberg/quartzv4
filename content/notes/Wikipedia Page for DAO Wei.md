@@ -2,7 +2,7 @@
 title: "Wikipedia Page for DAO Wei"
 date: 2022-04-12
 tags:
-- seed
+- 
 ---
 
 May 12 2022 Update: 

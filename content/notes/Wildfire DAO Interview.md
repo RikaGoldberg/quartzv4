@@ -21,7 +21,7 @@ Interview with [Matt Johnson](https://twitter.com/OmnistratMatt)
 
 - 1 of 16 core operators. 
 
-- Structured under working groups. Infrastructure, creative, public goods, DeFi
+- Structured under working groups. Infrastructure, creator economy, public goods, DeFi
 
 **Tell me about public goods working group**
 

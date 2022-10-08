@@ -2,7 +2,7 @@
 title: "Newsletter 56 Clearing up some myths about laziness"
 date: 2022-05-03
 tags:
-- seed
+- fruit
 ---
 
 _I feel overworked from the week, so this will be a short post. Feel free to leave a comment or send me an email if there is a topic or an idea that you want me to write about._

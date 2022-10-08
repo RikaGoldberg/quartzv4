@@ -2,7 +2,7 @@
 title: "The Art of Breeding Art"
 date: 2022-05-10
 tags:
-- seed
+- sapling
 ---
 
 ### Quotes

@@ -2,12 +2,12 @@
 title: "Community and Web3"
 date: 2022-09-19
 tags:
-- seed
-- inbox 
+- sapling 
 ---
 
-See:  [Nouns DAO Interview](/Nouns%20DAO%20Interview.md)
+I like how Kelsie in the academic paper starts with argument/thesis and then uses 1Hive as a Case Study. Need to do that for Nouns too. 
 
+See:  [Nouns DAO Interview](/Nouns%20DAO%20Interview.md)
 
 https://docs.google.com/document/d/1z4yyZkVUfXOG0oHUS7W_thIuviCUQwSCAH8hvknAI9E/edit?usp=sharing
 
