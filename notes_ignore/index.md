@@ -7,7 +7,7 @@ disableToc: true
 [continous token bonding curve](quartz/notes_ignore/continous%20token%20bonding%20curve.md)
 [computer memory management](quartz/notes_ignore/computer%20memory%20management.md)
 [creative commons](quartz/notes_ignore/creative%20commons.md)
-[cybernetics](quartz/notes_ignore/cybernetics.md)
+[cybernetics](quartz/content/notes/cybernetics.md)
 [desire](desire) [diversity](quartz/content/notes/diversity.md) [media theory](quartz/notes_ignore/media%20theory.md)
 [Metafactory](quartz/notes_ignore/Metafactory.md)
 [self-organization](quartz/notes_ignore/self-organization.md)

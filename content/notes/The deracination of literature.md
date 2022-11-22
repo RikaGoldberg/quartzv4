@@ -2,19 +2,19 @@
 title: "The deracination of literature"
 date: 2022-07-28
 tags:
-- seed
+- sapling
 ---
 
 Source: https://unherd.com/2022/06/the-death-of-literature/?ref=refind
 
 ## Highlights
-We all have had the experience of speaking with someone who seems friendly, who is smiling at you and yet who is making you very uncomfortable — or the reverse: we’ve all known people who act like aggressive jerks, yet for some reason we feel warmly towards them; we are responding sympathetically to something that is happening under the social signaling and is even at odds with that signaling.
+We all have had the experience of speaking with someone who seems friendly, who is smiling at you and yet who is making you very uncomfortable — or the reverse: **we’ve all known people who act like aggressive jerks, yet for some reason we feel warmly towards them; we are responding sympathetically to something that is happening under the social signaling and is even at odds with that signaling.**
 
-The unconscious and the viscera; each is a fundamental force behind the person you look at. Something comparable to that fundamental inner quality or qualities are what make a piece of writing alive or not.
+The unconscious and the viscera; each is a fundamental force behind the person you look at. **Something comparable to that fundamental inner quality or qualities are what make a piece of writing alive or not.**
 
 Strangely, writers themselves sometimes don’t know what this inner force is in their own work because it is so entwined with our own way of seeing, we barely notice it, any more than we notice our own breath
 
-The paradox of this mystic inner quality is that its depth gets expressed by what we think of as a superficial quality: style. 
+**The paradox of this mystic inner quality is that its depth gets expressed by what we think of as a superficial quality: style.** 
 
 Writing is a rational process of connected thoughts and ideas, but great writing comes from a stranger place; an interface between the intensely intimate perception of an individual and the social and natural worlds.
 
@@ -34,5 +34,5 @@ Curious, I stood to look over their shoulders and saw what they were so raptly t
 
 I’m sure they were not even aware of me but still, witnessing their shared seeing was like a spiritual recognition similar to what I might experience alone in my room, reading the world through the eyes of a great writer.
 
-how the deep nature of stories can be revealed through descriptive imagery of small things irrelevant to the obvious narrative — unexpectedly poignant things we notice intensely or just out the corner of our eye, glimpsed patterns outside the spectrum of our daily lives.
+**how the deep nature of stories can be revealed through descriptive imagery of small things irrelevant to the obvious narrative — unexpectedly poignant things we notice intensely or just out the corner of our eye, glimpsed patterns outside the spectrum of our daily lives.**
 

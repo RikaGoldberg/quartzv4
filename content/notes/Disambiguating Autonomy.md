@@ -8,8 +8,20 @@ tags:
 Source:
 [Disambiguating Autonomy](https://www.youtube.com/watch?v=vRvixfVYpU0&feature=youtu.be)
 
+See Also:  
+
+[cybernetics](/notes/cybernetics.md)
+
+[Applying Stafford Beers Viable System Model to Decentralized Organization](/notes/Applying%20Stafford%20Beers%20Viable%20System%20Model%20to%20Decentralized%20Organization.md)
+
+[Aligning DAOs to Precedents in Cybernetics](/notes/Aligning%20DAOs%20to%20Precedents%20in%20Cybernetics.md)
+
+[Anarchist Cybernetics](/notes/Anarchist%20Cybernetics.md)
+
+[Tipping the Scale](/notes/Tipping%20the%20Scale.md)
+
 ## Highlights
-So the book is called anarchists CYBERNETICS by Thomas swan. It's from 2020. And the fifth chapter is control part two. And it is about effective freedom and collective autonomy.
+So the book is called anarchists CYBERNETICS by Thomas Swann. It's from 2020. And the fifth chapter is control part two. And it is about effective freedom and collective autonomy.
 
 So, for starters, I run into this problem all the time so I'm going to give my, my decomposition of the word I have is not an absolute one insofar as other people might use these terms a little differently. But if we really want to get the gist of the topics people address with the word autonomy.
 

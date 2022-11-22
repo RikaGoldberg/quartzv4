@@ -8,7 +8,7 @@ I wrote the Uniswap piece. I had an objective. There was accountability and I di
 
 What would happen if we had no objectives and no accountability? 
 
-[People don't know what they want](People%20don't%20know%20what%20they%20want)
+[People don't know what they want](quartz/content/notes/People%20don't%20know%20what%20they%20want.md)
 
 Knowing what we want is a process of discovery. 
 

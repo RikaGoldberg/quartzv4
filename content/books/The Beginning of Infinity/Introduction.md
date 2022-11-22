@@ -2,14 +2,14 @@
 title: "Introduction"
 date: 2022-06-06
 tags:
-- seed
+- sapling
 ---
+
+See: [The Beginning of Infinity, David Deutsch](/books/The%20Beginning%20of%20Infinity/The%20Beginning%20of%20Infinity,%20David%20Deutsch.md)
 
 Progress that is both rapid enough to be noticed and stable enough to continue over many generations has been achieved only once in the history of our species. It began at approximately the time of the scientific revolution, and is still under way. It has included improvements not only in scientific understanding, but also in technology, political institutions, moral values, art, and every aspect of human welfare.
 
 Whenever there has been progress, there have been influential thinkers who denied that it was genuine, that it was desirable, or even that the concept was meaningful. They should have known better. **There is indeed an objective difference between a false explanation and a true one, between chronic failure to solve a problem and solving it, and also between wrong and right, ugly and beautiful, suffering and its alleviation - and thus between stagnation and progress in the fullest sense.**
-
-is indeed an objective difference between a false explanation and a true one, between chronic failure to solve a problem and solving it, and also between wrong and right, ugly and beautiful, suffering and its alleviation - and thus between stagnation and progress in the fullest sense.
 
 **In this book I argue that all progress, both theoretical and practical, has resulted from a single human activity: the quest for what I call good explanations.** **Though this quest is uniquely human, its effectiveness is also a fundamental fact about reality at the most impersonal, cosmic level - namely that it conforms to universal laws of #nature that are indeed good explanations. This simple relationship between the cosmic and the human is a hint of a central role of people in the cosmic scheme of things.**
 

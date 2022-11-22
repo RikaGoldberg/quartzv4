@@ -10,7 +10,7 @@ Description:
 
 self-organization is a process where some form of overall order arises from local interactions between parts of an initially disordered system.
 
-In [[content/content/system]] theory the way [[content/content/donnella meadows]] defines self-organization is [[content/content/self organization is a system's ability to change itself by creating whole new structures and behaviors]]
+In [[content/content/system]] theory the way [[content/content/donnella meadows]] defines self-organization is [[quartz/content/notes/self organization is a system's ability to change itself by creating whole new structures and behaviors]]
 
 [[content/content/self-organization]] occurs in many physical, chemical, biological, robotic, and cognitive systems. Examples of self-organization include crystallization, thermal convection of fluids, chemical oscillation, animal swarming, neural circuits, and black markets.
 

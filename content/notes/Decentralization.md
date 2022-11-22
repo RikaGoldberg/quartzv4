@@ -2,12 +2,12 @@
 title: "Decentralization"
 date: 2022-07-26
 tags:
-- seed
+- sapling
 ---
 
 See also: [Become a student of the wei](/notes/Become%20a%20student%20of%20the%20wei.md)
 
-[Decentralization enables permissionless innovation ](/notes/Decentralization%20enables%20permissionless%20innovation%201.md)
+[Decentralization enables permissionles innovation](/notes/Decentralization%20enables%20permissionless%20innovation%201.md)
 
 Saplings:
 

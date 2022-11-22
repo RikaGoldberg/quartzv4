@@ -2,9 +2,11 @@
 title: "Closer to Reality"
 date: 2022-06-09
 tags:
-- seed
+- sapling
 ---
 Source: [The Beginning of Infinity, David Deutsch](https://www.goodreads.com/book/show/10483171-the-beginning-of-infinity)
+
+See: [The Beginning of Infinity, David Deutsch](/books/The%20Beginning%20of%20Infinity/The%20Beginning%20of%20Infinity,%20David%20Deutsch.md)
 
 ## Highlights
 A galaxy is a mind-bogglingly huge thing. For that matter, a star is a mind-bogglingly huge thing. Our own planet is. A human brain is -in terms of both its internal complexity and the reach of human ideas. And there can be thousands of galaxies in a cluster, which can be millions of light years across. **The phrase 'thousands of galaxies' trips lightly off the tongue, but it takes a while to make room in one's mind for the reality of it.**

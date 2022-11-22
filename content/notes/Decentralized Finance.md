@@ -5,7 +5,7 @@ tags:
 - Sapling
 ---
 
-See: [Crypto Investing](/notes/Crypto%20Investing.md) 
+See: [Crypto Investing 1](quartz/content/notes/Crypto%20Investing%201.md) 
 
 Sign Up: https://docs.tokenterminal.com/pricing
 
@@ -18,7 +18,7 @@ Sign Up: https://docs.tokenterminal.com/pricing
 [Vote Escrow (VeTokens)](/notes/Vote%20Escrow%20(VeTokens).md)
 
 ### DeFi Education
-See also: [DeFi Portolio](/notes/DeFi%20Portolio.md)
+See also: [DeFi Portolio](quartz/content/notes/DeFi%20Portolio.md)
 
 [The DeFi Edge Resources](https://www.thedefiedge.com/resources/)
 

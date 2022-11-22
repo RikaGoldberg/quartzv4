@@ -6,6 +6,7 @@ tags:
 ---
 
 See: [Decentralized Finance](/notes/Decentralized%20Finance.md)
+[Investment Thesis](/notes/Investment%20Thesis.md)
 
 *Not advice, but education*
 

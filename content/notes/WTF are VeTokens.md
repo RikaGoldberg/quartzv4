@@ -5,13 +5,13 @@ tags:
 - seed
 ---
 
-![](quartz/content/images/Pasted%20image%2020220930215648.png)
+![](/images/Pasted%20image%2020220930215648.png)
 
 https://twitter.com/thedefiedge/status/1511737966862823430?s=20&t=NEREcmhsoVlCI52DJD62bw
 
 Stablecoins are in a war for liquidity, so they sometimes bribe you to vote for them. You can vote on Curve for which AMM pools get the most rewards. With more voting power, you can vote for your pool. 
 
-![](quartz/content/images/Pasted%20image%2020220930220508.png)
+![](/images/Pasted%20image%2020220930220508.png)
 
 [https://newsletter.banklesshq.com/p/wtf-are-vetokens?utm_source=url](https://newsletter.banklesshq.com/p/wtf-are-vetokens?utm_source=url)
 
@@ -36,4 +36,3 @@ A final reason as to why the ve-model is powerful is through improving the suppl
 **As previously discussed, the first iteration of DeFi tokens, the “valuelesss governance token” model, creates perpetual sell pressure with no underlying demand to help stem the downward tide.**
 
 **For supply, vote-locking serves as a mechanism to remove tokens from the open market. This helps to offset the high emissions that some protocol’s produce, and we’ve seen existing ve-tokens be locked at very high rates.**
-

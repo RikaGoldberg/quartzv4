@@ -2,7 +2,7 @@
 title: "The Reach of Explanations"
 date: 2022-06-06
 tags:
-- seed
+- sapling
 ---
 
 As for the **Milky Way**, you will be told that, despite its insubstantial appearance, it is the most massive object that we can see with the naked eye: **a galaxy that includes stars by the hundreds of billions, bound by their mutual gravitation across tens of thousands of light years.** We are seeing it from the inside, because we are part of it. You will be told that, **although our night sky appears serene and largely changeless, the universe is seething with violent activity.** **Even a typical star converts millions of tonnes of mass into energy every second, with each gram releasing as much energy as an atom bomb.** You will be told that within the range of our best telescopes, which can see more galaxies than there are stars in our galaxy, **there are several supernova explosions per second, each briefly brighter than all the other stars in its galaxy put together.** We do not know where life and intelligence exist, if at all, outside our solar system, so we do not know how many of those explosions are horrendous tragedies. **But we do know that a supernova devastates all the planets that may be orbiting it, wiping out all life that may exist there - including any intelligent beings, unless they have technology far superior to ours**. Its neutrino radiation alone would kill a human at a range of billions of kilometres, even if that entire distance were filled with lead shielding. **Yet we owe our existence to supernovae: they are the source, through transmutation, of most of the elements of which our bodies, and our planet, are composed.**
