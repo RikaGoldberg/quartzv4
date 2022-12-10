@@ -1,23 +1,16 @@
 ---
-title: "DAO"
-date: 2022-04-06
+title: "Decentralized Autonomous Organization,DAO"
+date: 2022-04-06 
 tags:
 - Sapling
 ---
-**Related to **: 
-
-[YODA](/notes/YODA.md)
-
 [DAO Wei](/notes/DAO%20Wei.md)
-
-[MetaCartel DAO](/notes/MetaCartel%20DAO.md) 
-
-[Foster DAO](/notes/Foster%20DAO.md) 
-
-[MetaFactory](/notes/MetaFactory.md)
-
+[DAO Advice](/notes/DAO%20Advice.md) 
 [DAO Haus](/notes/DAO%20Haus.md)
-
+[Foster DAO](/notes/Foster%20DAO.md) 
+[MetaCartel DAO](/notes/MetaCartel%20DAO.md) 
+[MetaFactory](/notes/MetaFactory.md)
+[YODA](/notes/YODA.md)
 
 ## A Definition
 DAO stands for decentralized autonomous organization. 

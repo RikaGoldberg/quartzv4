@@ -1,9 +1,10 @@
 ---
 title: "Decentralized Finance"
-date: 2022-04-05
+date: 2022-12-09
 tags:
-- Sapling
+- sapling
 ---
+
 
 See: [Crypto Investing 1](quartz/content/notes/Crypto%20Investing%201.md) 
 

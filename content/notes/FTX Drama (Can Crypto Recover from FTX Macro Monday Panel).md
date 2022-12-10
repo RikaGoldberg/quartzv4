@@ -9,9 +9,9 @@ tags:
 
 https://www.youtube.com/watch?v=0BbfwaaxGU0
 
-Alex Kruger: Something the public maybe missing: the company that has the assets & company that went bankrupt (intervened by bhamaas) are separate companies. They have headquarters in bahamas and then digital company is in antigua. During week, friends and family making up excuses to get funds to US entities. Bankruptcy ch. 11 should have been done on Friday, not days after. 
+Alex Kruger: Something the public maybe missing: **the company that has the assets & company that went bankrupt (intervened by bahamas) are separate companies.** They have headquarters in bahamas and then digital company is in antigua. During week, friends and family making up excuses to get funds to US entities. Bankruptcy ch. 11 should have been done on Friday, not days after. 
 
-There was a hack on Saturday morning. 
+**There was a hack on Saturday morning.** 
 
 Friday night (12th, my first day home after my wild long travel day), was wild, mainstream media talking about. 
 
@@ -19,7 +19,7 @@ Where is clarity on where 600M in funds went? Alex: very likely, internal hack. 
 
 Alex Kruger: **99.99% of people who are active in crypto (live in crypto) not passive traders but people who manage money every day, had no idea this was coming.**
 All started with a Coindesk leak of Alameda balance sheet. Such a shock. 
-Alameda and FTX were supposed to be separate. SBF said they are separate and just another liquidity provider. 
+Alameda and FTX were supposed to be separate. **SBF said they are separate and just another liquidity provider.** 
 
 Genevieve: most of his customers assets were offshore in bahamas so he violated terms of use. will he be prosecuted in US or in bahamas? 
 
@@ -30,7 +30,7 @@ Genevieve: Assets were supposed to be frozen later Ch. 11 bankruptcy. Bahamican 
 Peter Tchir: **Distressed debt guys are very good**. 
 
 Scott: It's impossible to process what is happening b/c its happening so fast. 
-Could SEC have protected consumers? 
+**Could SEC have protected consumers?** 
 
 Genevieve: CEO of Coinbase says they're regulated business. **Must hold 1:1 assets of customer deposits**. **Because of lack of regulation from SEC, it's pushed capital offshore. 
 There is a lot of pressure now from SEC to clarify.** **Hester Pierce said its SECs fault for not being more clear. She's been critical from the beginning.** 
@@ -51,7 +51,7 @@ Genevieve: 2.1 Billion in Serum coin (now worthless)
 Peter: Ripple effects into non crypto markets. 3 Trillion to .5B now. **Amount of wealth destroyed is huge. FTX is buying ad space, web services, servers, etc. And there are many crypto companies like that. Need to show growth at all costs. Employees felt rich. So much wealth creation to economy. Old economists were dismissive and didn't see the impact to economy. 3T is a lot to add to economy. Will put inflationary pressure on economy. Many trad'l economists ignored it on the way up. Perhaps more bloat in crypto because it's a more speculative assets. Goes straight to money printer and covid response. 
 ARC traditional equity too.**
 
-Melker: Can see this with public miners. Bought a bunch of miners that were delayed 6 months. Peter, you're missing an important element. Which is the responsibility of the Fed and money printing. Same thing happening in real estate and in used cars. Goes straight to money printer and covid response. Quantitative easing. **Newman's cradle** the ball at the far end explodes. Crypto and riskiest stocks exploded. **QE goes to asset price inflation**. Don't see it at the assets they're buying because risk gets pushed out to the edges. I think will create downward pressure. I have no idea how to value tokens. **For stocks, we have mechanism for understanding cash flow and valuation. But not for tokens.** 
+Melker: Can see this with public miners. Bought a bunch of miners that were delayed 6 months. Peter, you're missing an important element. Which is the responsibility of the Fed and money printing. **Same thing happening in real estate and in used cars. Goes straight to money printer and covid response. Quantitative easing. **Newman's cradle** the ball at the far end explodes. Crypto and riskiest stocks exploded.** **QE goes to asset price inflation**. Don't see it at the assets they're buying because risk gets pushed out to the edges. I think will create downward pressure. I have no idea how to value tokens. **For stocks, we have mechanism for understanding cash flow and valuation. But not for tokens.** 
 
 Alex: **FTT was clearly a Ponzi insider.** **FTT can be valued in a systematic way. FTT represented an exchange seat - discount on trading fees. Same as with traditional exchange. Back in the day was like 200k to buy a seat, now nothing.** 
 With QE this time, unlike 08-14, it went straight into the economy. In 08-14, deposits barely changed but in 2020 deposits did go up. 

@@ -9,7 +9,7 @@ tags:
 
 Of persons arrived at high positions, ceremonies, wealth, scholarships, and the like;
 
-(To me all that those persons have arrived at sinks away fr them, except as it results to their bodies and souls, So that often to me they appear gaunt and naked,
+(To me all that those persons have arrived at sinks away from them, except as it results to their bodies and souls, So that often to me they appear gaunt and naked,
 
 And often to me each one mocks the others, and mocks
 

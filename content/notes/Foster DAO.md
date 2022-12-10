@@ -8,6 +8,8 @@ tags:
 
 See: [What would make you proud of Foster DAO in the next 60 days?](/notes/What%20would%20make%20you%20proud%20of%20Foster%20DAO%20in%20the%20next%2060%20days?.md)
 
+Exiting Foster DAO. November 22nd. #inbox 
+
 ### Co-writing
 [Community and Web3](/notes/Community%20and%20Web3.md)
 
