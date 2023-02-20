@@ -2,7 +2,7 @@
 title: "Working in Public"
 ---
 
-Hi, my name is Rika, and I am a full-time [Decentralized Autonomous Organization, a.k.a. DAO](/notes/Decentralized%20Autonomous%20Organization,%20DAO.md) contributor.  I believe in [working with the garage door open](https://notes.andymatuschak.org/About_these_notes?stackedNotes=z21cgR9K3UcQ5a7yPsj2RUim3oM2TzdBByZu). This means I share my work and my thoughts in public, on this website. The site is minimal, so you can click on any link and start to go down that topic's rabbit hole. 
+Hi, my name is Rika, and I am a full-time [Decentralized Autonomous Organization, a.k.a. DAO](/notes/Decentralized%20Autonomous%20Organization,%20DAO.md) contributor.  I believe in [working with the garage door open](https://notes.andymatuschak.org/About_these_notes?stackedNotes=z21cgR9K3UcQ5a7yPsj2RUim3oM2TzdBByZu) so I use this website to share my work and thoughts. If you feel called to do so, click on any link and start to go down that topic's rabbit hole (kind of like you would on Wikipedia).
 
 First and foremost, I am a writer who is interested in [systems thinking](/notes/Systems%20thinking.md) and emerging complex systems, like [DAOs](/notes/Decentralized%20Autonomous%20Organization,%20DAO.md). I am also interested in [money](/notes/Money.md), which as Vitalik recently pointed out, continues to be [the most important cryptocurrency app](https://vitalik.eth.limo/general/2022/12/05/excited.html).
 
@@ -19,7 +19,8 @@ First and foremost, I am a writer who is interested in [systems thinking](/notes
 [Emergence](/notes/emergence.md)| [Foster DAO](/notes/Foster%20DAO.md) | [Experiments](/notes/Experiments.md) |  [Foster Diversity and Inclusion Fellowship](/notes/Foster%20Diversity%20and%20Inclusion%20Fellowship.md) | 
 [Gordon Brander](/notes/Gordon%20Brander.md) | [Governance](/notes/Governance.md) 
 [Healthy Confidence](/notes/Healthy%20Confidence.md) | [How does one achieve great things?](/notes/How%20does%20one%20achieve%20great%20things?.md)
-[Lore](/notes/Lore.md)| [Money](/notes/Money.md) | [Meta Review of Governance](https://docs.google.com/document/d/1QNgc3sx_1x12Fi2KcWCT1CAvHigq3xrTgt9zycZPZNk/edit?usp=sharing) 
+[Investing](/notes/Investing.md)
+[Lore](/notes/Lore.md)| [Money](/notes/Money.md) | [Mochi](/notes/Mochi.md)[Meta Review of Governance](https://docs.google.com/document/d/1QNgc3sx_1x12Fi2KcWCT1CAvHigq3xrTgt9zycZPZNk/edit?usp=sharing) 
 [Sailboat Metaphor](/notes/Sailboat%20Metaphor.md)|
 [Systems thinking](/notes/Systems%20thinking.md)|
 [The Internet of Jobs](/notes/The%20Internet%20of%20Jobs.md) | [The Metaverse - A B2B Play](/notes/The%20Metaverse%20-%20A%20B2B%20Play.md) | [Metta Gamma Delta $1M fund](/notes/Metta%20Gamma%20Delta%20$1M%20fund.md) | [Token Engineering](/notes/Token%20Engineering.md) | [Systems Principles](/notes/Systems%20thinking.md) | [Token Engineering Fundamentals Course](/notes/Token%20Engineering%20Fundamentals%20Course.md) | [Stephen Porges](/notes/Stephen%20Porges) | 
@@ -38,7 +39,7 @@ First and foremost, I am a writer who is interested in [systems thinking](/notes
 #### Focus Areas
 [Decentralized Finance](/notes/Decentralized%20Finance.md)
 * [DAOing](/notes/DAOing.md)
-* [Crypto Investing](/notes/Crypto%20Investing%201.md)
+* [Investing](/notes/Investing.md)
 * [Local Writing Community](/notes/Local%20Writing%20Community.md)
 * [Interior Decorating](/notes/Interior%20Decorating.md)
 * [Token Engineering](/notes/Token%20Engineering.md)

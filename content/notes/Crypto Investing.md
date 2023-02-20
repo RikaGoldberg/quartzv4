@@ -2,7 +2,7 @@
 title: "Crypto Investing"
 date: 2022-09-19
 tags:
-- seed
+- sapling
 ---
 
 See: [Decentralized Finance](/notes/Decentralized%20Finance.md)

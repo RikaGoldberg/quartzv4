@@ -6,4 +6,4 @@
 #fleetingnotes 
 Because of decentralized finance, a brand can create an economy, which means a marketplace for an asset without a central authority. 
 
-MetaFactory uses [[quartz/notes_ignore/balancer]]. You can buy Robot on balancer. 
+MetaFactory uses [[quartz/content/notes/Balancer]]. You can buy Robot on balancer. 

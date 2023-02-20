@@ -6,9 +6,8 @@ tags:
 ---
 
 
-See: [Crypto Investing 1](quartz/content/notes/Crypto%20Investing%201.md) 
+See: [Crypto Investing](/notes/Crypto%20Investing.md)
 
-Sign Up: https://docs.tokenterminal.com/pricing
 
 ### Properties
 * [Composability](/notes/Composability.md) -- used existing resources as shared infrastructure. Developers can do more with less. 
@@ -19,7 +18,7 @@ Sign Up: https://docs.tokenterminal.com/pricing
 [Vote Escrow (VeTokens)](/notes/Vote%20Escrow%20(VeTokens).md)
 
 ### DeFi Education
-See also: [DeFi Portolio](quartz/content/notes/DeFi%20Portolio.md)
+See also: [DeFi Portolio](/notes/DeFi%20Portolio.md)
 
 [The DeFi Edge Resources](https://www.thedefiedge.com/resources/)
 
