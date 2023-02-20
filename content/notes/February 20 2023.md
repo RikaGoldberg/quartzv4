@@ -5,7 +5,7 @@ tags:
 - seed
 ---
 
-Related to: [/notes/MetaGame Growth Daily Blurbs](/notes/MetaGame%20Growth%20Daily%20Blurbs)
+Related to: [MetaGame Growth Daily Blurbs](/notes/MetaGame%20Growth%20Daily%20Blurbs)
 
 I started my rabbit hole journey today into MetaGame's
 [tokenomics](notes/Token%20Engineering%20Fundamentals%20Course.md). It's important thatI have an understanding of the fundamentals so that I can explain the value to potential patrons who I meet at ETHPorto. Furthermore, I want to participate in MetaGame's token economy, dog fooding the project that I am contributing to by staking a portion of the Seeds that I earn each month. This "play to earn" model is what MetaGame and, more broadly, Web3 is all about. The coolest thing is that I get rewarded for learning and I "level-up" by creating more value (on both the individual and the project level) using my acquired knowledge. Taking it one step further, token economies in Web3, unlike in Web2, are interconnected. This means that tokens from different projects are constantly impacting each other. The whole ethos of Web3 is positive sum and collaborative, rather than zero sum and extractive. Tokenomics plays a super important role in the health of Web3.
