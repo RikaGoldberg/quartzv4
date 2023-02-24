@@ -6,6 +6,9 @@ tags:
 - seed
 ---
 
+#### Tokenomics
+[$SEED](/notes/$SEED.md)
+
 #### Growth
 In my latest [Mochi](/content/notes/Mochi.md) journey, I set a goal to write a [daily blurb](/notes/MetaGame%20Growth%20Daily%20Blurbs.md) about MetaGame growth/fundraising. 
 

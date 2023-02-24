@@ -29,6 +29,8 @@ Token engineering is a scientific discipline that builds on cryptoeconomics. It 
 
 [Key Components of Automated Market Makers](/notes/Key%20Components%20of%20Automated%20Market%20Makers.md)
 
+[The 9 Types of Blockchain Gamers](https://naavik.co/digest/blockchain-players)
+
 
 
 
