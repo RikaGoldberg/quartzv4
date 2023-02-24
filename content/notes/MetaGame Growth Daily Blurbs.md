@@ -13,6 +13,8 @@ tags:
 
 [February 23 2023](/notes/February%2023%202023.md)
 
+[February 24 2023](/notes/February%2024%202023.md)
+
 
 
 
