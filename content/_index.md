@@ -20,7 +20,7 @@ First and foremost, I am a writer who is interested in [systems thinking](/notes
 [Gordon Brander](/notes/Gordon%20Brander.md) | [Governance](/notes/Governance.md) 
 [Healthy Confidence](/notes/Healthy%20Confidence.md) | [How does one achieve great things?](/notes/How%20does%20one%20achieve%20great%20things?.md)
 [Investing](/notes/Investing.md)
-[Lore](/notes/Lore.md)| [Money](/notes/Money.md) | [Mochi](/notes/Mochi.md)[Meta Review of Governance](https://docs.google.com/document/d/1QNgc3sx_1x12Fi2KcWCT1CAvHigq3xrTgt9zycZPZNk/edit?usp=sharing) 
+[Lore](/notes/Lore.md)| [MetaGame](/notes/MetaGame.md) | [Money](/notes/Money.md) | [Mochi](/notes/Mochi.md)[Meta Review of Governance](https://docs.google.com/document/d/1QNgc3sx_1x12Fi2KcWCT1CAvHigq3xrTgt9zycZPZNk/edit?usp=sharing) 
 [Sailboat Metaphor](/notes/Sailboat%20Metaphor.md)|
 [Systems thinking](/notes/Systems%20thinking.md)|
 [The Internet of Jobs](/notes/The%20Internet%20of%20Jobs.md) | [The Metaverse - A B2B Play](/notes/The%20Metaverse%20-%20A%20B2B%20Play.md) | [Metta Gamma Delta $1M fund](/notes/Metta%20Gamma%20Delta%20$1M%20fund.md) | [Token Engineering](/notes/Token%20Engineering.md) | [Systems Principles](/notes/Systems%20thinking.md) | [Token Engineering Fundamentals Course](/notes/Token%20Engineering%20Fundamentals%20Course.md) | [Stephen Porges](/notes/Stephen%20Porges) | 

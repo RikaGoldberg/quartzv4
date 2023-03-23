@@ -13,6 +13,8 @@ Notion (Old Study Group): https://te-academy.notion.site/Token-Blacksmith-Study-
 
 Notion (New Study Group, Machinations): https://www.notion.so/te-academy/Machinations-Study-Group-49068407abbd4bcfad949cddab73a223
 
+* *[Machinations](/notes/Machinations.md)
+
 Token engineering is a scientific discipline that builds on cryptoeconomics. It combines the core aspects of any engineering discipline: a body of theory, tools that reconcile theory with practice, and a sense of responsibility over what is being designed. 
 
 ![crypto ecosystem lay of the land](/images/Pasted%20image%2020221005200706.png)

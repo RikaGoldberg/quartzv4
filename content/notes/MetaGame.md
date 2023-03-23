@@ -23,6 +23,14 @@ What are we doing? We're scouting Playbooks creators(outside of the MetaFam!) an
 2. We want to provide Playbooks as a Service to DAOs (immediate next step is to do a little user research to understand what DAO needs are for playbooks)
 3. Sponsorship
 
+#### Brain Dump
+
+MetaGame is very developer heavy.  And people do a lot of different activities. That's the way it should be. People work on what they are interested in, there is autonomy and freedom, and things happen. I keep thinking about how it's important to watch out for number one. The collective, koombaya, trying to please everyone vibe doesn't work. In DAOs, just like in real life, there are the people who will manipulate you (control you), who will not do work, who will be fake nice, who are talking heads but won't actually take action. 
+
+#### MetaGame Kanban/Canvas/Actions
+
+
+
 
 
 

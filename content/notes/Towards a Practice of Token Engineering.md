@@ -10,7 +10,7 @@ Source:
 
 https://blog.oceanprotocol.com/towards-a-practice-of-token-engineering-b02feeeff7ca
 
-Token token leverages the existing fields of:
+Token engineering leverages the existing fields of:
 - optimization design 
 - software engineering patterns, and 
 - simulation, verification, and design space exploration (CAD tools)
