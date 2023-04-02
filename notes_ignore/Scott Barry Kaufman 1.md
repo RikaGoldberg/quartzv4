@@ -1,1 +1,0 @@
-Author of [[quartz/notes_ignore/Transcend the New Science of Self-Actualization]]

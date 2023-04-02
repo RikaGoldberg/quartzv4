@@ -4,7 +4,7 @@
 https://consensys.net/blog/enterprise-blockchain/decentralized-brand-economies-the-key-to-blockchain-mass-adoption/
 
 #summary
-Social networks are due for a disruption, but existing powerhouses like Facebook are entrenched because they have data on users, and [[data]], these days, is king. A new social network has to build deep belonging through a [[content/content/brand community]]and it needs activation energy from AR and VR. A decentralized [[content/content/brand economy]] means creating a marketplace for the [[content/content/brand]]'s assets. 
+Social networks are due for a disruption, but existing powerhouses like Facebook are entrenched because they have data on users, and [data](/notes/Data.md), these days, is king. A new social network has to build deep belonging through a [brand community](quartz/notes_ignore/brand%20community.md)[[content/content/brand community]]and it needs activation energy from AR and VR. A decentralized [brand economy](quartz/notes_ignore/brand%20economy.md) means creating a marketplace for the [brand's](quartz/notes_ignore/brand.md) assets. 
 
 #notes 
 Easy flow of information fueled mass adoption of the Internet. If finance was a prereq for the use of Internet apps, the Internet would have not taken off because that is too much friction. Thus, andreas argues that deFi will not drive blockchain adoption . 

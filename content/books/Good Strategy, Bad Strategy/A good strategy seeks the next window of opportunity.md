@@ -3,6 +3,7 @@ title: "A good strategy seeks the next window of opportunity"
 date: 2023-01-23
 tags:
 - seed
+- inbox
 ---
 
 #### Quotes

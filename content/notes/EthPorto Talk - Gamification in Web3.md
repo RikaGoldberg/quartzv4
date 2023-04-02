@@ -5,9 +5,6 @@ tags:
 - seed
 ---
 
-------
-Gamification is  abou
-
 Gamification should be about incentivizing behaviors that make users feel engaged, give them a sense of fun, joy, and concentration. They feel lik they are learning and getting better not just mindlessly pressing buttons or checking your app everyday because they are earning money from it. 
 
 This is unfortunately how many gaming apps work. Users feel like they need to sign in to feed a plant or whateer but it's mindless. They aren't necessarily learning or improving themselves. The problem is that there are no game mechanics. 
