@@ -1,5 +1,5 @@
 ---
-title: "MetaGame Growth Daily Blurb; Reflections on ETHPorto 2023
+title: "MetaGame Growth Daily Blurb, Reflections on ETHPorto 2023
 date: 2023-03-23
 tags:
 - fruit
