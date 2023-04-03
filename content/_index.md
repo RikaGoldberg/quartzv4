@@ -15,7 +15,7 @@ First and foremost, I am a writer who is interested in [systems thinking](/notes
 ### Active Projects
 
 [MetaGame](/notes/MetaGame.md)
-[Metta Gamma Delta (MGD)](/notes/Metta%20Gamma%20Delta%20(MGD).md) as Story #3 in DAO Anthology series
+[Metta Gamma Delta (MGD)](/notes/Metta%20Gamma%20Delta%20(MGD).md) as Story #3 in [YODA](/notes/YODA.md)
 
 ### Index
 

@@ -1,20 +1,11 @@
 ---
-title: "YODA: Anthology of DAOs"
-date: 2022-04-04
+title: "YODA"
+date: 2023-04-03
+tags:
+- fruit
 ---
 
-## What is this? ⁉️
-YODA is a long-term writing project that I am working on. The objective is to write positive narratives about [DAOs](/notes/DAO.md) in the [MetaCartel](/notes/MetaCartel%20DAO.md) family. 
-
-I use the word "family." Is MetaCartel a mafia? LOL. Not really, maybe? No, I don't think so...
-
-Is a MetaCartel a cult? Ha-ha! No..I don't think so. Unlike a cult, I am free to join and write about whatever DAOs I like. I am free to intake whatever information I want. 
-
-I do feel that MetaCartel has my back...just like a functional family. 
-
-MetaCartel is building a family-friendly community and I love being a part of it. It truly feels like MetaCartel members are building something bigger than ourselves, and that is awe-inspring! 
-
-If you are interested in learning more, or joining the family, [holler at me](https://twitter.com/RikaGoldberg) ❤️
+YODA is a DAO Anthology Series that I am writing. Perhaps it will one day become a printed book. 
 
 ## Short Story #1: MetaCartel DAO
 ![YODA](/images/YODA.png) 
