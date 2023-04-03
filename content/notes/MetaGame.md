@@ -15,9 +15,10 @@ High Level:
 - Participating in The Community (this is ad-hoc) (e.g., finding & coordinating speakers for community calls)
 
 Low Level: 
-- [ ] Add Coordinape contributions for March 
+- [x] Add Coordinape contributions for March 
+- [ ] Allocate GIVE to teammates in circles
 - [ ] Write outline for Ceramic/ComposeDB post
-- [ ] Write a draft Quest Chain of [Decentralization - DAO Research Collective](/notes/Decentralization%20-%20DAO%20Research%20Collective.md)for build in public session on [[Journals/2023-04-04]]
+- [ ] Write a draft Quest Chain of [Decentralization - DAO Research Collective](/notes/Decentralization%20-%20DAO%20Research%20Collective.md) for build in public session on [[Journals/2023-04-04]]
 
 #### What is MetaGame? 
 - MetaOS
@@ -37,8 +38,13 @@ I like Hbesso31's TL;DR from his [forum post on MetaGame and Urbanika](https://f
 #### Tokenomics
 [$SEED](/notes/$SEED.md)
 
-#### Growth
-In my latest [Mochi](/content/notes/Mochi.md) journey, I set a goal to write a [daily blurb](quartz/content/notes/MetaGame%20Growth%20Daily%20Blurbs%201.md) about MetaGame growth/fundraising. 
+#### Content
+[ComposeDB](/notes/ComposeDB.md)
+[Ceramic](/notes/Ceramic.md)
+[MetaGame Ceramic Builder's Grant Proposal](/notes/MetaGame%20Ceramic%20Builder's%20Grant%20Proposal.md)
+
+#### Growth 
+In my latest [Mochi](/content/notes/Mochi.md) journey, I set a goal to write a [daily blurb](/notes/MetaGame%20Growth%20Daily%20Blurbs%201.md) about MetaGame growth/fundraising. 
 
 #### How does MetaGame Do What and Why
 

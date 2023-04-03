@@ -23,11 +23,13 @@ tags:
 [MetaGame Growth Daily Blurb March 1 2023](/notes/MetaGame%20Growth%20Daily%20Blurb%20March%201%202023.md)
 [March 14 2023](/notes/ETHPorto%20Conference.md)
 
-[Reflections on ETHPorto 2023](/notes/Reflections%20on%20ETHPorto%202023.md)
+[MetaGame Growth Daily Blurb; Reflections on ETHPorto 2023](/notes/MetaGame%20Growth%20Daily%20Blurb;%20Reflections%20on%20ETHPorto%202023.md)
 
 [MetaGame Growth Daily Blurb March 30 2023](/notes/MetaGame%20Growth%20Daily%20Blurb%20March%2030%202023.md)
 
 [MetaGame Growth Daily Blurb March 31 2023](/notes/MetaGame%20Growth%20Daily%20Blurb%20March%2031%202023.md)
+
+[MetaGame Growth Daily Blurb April 3 2023](/notes/MetaGame%20Growth%20Daily%20Blurb%20April%203%202023.md)
 
 
 

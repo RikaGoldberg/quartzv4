@@ -14,7 +14,7 @@ A [decentralized](/notes/Decentralization.md), [composable](quartz/content/notes
 * Easy to use – Write your models as GraphQL schemas and connect your app using intuitive GraphQL APIs
 * Data composability – Reuse models from the marketplace to bootstrap your app with data, unlocking limitless data composability within ComposeDB’s open data ecosystem.
 * Sign in with Web3 – Securely authenticate users with wallets from Ethereum, Solana, and other popular blockchains.
-* Powered by Ceramic – ComposeDB is built on [Ceramic 1](quartz/content/notes/Ceramic%201.md), a mutable layer for IPFS with anchoring on Ethereum for finality.
+* Powered by Ceramic – ComposeDB is built on [Ceramic 1](/content/notes/Ceramic%201.md), a mutable layer for IPFS with anchoring on Ethereum for finality.
 
 ComposeDB on Ceramic powers Web3 applications and use cases, such as:
 
