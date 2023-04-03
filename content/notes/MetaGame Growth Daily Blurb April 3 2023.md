@@ -15,6 +15,7 @@ There are a few reasons why I think MetaGame is a good candidate for an EF grant
 	> We provide grants and other support for open source projects that strengthen Ethereum's foundations, with a particular focus on builder tools, infrastructure, research and public goods.
 - The EF funded DAO Drops. MetaGame recently ranked #4 on [DAO Drops](https://daodrops.io/) 
 	- Latest grantees can be seen [here](https://esp.ethereum.foundation/about/who-we-support)
+- At the end of 2022, Ethereum.org launched "Quizzes" which is like a bare bones version of Quest Chains. https://twitter.com/ethdotorg/status/1587833328240971777
 
 ![](/images/Pasted%20image%2020230403145652.png)
 
