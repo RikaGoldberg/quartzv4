@@ -2,8 +2,6 @@
 title: "Can Blockchains Go Rogue"
 date: 2022-09-17
 tags:
-- seed
-- inbox
 ---
 
 Source: https://blog.oceanprotocol.com/can-blockchains-go-rogue-5134300ce790

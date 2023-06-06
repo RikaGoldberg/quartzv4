@@ -9,7 +9,7 @@ tags:
 
 https://twitter.com/thedefiedge/status/1511737966862823430?s=20&t=NEREcmhsoVlCI52DJD62bw
 
-Stablecoins are in a war for liquidity, so they sometimes bribe you to vote for them. You can vote on Curve for which AMM pools get the most rewards. With more voting power, you can vote for your pool. 
+Stablecoins are in a war for liquidity, so they sometimes bribe you to vote for them. You can vote on [Curve Finance](/notes/Curve%20Finance.md) for which AMM pools get the most rewards. With more voting power, you can vote for your pool. 
 
 ![](/images/Pasted%20image%2020220930220508.png)
 

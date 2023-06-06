@@ -9,7 +9,7 @@ Author: [Olly.eth](/notes/Olly.eth.md)
 
 https://mirror.xyz/olly.eth/SptJwnUcMMKtvjoD7J-xYCWZZNTBkaksahJ1CH3aWr4
 
-See: [Newsletter 55 An era of uncertainty creates combinatorial possibilities 1](quartz/content/newsletter/Newsletter%2055%20An%20era%20of%20uncertainty%20creates%20combinatorial%20possibilities%201.md)
+See: [Newsletter 55 An era of uncertainty creates combinatorial possibilities 1](quartz/content/projects/newsletter/Newsletter%2055%20An%20era%20of%20uncertainty%20creates%20combinatorial%20possibilities%201.md)
 
 ### Highlights
 Like a toddler taking its first steps, the DAOs of today are immature, unsteady and likely to stumble.

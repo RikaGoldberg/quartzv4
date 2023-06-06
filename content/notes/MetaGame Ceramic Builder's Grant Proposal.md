@@ -2,7 +2,7 @@
 title: "MetaGame Ceramic Builder's Grant"
 date: 2023-03-30
 tags:
-- seed
+- fruit
 ---
 Source: https://forum.ceramic.network/t/proposal-mymeta-idenity-aggregator-for-daoists/564
 

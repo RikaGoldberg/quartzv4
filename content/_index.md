@@ -8,19 +8,31 @@ First and foremost, I am a writer who is interested in [systems thinking](/notes
 
 [Inbox](/tags/inbox)
 
-### Top of Mind 
+### Top of Mind Quotes
 
->One of the challenges is just keeping up with the web3 space while being in the space. I could spend 16 hours a day just reading Twitter and Discord and talking to people and checking out other projects. And because the space is moving so fast, there’s a lot of real value in that. That’s not just a distraction, that’s real research – but if that’s all you do, you don’t get anything built. [Community Spotlight – Spacedog’s journey into web3](https://machinations.io/articles/community-spotlight-spacedogs-journey-into-web3/) 
+>One of the challenges is just keeping up with the web3 space while being in the space. I could spend 16 hours a day just reading Twitter and Discord and talking to people and checking out other projects. And because the space is moving so fast, there’s a lot of real value in that. That’s not just a distraction, that’s real research – but if that’s all you do, you don’t get anything built."
+- [Community Spotlight – Spacedog’s journey into web3](https://machinations.io/articles/community-spotlight-spacedogs-journey-into-web3/) 
 
-### Active Projects
+>Being strategic is being less myopic—less shortsighted—than others. You must perceive and take into account what others do not, be they colleagues or rivals. Being less myopic is not the same as pretending you can see the future. You must work with the facts on the ground, not the vague outlines of the distant future. Whether it is insight into industry structures and trends, anticipating the actions and reactions of competitors, insight into your own competencies and resources, or stretching your own thinking to cover more of the bases and resist your own biases, being “strategic” largely means being less myopic than your un-deliberative self
 
-[MetaGame](/notes/MetaGame.md)
-[Metta Gamma Delta; MGD](/notes/Metta%20Gamma%20Delta;%20MGD.md) as Story #3 in [YODA](/notes/YODA.md) 
+- [Good Strategy, Bad Strategy by Richard Rumelt](/books/Good%20Strategy,%20Bad%20Strategy/Good%20Strategy,%20Bad%20Strategy%20by%20Richard%20Rumelt.md)
+
+>Every business needs a means to sustain itself. If they don’t, they die. Evolution filters, mercilessly.
+
+- [The Web3 Sustainability Loop](/notes/The%20Web3%20Sustainability%20Loop.md)
+
+
+
+### Projects
+
+[MetaGame](/projects/MetaGame.md)
+
+[Metta Gamma Delta; MGD](/notes/Metta%20Gamma%20Delta;%20MGD.md) as Story #3 in [YODA](/notes/YODA.md) [Token Engineering Fundamentals Course](/notes/Token%20Engineering%20Fundamentals%20Course.md)
 
 ### Index
 
-[Andreas Antonopoulos](/notes/Andreas%20Antonopoulos.md) [Ann Berthoff](/notes/Ann%20Berthoff.md)[Blockchain Principles](/notes/Blockchain%20Principles.md) [Belonging](/books/The%20Gifts%20of%20Imperfection/Exploring%20the%20Power%20of%20Love,%20Belonging,%20and%20Being%20Enough.md) [Ceramic 1](quartz/content/notes/Ceramic%201.md)[Communes, Crypto, and DAOs](/notes/Communes,%20Crypto,%20and%20DAOs.md) [Co-Ops and DAOs](/notes/Co-Ops%20and%20DAOs.md) [Crypto Investing](/notes/Crypto%20Investing.md) [DAO Wei](/notes/DAO%20Wei.md) [Donella Meadows](/notes/Donella%20Meadows.md)
-[Decentralization](/notes/Decentralization.md)[Decentralized Autonomous Organization (DAO)](/notes/Decentralized%20Autonomous%20Organization%20(DAO).md)
+[Andreas Antonopoulos](/notes/Andreas%20Antonopoulos.md) [Ann Berthoff](/notes/Ann%20Berthoff.md) [Automated Market Maker](/notes/Automated%20Market%20Maker.md)[Balancer](/notes/Balancer.md)[Blockchain Principles](/notes/Blockchain%20Principles.md) [Belonging](/books/The%20Gifts%20of%20Imperfection/Exploring%20the%20Power%20of%20Love,%20Belonging,%20and%20Being%20Enough.md) [Ceramic ](/notes/Ceramic%201.md)[Communes, Crypto, and DAOs](/notes/Communes,%20Crypto,%20and%20DAOs.md) [Co-Ops and DAOs](/notes/Co-Ops%20and%20DAOs.md) [Crypto Investing](/notes/Crypto%20Investing.md) [DAO Wei](/notes/DAO%20Wei.md) [Donella Meadows](/notes/Donella%20Meadows.md)
+[Decentralization](/notes/Decentralization.md)[Decentralized Autonomous Organization (DAO)](/notes/Decentralized%20Autonomous%20Organization%20(DAO).md) [Decentralized Finance](/notes/Decentralized%20Finance.md)
 [Digital Garden Process](/notes/Digital%20Garden%20Process.md)
 [Emergence](/notes/emergence.md) [Foster DAO](/notes/Foster%20DAO.md) [Experiments](/notes/Experiments.md) [Foster Diversity and Inclusion Fellowship](/notes/Foster%20Diversity%20and%20Inclusion%20Fellowship.md) 
 [Gordon Brander](/notes/Gordon%20Brander.md) [Governance](/notes/Governance.md)[Healthy Confidence](/notes/Healthy%20Confidence.md) [How does one achieve great things?](/notes/How%20does%20one%20achieve%20great%20things?.md)[Investing](/notes/Investing.md) [Lore](/notes/Lore.md) [MetaGame](/notes/MetaGame.md) [Money](/notes/Money.md) [Mochi](/notes/Mochi.md)[Meta Review of Governance](https://docs.google.com/document/d/1QNgc3sx_1x12Fi2KcWCT1CAvHigq3xrTgt9zycZPZNk/edit?usp=sharing) 

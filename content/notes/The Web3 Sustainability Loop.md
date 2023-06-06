@@ -5,6 +5,9 @@ tags:
 - sapling
 ---
 
+See also: [Investing](/notes/Investing.md)
+[Opolis](/notes/Opolis.md)
+
 ## Highlights
 What if grants are a black hole? Or, if grants end, will the ecosystem survive?
 

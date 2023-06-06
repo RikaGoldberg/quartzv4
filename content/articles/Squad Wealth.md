@@ -3,6 +3,7 @@ title: "Squad Wealth"
 date: 2022-08-09
 tags:
 - seed
+- inbox
 ---
 https://otherinter.net/research/squad-wealth?curius=1599
 

@@ -2,11 +2,13 @@
 title: "Ceramic"
 date: 2023-03-27
 tags:
-- seed
 ---
+A good working definition from [Boilerrat's Awesome Decentralized Autonomous Organizations repo](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations)
+>a [permissionless](/notes/Permissionless.md) protocol for creating and accessing **mutable** (??), tamper-proof documents that serve as the foundation for a web without silos. Ceramic's infrastructure provides a verifiable, censorship-resistant source of truth for important information that is public and interoperable.
+
 https://developers.ceramic.network/learn/welcome/
-> Ceramic is a[decentralized data network](/notes/Decentralized%20Data%20Network.md) that powers an ecosystem of [Interoperable](/notes/Interoperability.md)Web3 applications and services. Ceramic's event streaming protocol is a highly-scalable [decentralized](/notes/Decentralization.md) data infrastructure used for building all kinds of [Interoperability](/notes/Interoperability.md) Web3 services and protocols, such as [[decentralized databases]]. Ceramic-powered databases and services enable thousands of Web3 developers to build data-intensive applications and solve the world's most complex data challenges. By [decentralizing](/notes/Decentralization.md) application databases, Ceramic makes data [composable](/content/notes/Composability.md) and reusable across all applications. 
-> > Ceramic is a [decentralized](/notes/Decentralization.md) event streaming protocol that enables developers to build [decentralized](/notes/Decentralization.md)databases, distributed compute pipelines, and authenticated data feeds, etc. Ceramic nodes can subscribe to subsets of streams forgoing the need of a global network state. This makes Ceramic an eventually consistent system (as opposed to strongly consistent like L1 blockchains), enabling web scale applications to be built reliably.
+> Ceramic is a[decentralized data network](quartz/content/decentralized%20data%20network.md) that powers an ecosystem of [Interoperable](/notes/Interoperability.md)Web3 applications and services. Ceramic's event streaming protocol is a highly-scalable [decentralized](/notes/Decentralization.md) data infrastructure used for building all kinds of [Interoperability](/notes/Interoperability.md) Web3 services and protocols, such as [[decentralized databases]]. Ceramic-powered databases and services enable thousands of Web3 developers to build data-intensive applications and solve the world's most complex data challenges. By [decentralizing](/notes/Decentralization.md) application databases, Ceramic makes data [composable](/content/notes/Composability.md) and reusable across all applications. 
+> Ceramic is a [decentralized](/notes/Decentralization.md) event streaming protocol that enables developers to build [decentralized](/notes/Decentralization.md)databases, distributed compute pipelines, and authenticated data feeds, etc. Ceramic nodes can subscribe to subsets of streams forgoing the need of a global network state. This makes Ceramic an eventually consistent system (as opposed to strongly consistent like L1 blockchains), enabling web scale applications to be built reliably.
 
 https://blog.ceramic.network/launching-create-ceramic-app/?ref=the-ceramic-blog-newsletter
 >Create Ceramic App is a new way to create an app using Ceramic, much like Create React App or Create Next App. We built Create Ceramic App to ensure that you know all the parts and packages that go into using our decentralized network—from interacting with data to using a Web3 wallet for user authentication.
@@ -28,6 +30,6 @@ The protocol doesn't prescribe how to interpret events found within streams; thi
 >  Database - [ComposeDB](/notes/ComposeDB.md) is powered by a network of Ceramic nodes, with global state synced across. Today, you’ll need to run your own node to ensure data availability. You can query against your node using Ceramic’s native Client in GraphQL
 >  Queries and Mutations - After setting up your [ComposeDB Client](https://composedb.js.org/docs/0.4.x/guides/composedb-client/javascript-client), you can perform queries and mutations on ComposeDB data
 		- Queries - allow you to fetch data
-		- Mutations - allow you to create or update data [data](data.md)
+		- Mutations - allow you to create or update [data](data.md)
 
 

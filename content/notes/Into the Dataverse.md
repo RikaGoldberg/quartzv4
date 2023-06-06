@@ -2,8 +2,6 @@
 title: "Into the Dataverse"
 date: 2023-03-29
 tags:
-- seed
-- inbox
 ---
 
 Source: https://blog.ceramic.network/into-the-dataverse/

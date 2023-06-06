@@ -6,7 +6,7 @@ tags:
 ---
 
 ### Seed
-[When to Design for Emergence, Kasey Klimes](/notes/When%20to%20Design%20for%20Emergence,%20Kasey%20Klimes.md)
+[When to Design for Emergence, Kasey Klimes](/articles/When%20to%20Design%20for%20Emergence,%20Kasey%20Klimes.md)
 
 Governance should be designed for [emergence](/notes/emergence.md).
 

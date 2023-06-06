@@ -2,8 +2,6 @@
 title: "Towards a Practice of Token Engineering"
 date: 2022-09-18
 tags:
-- seed
-- inbox 
 ---
 
 Source: 
