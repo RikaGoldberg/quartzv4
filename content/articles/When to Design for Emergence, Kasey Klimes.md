@@ -4,7 +4,10 @@ date: 2022-08-15
 tags:
 - seed
 ---
+#toprocess 
+DAOs should be designed for emergence where the user has agency and control vs. user centered design where user is the test subject. User is not the test subject in daos...
 
+https://www.kaseyklimes.com/notes/2022/6/9/when-to-design-for-emergence
 ### Highlights
 Design for emergence prioritizes open-ended combinatorial possibilities such that the design object can be composed and adapted to a wide variety of contextual and idiosyncratic niches by its end-user.
 

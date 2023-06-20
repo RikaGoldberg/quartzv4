@@ -2,7 +2,7 @@
 title: "The Public Voice of Women"
 date: 2022-08-16
 tags:
-- seed
+- archive
 ---
 
 I WANT TO START Very near the beginning of the tradition of Western literature, and its **first recorded example of a man telling a woman to 'shut up'; telling her that her voice was not to be heard in public.** I am thinking of a moment immortalised at the start of Homer's Odyssey, almost **3,000 years ago**. We tend now to think of the Odyssey as the epic story of Odysseus and the adventures and scrapes he had returning home after the Trojan War - while for decades his wife Penelope loyally waited for him, fending off the suitors who were pressing to marry her. **But the Odyssey is just as much the story of Telemachus, the son of Odysseus and Penelope. It is the story of his growing up and how over the course of the poem he matures from boy to man.** That process starts in the first book of the poem when Penelope comes down from her private quarters into the great hall of the palace, to find a bard performing to throngs of her suitors; he is singing about the difficulties the Greek heroes are having in reaching home. She isn't amused, and in front of everyone she asks him to choose another, happier number. At which point young Telemachus intervenes: **'Mother,' he says, 'go back up into your quarters, and take up your own work, the loom and the distaff speech will be the business of men, all men, and of me most of all; for mine is the power in this household.' And off she goes, back upstairs.**

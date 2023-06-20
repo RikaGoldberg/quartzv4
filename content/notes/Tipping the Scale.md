@@ -1,14 +1,17 @@
 ---
-title: "Tipping the Scale"
+title: "Tipping the Scale, Cyberneticists like Stafford Beer sought the balance between large-scale systems and individual autonomy"
 date: 2022-10-18
 tags:
 - seed
 ---
-
 https://reallifemag.com/tipping-the-scale/
 
+#toprocess 
+
+Very techno-centric #fleetingnotes 
+
 ## Highlights
-He believed that cybernetics (what he called “the science of effective organization”) represented a new frontier in institutional and organizational design, a powerful tool that would inevitably be taken up if not by the forces of democracy and freedom then by their enemies, authoritarians of either the corporate or government variety (if not both).
+Beer believed that cybernetics (what he called “the science of effective organization”) represented a new frontier in institutional and organizational design, a powerful tool that would inevitably be taken up if not by the forces of democracy and freedom then by their enemies, authoritarians of either the corporate or government variety (if not both).
 
 The “electronic mafia” is an evocative and not entirely inaccurate description of current tech company executives and the venture capitalists that fund them.
 
@@ -16,9 +19,9 @@ Their enforcement techniques are more subtle than broken kneecaps and concrete s
 
 “Technology is neither good nor evil, nor is it neutral,” the saying goes, but if the only people successfully dictating how to make use of it are evil, well, it’s not hard to see how that plays out.
 
-A better debate is how we should decide to use communications technology. Rather than accept the status quo — where online behavior is funneled into easily manageable forms to be better captured by a handful of firms — can new social arrangements accommodate what the internet makes possible? Can they enhance human freedom rather than curtail it?
+**A better debate is how we should decide to use communications technology. Rather than accept the status quo — where online behavior is funneled into easily manageable forms to be better captured by a handful of firms — can new social arrangements accommodate what the internet makes possible? Can they enhance human freedom rather than curtail it?**
 
-Instead, what matters to Beer is the relationships between different layers of a system: whether the actors at each level have appropriate, timely information from below and above, and the extent to which they are empowered to act. In other words, both capitalist and state socialist organizations can fail by reducing their human agents to mere machines, preventing the flow of information necessary to adapt to a complex and continually changing world.
+**Instead, what matters to Beer is the relationships between different layers of a system: whether the actors at each level have appropriate, timely information from below and above, and the extent to which they are empowered to act.** In other words, both capitalist and state socialist organizations can fail by reducing their human agents to mere machines, preventing the flow of information necessary to adapt to a complex and continually changing world.
 
 During the Cold War, Western discussion of this topic was generally preoccupied by the grand debates between capitalism and communism, but the British military was still run on command-and-control principles. The key challenge it faced was timely information flow from the periphery to the command center so that it could effectively distribute resources and manpower across its sphere of engagement.
 
@@ -52,7 +55,7 @@ In decentralized neoliberal precarity, the electrician can shut off electricity 
 
 Beer’s early work saw big gains from allowing factory workers more opportunity to mingle casually and keep each other abreast of goings-on in different parts of the shop rather than kicking every problem up the command chain and requiring a centralized solution. To scale throughout society, though, some message about the problem and solution should be circulated: If many buildings are facing the same problem, a sectoral manager could take note and figure out what is causing this trend, perhaps some materials shortage facing plumbers.
 
-When it comes to the internet, many of us have adopted a pose of helplessness or indifference. Disempowered from fixing obvious problems like the dozens of entities tracking our behavior or the ads we have to see to conduct standard professional networking, we have outsourced the responsibility to centralized actors. “Whoever opts out of his or her regulatory role is robbing the total system of its power to be stable,” Beer argues.
+**When it comes to the internet, many of us have adopted a pose of helplessness or indifference. Disempowered from fixing obvious problems like the dozens of entities tracking our behavior or the ads we have to see to conduct standard professional networking, we have outsourced the responsibility to centralized actors. “Whoever opts out of his or her regulatory role is robbing the total system of its power to be stable,” Beer argues.**
 
 “We have robbed society of regulatory variety by our passivity.” The electronic mafia who have been pushing the “magnificent bribe” of convenience for technological dependency are more than happy to encourage that passivity. They’d like us all to spend our time buying things and consuming media. Beer would argue that it is key to stop doing that, and instead to take an active role in the regulation of the system.
 
@@ -62,6 +65,6 @@ But some online communities — artist collectives, political activists, nerdy f
 
 Discord is one example of a platform where potentially large groups can break into smaller groups to discuss specific issues, to store information, and to flexibly devolve moderation with less risk of the context collapse and algorithmic attention gamification that happens on corporate platforms.
 
-Similarly, a better society will not miraculously arise automatically through the processes of representative democracy. The only hope is to build it collectively through trial and error and the accumulated efforts of millions of wonderfully complex humans, rather than rolling out the welcome mat for the next generation of electronic mafia. Millions of young people around the world trying to build out alternative technological infrastructures seems like a better bet for improving the internet than voting for Joe Biden over Donald Trump. Our only hope is in our collective capacities to build and regulate a society empowered by modern communication technology. No one else is coming to save us.
+**Similarly, a better society will not miraculously arise automatically through the processes of representative democracy. The only hope is to build it collectively through trial and error and the accumulated efforts of millions of wonderfully complex humans, rather than rolling out the welcome mat for the next generation of electronic mafia**. Millions of young people around the world trying to build out alternative technological infrastructures seems like a better bet for improving the internet than voting for Joe Biden over Donald Trump. Our only hope is in our collective capacities to build and regulate a society empowered by modern communication technology. No one else is coming to save us.
 
 

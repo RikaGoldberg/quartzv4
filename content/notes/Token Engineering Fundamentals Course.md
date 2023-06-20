@@ -2,7 +2,7 @@
 title: "Token Engineering Fundamentals Course"
 date: 2022-09-17
 tags:
-- seed
+- study
 ---
 
 ## Resources/Study Materials

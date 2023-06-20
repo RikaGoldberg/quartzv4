@@ -2,7 +2,7 @@
 title: "The Psychology of Money, Notes"
 date: 2023-01-16
 tags:
-- seed
+- archive
 ---
 
 ### Notes

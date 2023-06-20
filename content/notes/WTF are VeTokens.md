@@ -4,6 +4,14 @@ date: 2022-08-31
 tags:
 - seed
 ---
+#toprocess 
+
+Projects with bad tokenomics have (1) inflationary supply and (2) no utility i.e, demand. Staking creates new incentives for demand. Projects come up with new products for their token e.g, rJOE, sJOE, veJOE (Trader Joe in 2022) to increase demand by varying incentives. When you unstake your tokens, you lose them. 
+
+![](/images/Pasted%20image%2020230618094529.png)
+
+#fleetingnotes These rules are very punishment driven. It seems like this past year, protocols have come up with less punishable ways to incentivize behavior. E.g on the governance side, you don't lose your delegated tokens if you decide to sell. The smart contract automatically un-delegates them and adjusts the voting power of delegate.  Why do we even need individuals to delegate votes? Yes, it's fun to experiment but individuals should make money from their tokens (oops, this is speculation and a security if you're using a token to make profit from it.)
+
 
 ![](/images/Pasted%20image%2020220930215648.png)
 

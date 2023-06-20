@@ -4,11 +4,13 @@ date: 2022-08-09
 tags:
 - seed
 ---
-
+#toprocess 
 https://variant.fund/articles/the-ownership-economy-2022/?curius=1599
 
+This regurgitated enough. It's also idealistic because speculation is rampant with tokens #fleetingnotes 
+
 ### Highlights
-Simply put: the products and services that will define web3—and the next generation of the internet—are those that transform users into owners. We call this the ownership economy.
+**Simply put: the products and services that will define web3—and the next generation of the internet—are those that transform users into owners. We call this the ownership economy.**
 
 Still, identifying this phenomenon isn’t always simple, or obvious. That’s because ownership manifests across a spectrum of experiences that range in user effort, responsibility and degree of collectivity.
 

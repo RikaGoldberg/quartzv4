@@ -1,8 +1,8 @@
 ---
-title: "The Patriarchs, Angela Saini; Quotes"
+title: "The Patriarchs, Angela Saini"
 date: 2023-04-03
 tags:
-- seed
+- archive
 ---
 
 ### Quotes

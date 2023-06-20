@@ -7,6 +7,8 @@ tags:
 
 (https://www.placeholder.vc/blog/2020/1/30/thin-applications?curius=1599)
 
+#toprocess 
+
 ### Highlights
 So instead, consumer applications in crypto/Web3 are independently built on top of multiple “composable” protocols using what we could call a cryptoservices architecture (like microservices, but with sovereign components). 
 
@@ -34,6 +36,6 @@ So we can estimate a market’s value structure by studying its cost structure.�
 
 At first glance, they look similar to the loyalty/reward systems used to retain customers in other hyper-commoditized markets like airlines and credit cards. Except those programs provide no upside at all. The innovation is in designing token models that allow users to profit from the application’s growth. It goes beyond marginal benefits like discounts by including users in the upside of the business.
 
-But what I love about their staking models is how they change the user-service relationship. Web users are locked-in by force through the centralization of data. Crypto applications, even if they’re built more traditionally, don’t have that same ability to lock you in. But user-staking creates a kind of “opt-in” economic lock-in that benefits the user by turning them into stakeholders in the success of the service. It creates defensibility through user-ownership instead of user lock-in. This presents a universe of fascinating consequences, to be explored in future work.
+**But what I love about their staking models is how they change the user-service relationship. Web users are locked-in by force through the centralization of data. Crypto applications, even if they’re built more traditionally, don’t have that same ability to lock you in. But user-staking creates a kind of “opt-in” economic lock-in that benefits the user by turning them into stakeholders in the success of the service. It creates defensibility through user-ownership instead of user lock-in. This presents a universe of fascinating consequences, to be explored in future work.**
 
 

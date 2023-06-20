@@ -2,7 +2,7 @@
 title: "How can we develop transformative tools for thought?"
 date: 2022-05-12
 tags:
-- sapling
+- inbox
 ---
 
 https://numinous.productions/ttft/

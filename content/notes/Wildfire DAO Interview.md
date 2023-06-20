@@ -2,7 +2,7 @@
 title: "Wildfire DAO Interview"
 date: 2022-09-28
 tags:
-- seed
+- archive
 ---
 
 See: [Wildfire DAO](/notes/Wildfire%20DAO.md)

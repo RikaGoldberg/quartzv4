@@ -1,18 +1,10 @@
-#article 
-#institutions [[time magazine]]
-#authors [[andrew r. chow]]
-#toprocess 
-See also: [[content/content/Ukraine Received More Than $30M in Crypto Donations. Here's Where It's Going]] 
-https://time.com/6158182/vitalik-buterin-ethereum-profile/?utm_source=twitter&utm_medium=social&utm_campaign=editorial&utm_term=business_cryptocurrency&linkId=156876379
+---
+title: "The Man Behind Ethereum Is Worried About Crypto's Future"
+date: 2023-06-18
+tags:
+- archive
+---
 
-#summary 
-My pithy attempt at summarizing this Time article:
-
-
-#notes 
-
-
-#quotes 
 Since then, it has emerged as the bedrock layer of what advocates say will be a new, [open-source, decentralized internet](https://time.com/6150884/ukraine-russia-attack-open-source-intelligence/).
 
 **But even as crypto has soared in value and volume, Buterin has watched the world he created evolve with a mixture of pride and dread**. **Ethereum has made a handful of white men unfathomably rich, pumped pollutants into the air, and emerged as a vehicle for tax evasion, money laundering, and mind-boggling scams.**

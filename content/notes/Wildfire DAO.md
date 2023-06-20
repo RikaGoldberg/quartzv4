@@ -2,7 +2,7 @@
 title: "Wildfire DAO"
 date: 2022-09-28
 tags:
-- seed
+- archive
 ---
 
 https://mirror.xyz/james.eth/71ibzWJvs3Frqu3beIzAtcQu5sJ2k8Hz15svQhBWKvI

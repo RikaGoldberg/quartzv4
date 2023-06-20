@@ -3,6 +3,7 @@ title: "MetaGame"
 date: 2023-01-09
 tags:
 - project
+- inbox
 ---
 ### Artifacts
 - [MetaGame's Website](https://metagame.wtf/)

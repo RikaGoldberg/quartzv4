@@ -2,7 +2,7 @@
 title: "Women & Power, Mary Beard"
 date: 2022-08-16
 tags:
-- seed
+- archive
 ---
 
 ### Summary

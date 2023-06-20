@@ -1,5 +1,9 @@
-#authors [[tom morgan]]
-#toprocess 
+---
+title: "The Attention Span. "War, Moloch and the Tsar Bomba.""
+date: 2023-06-18
+tags:
+- archive
+---
 https://thekcpgroup.com/insights/the-attention-span-war-moloch-and-the-tsar-bomba
 
 #quotes 
@@ -21,9 +25,9 @@ https://thekcpgroup.com/insights/the-attention-span-war-moloch-and-the-tsar-bomb
 
 * Some interesting trends have already flooded in to fill the open space. Creative projects and small business formation have exploded. A recession may temporarily reverse these trends, but not the reawakening of a mindset. It is also driving a reappraisal of business models that incorporate more resilience
 
-* I have been fortunate to come to know William Oliver, co-founder of In Practice. Through an incredibly robust series of thousands of interviews with experienced business managers, William and his co-founder have been building toward a library of what they views as “quality” companies. In many of our conversations, we have been struck by how few quality companies there are now in public markets; all perceived inefficiencies get competed away or targeted by short-term activists and management consultants. The private markets can sometimes provide a small defense, as can an aligned shareholder base. There are two resonant examples.
+* I have been fortunate to come to know William Oliver, co-founder of In Practice. Through an incredibly robust series of thousands of interviews with experienced business managers, William and his co-founder have been building toward a library of what they views as “quality” companies. **In many of our conversations, we have been struck by how few quality companies there are now in public markets; all perceived inefficiencies get competed away or targeted by short-term activists and management consultants. The private markets can sometimes provide a small defense, as can an aligned shareholder base. There are two resonant examples.**
 
-* Four people I deeply trust have all independently told me to read Becoming Trader Joe. Brandon Beylo recently did a great summary (below). There are many insights that reinforce the paradigm shift we are watching unfold in American business and culture. Trader Joe’s regarded vendors not as competitors but almost as their own employees. A healthy ecosystem benefits everyone. Likewise, their own employees were paid well above market, especially their buyer
+* Four people I deeply trust have all independently told me to read Becoming Trader Joe. Brandon Beylo recently did a great summary (below). There are many insights that reinforce the paradigm shift we are watching unfold in American business and culture. **Trader Joe’s regarded vendors not as competitors but almost as their own employees**. A healthy ecosystem benefits everyone. Likewise, their own employees were paid well above market, especially their buyer
 
 * The U.S. Marines have a heuristic for when things go awry: “keep moving, seek the high ground, stay in touch.” A response to chaos requires dynamism, perspective, and relevant external information. No static plan survives contact with the enemy. The critical skillset in that situation is expert intuition gained from experience: see the world clearly and act decisively.
 

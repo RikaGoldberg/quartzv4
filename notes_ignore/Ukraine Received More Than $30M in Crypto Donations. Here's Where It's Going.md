@@ -1,7 +1,10 @@
-#article 
-#institutions [[time magazine]]
-#authors [[raisa bruner]]
-#toprocess 
+---
+title: "Ukraine Received More Than $30M in Crypto Donations. Here's Where It's Going"
+date: 2023-06-18
+tags:
+- archive
+---
+
 https://time.com/6153320/crypto-ukraine-charity/
 
 A fashion designer turned renegade web3 creator, Viltrakyte is no stranger to the contentious politics of Eastern Europe; she was entangled in a 2013 lawsuit against her native Lithuania over free speech in her brand’s advertising, which ultimately went to the European Court of Human Rights. (She won.) The NFT project she now helms is even appropriately called The Rebels. 

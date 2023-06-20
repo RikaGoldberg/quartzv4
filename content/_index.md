@@ -2,11 +2,15 @@
 title: "Working in Public"
 ---
 
-Hi, my name is Rika, and I am a full-time [Decentralized Autonomous Organization, a.k.a. DAO](/notes/Decentralized%20Autonomous%20Organization,%20DAO.md) contributor.  I believe in [working with the garage door open](https://notes.andymatuschak.org/About_these_notes?stackedNotes=z21cgR9K3UcQ5a7yPsj2RUim3oM2TzdBByZu) so I use this website to share my work and thoughts. If you feel called to do so, click on any link and start to go down that topic's rabbit hole (kind of like you would on Wikipedia).
+Hi, my name is Rika. I am a full-time [Decentralized Autonomous Organization, a.k.a. DAO](/notes/Decentralized%20Autonomous%20Organization,%20DAO.md) contributor, focusing on Product and Content Writing. I am a former CPA and I have worked for Deloitte and ConsenSys, amongst other companies. 
 
-First and foremost, I am a writer who is interested in [systems thinking](/notes/Systems%20thinking.md) and emerging complex systems, like [DAOs](/notes/Decentralized%20Autonomous%20Organization,%20DAO.md). I am also interested in [money](/notes/Money.md), which as Vitalik recently pointed out, continues to be [the most important cryptocurrency app](https://vitalik.eth.limo/general/2022/12/05/excited.html). 
+Cryptocurrency and smart contracts are fascinating technological innovations that are transforming how people collaborate, coordinate, and exchange value with one another. When I analyze the cryptocurrency industry, I find it helpful to use a [Systems](/notes/Systems%20thinking.md) lens. [DAOs](/notes/Decentralized%20Autonomous%20Organization,%20DAO.md) are best to be approached as [emerging](/notes/emergence.md) complex systems. 
 
-[Inbox](/tags/inbox)
+I prefer to [work with the garage door open](https://notes.andymatuschak.org/About_these_notes?stackedNotes=z21cgR9K3UcQ5a7yPsj2RUim3oM2TzdBByZu) and use this website to share my work and thoughts. 
+
+If you feel called to do so, click on any link and start to go down that topic's rabbit hole, in a similar vein to Wikipedia.
+
+To read my writing, you can subscribe to my newsletter [Sharing is Caring](www.newsletter.rikagoldberg.com) You can also find links to my published writing at the bottom of this page. 
 
 ### Top of Mind Quotes
 
@@ -21,13 +25,18 @@ First and foremost, I am a writer who is interested in [systems thinking](/notes
 
 - [The Web3 Sustainability Loop](/notes/The%20Web3%20Sustainability%20Loop.md)
 
-
-
 ### Projects
 
 [MetaGame](/projects/MetaGame.md)
 
-[Metta Gamma Delta; MGD](/notes/Metta%20Gamma%20Delta;%20MGD.md) as Story #3 in [YODA](/notes/YODA.md) [Token Engineering Fundamentals Course](/notes/Token%20Engineering%20Fundamentals%20Course.md)
+[Metta Gamma Delta; MGD](/notes/Metta%20Gamma%20Delta;%20MGD.md) as Story #3 in [YODA](/notes/YODA.md) 
+
+[404 DAO](/projects/404%20DAO.md)
+
+### Courses
+
+[Token Engineering Fundamentals Course](/notes/Token%20Engineering%20Fundamentals%20Course.md)
+
 
 ### Index
 
@@ -38,7 +47,7 @@ First and foremost, I am a writer who is interested in [systems thinking](/notes
 [Gordon Brander](/notes/Gordon%20Brander.md) [Governance](/notes/Governance.md)[Healthy Confidence](/notes/Healthy%20Confidence.md) [How does one achieve great things?](/notes/How%20does%20one%20achieve%20great%20things?.md)[Investing](/notes/Investing.md) [Lore](/notes/Lore.md) [MetaGame](/notes/MetaGame.md) [Money](/notes/Money.md) [Mochi](/notes/Mochi.md)[Meta Review of Governance](https://docs.google.com/document/d/1QNgc3sx_1x12Fi2KcWCT1CAvHigq3xrTgt9zycZPZNk/edit?usp=sharing) 
 [Sailboat Metaphor](/notes/Sailboat%20Metaphor.md)
 [Systems thinking](/notes/Systems%20thinking.md)
-[The Internet of Jobs](/notes/The%20Internet%20of%20Jobs.md) [The Metaverse - A B2B Play](/notes/The%20Metaverse%20-%20A%20B2B%20Play.md) [Metta Gamma Delta $1M fund](/notes/Metta%20Gamma%20Delta%20$1M%20fund.md) [Token Engineering](/notes/Token%20Engineering.md) [Systems Principles](/notes/Systems%20thinking.md) [Token Engineering Fundamentals Course](/notes/Token%20Engineering%20Fundamentals%20Course.md) [Stephen Porges](/notes/Stephen%20Porges) [Transformative tools for thought](/articles/How%20can%20we%20develop%20transformative%20tools%20for%20thought?.md) [Web1 vs Web2 vs Web3](/notes/Web1%20vs%20Web2%20vs%20Web3.md)[Writing Advice](/notes/Writing%20Advice.md)[Quadratic Funding](/notes/Quadratic%20Funding.md) [Wikipedia Page for DAO Wei](/notes/Wikipedia%20Page%20for%20DAO%20Wei.md)
+[The Internet of Jobs](/notes/The%20Internet%20of%20Jobs.md) [The Metaverse - A B2B Play](/notes/The%20Metaverse%20-%20A%20B2B%20Play.md) [Metta Gamma Delta $1M fund](/notes/Metta%20Gamma%20Delta%20$1M%20fund.md) [Token Engineering](/notes/Token%20Engineering.md) [Systems Principles](/notes/Systems%20thinking.md) [Staking](/notes/Staking.md) [Token Engineering Fundamentals Course](/notes/Token%20Engineering%20Fundamentals%20Course.md) [Stephen Porges](/notes/Stephen%20Porges) [Transformative tools for thought](/articles/How%20can%20we%20develop%20transformative%20tools%20for%20thought?.md) [Web1 vs Web2 vs Web3](/notes/Web1%20vs%20Web2%20vs%20Web3.md)[Writing Advice](/notes/Writing%20Advice.md)[Quadratic Funding](/notes/Quadratic%20Funding.md) [Wikipedia Page for DAO Wei](/notes/Wikipedia%20Page%20for%20DAO%20Wei.md)
 
 #### Published Writing
 [A Look into Autonomy and How DAOs Use Working Groups](https://tally.mirror.xyz/tGkYuQZUtM2_5YLzXBNn8UwNVonWMZSQUEnDP3Wa6BM)[Autonomy in Governance](/notes/Autonomy%20in%20Governance.md)  

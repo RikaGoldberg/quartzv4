@@ -1,12 +1,9 @@
 ---
-title: "Thought"
+title: "Thought, Walt Whitman"
 date: 2022-11-16
 tags:
-- seed
+- archive
 ---
-
-#RikaNewsletter 
-
 Of persons arrived at high positions, ceremonies, wealth, scholarships, and the like;
 
 (To me all that those persons have arrived at sinks away from them, except as it results to their bodies and souls, So that often to me they appear gaunt and naked,

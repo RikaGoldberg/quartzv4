@@ -2,7 +2,7 @@
 title: "You Don’t Need to be a Poster"
 date: 2022-08-09
 tags:
-- seed
+- archive
 ---
 https://blog.foster.co/you-dont-need-to-be-a-poster/
 
