@@ -9,7 +9,7 @@ const config: QuartzConfig = {
     analytics: {
       provider: "plausible",
     },
-    baseUrl: "quartzv4.pages.dev",
+    baseUrl: "rikagoldberg.xyz",
     defaultDateType: "created",
     ignorePatterns: ["private", "templates"],
     theme: {

@@ -1,5 +1,5 @@
 ---
-title: Hey hey - I'm Rika, a freelance writer and a DAO Operator
+title: Hey hey - i'm rika, a freelance writer and a DAO Operator
 ---
 Welcome! I spend most of my work time **researching**, **writing**, and **participating in DAOs**. I am a **generalist** and write about crypto topics that  make me curious. Once I'm hooked on a topic, I will conduct research and immerse myself in the community. I'm fairly technical (you have to be in crypto!), which means that I don't just write about technology -- I use it too. 
 
