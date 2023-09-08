@@ -10,6 +10,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     baseUrl: "quartzv4.pages.dev",
+    defaultDateType: "created",
     ignorePatterns: ["private", "templates"],
     theme: {
       typography: {
