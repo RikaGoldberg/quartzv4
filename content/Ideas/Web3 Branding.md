@@ -1,0 +1,1 @@
+Branding in Web3, as everywhere in Web2 or beyond to the beginning of brands, is paramount. Who was the first person to start branding protocols and DAOs. Was there a brand to bitcoin??

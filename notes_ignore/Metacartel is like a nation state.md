@@ -1,3 +1,0 @@
-#Metacartel
-#quotes
-We aim to embody the free and open spirit of the internet as we know it. We are the weird, the outspoken, the colorful, the memeful, the inappropriate, the strange — we thrive in this chaos. Not only do we build towards our vision of Web 3, we use it ourselves, we breathe it, we embrace it and put our faith in it. We are internet first, crypto-native and purebred YOLO, we are the citizens of MetaCartel.”

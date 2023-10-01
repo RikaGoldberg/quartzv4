@@ -1,1 +1,0 @@
-**![prada annual report](https://lh3.googleusercontent.com/RmFx0VvcLfR1IZPswL2P0R92QUMAmPwQQLhWQcp9jsKQMpckGv6ObBNrxYjh9TP-ok-VbZLecNjbPSRONTk1Ef8ouY5HO_WPi9Xva3J6M1yDTggeop-g2oINGUnT0yqlI5B4TGMl)**

@@ -1,1 +1,0 @@
-Author of [[content/content/Transcend the New Science of Self-Actualization]]

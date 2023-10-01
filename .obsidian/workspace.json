@@ -1,0 +1,258 @@
+{
+  "main": {
+    "id": "c6d62d62759100b9",
+    "type": "split",
+    "children": [
+      {
+        "id": "eb84efa4716de11b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a37be8ee52695fda",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "quartz/content/Resources/Delegate Compensation/Outline.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "924803f926b93d17",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "quartz/quartz/_index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "87ddb967bca924db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "quartz/content/Tally Posts/New Ideas/Arbitrum can learn from MakerDAO's delegate compensation program, an early and robust, albeit imperfect program.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e9f8aa825fa2c0eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "quartz/content/Resources/Delegate Compensation/Tweet - Arbitrum RFC and MakerDAO Delegate Compensation System.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "71a02a44190c4131",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "quartz/content/Resources/Delegate Compensation/Delegate Incentive System for Arbitrum DAO.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "df8860b216e44081",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "quartz/content/Tally Posts/New Ideas/Delegates in a DAO are in charge of funding public goods and protocol maintenance and upgrades.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "613262ca1efbcd81",
+    "type": "split",
+    "children": [
+      {
+        "id": "892285d7759cda03",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "61721f4af6972c13",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a1aa750da388a9d8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "olympu",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "61e5c3a0da1f757f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 340.5026054382324
+  },
+  "right": {
+    "id": "1e2831d147fe2c8a",
+    "type": "split",
+    "children": [
+      {
+        "id": "af254b50ed232ce3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d2fd81c4e4a2a655",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "quartz/quartz/_index.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6e48e6c3607958aa",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "quartz/quartz/_index.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f4ad02b2b9d78483",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6e9e0513c98a3dbf",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "quartz/quartz/_index.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "a1aa750da388a9d8",
+  "lastOpenFiles": [
+    "quartz/content/Tally Posts/New Ideas/Optimism pays a relatively small amount for retroactive delegate rewards based on a very simple framework.md",
+    "quartz/public/assets/Untitled.canvas",
+    "quartz/public/assets/Pasted-image-20230810114838.png",
+    "quartz/public/assets/Measuring_Switching_Costs_and_the_Determinants_of_.pdf",
+    "quartz/public/index.xml",
+    "quartz/public/sitemap.xml",
+    "quartz/public/Graphics/index.html",
+    "quartz/public/static/icon.png",
+    "quartz/content/Resources/Delegate Compensation/Outline.md",
+    "quartz/public/assets/The-Value-of-Decentralization-Using-The-Blockchain,-Marco-Reuters.pdf",
+    "quartz/public/???/index.html",
+    "quartz/public/static/contentIndex.json",
+    "quartz/public/Molochian-Gods-&-Gods-in-Greek-Tragedy.html",
+    "quartz/public/assets/aalto_ecosystemdesigntoolkit_v01jan20_200122v1_ve.pdf",
+    "quartz/public/Newsletter/index.html",
+    "quartz/public/assets/Graphics/Questions-for-Evaluating-a-DAO.png",
+    "quartz/content/Tally Posts/New Ideas/Arbitrum can learn from MakerDAO's delegate compensation program, an early and robust, albeit imperfect program.md",
+    "quartz/content/Tally Posts/New Ideas/Arbitrum needs to ask itself a set of questions as it designs the incentive system.md",
+    "quartz/content/Tally Posts/New Ideas/Delegates in a DAO are in charge of funding public goods and protocol maintenance and upgrades.md",
+    "quartz/content/Tally Posts/New Ideas/As Arbitrum's governance scales, delegate activity needs to be maintained by incentivizing them with constant, predictable, and attractive rewards.md",
+    "quartz/content/Tally Posts/New Ideas/Arbitrum's delegate incentive system comes on the brink of another critical decision the DAO is making around designing a grants program.md",
+    "quartz/content/Resources/Delegate Compensation/Tweet - Arbitrum RFC and MakerDAO Delegate Compensation System.md",
+    "quartz/content/Resources/Delegate Compensation/Delegate Incentive System for Arbitrum DAO.md",
+    "quartz/content/Resources/Delegate Compensation/Delegate Compensation is an important topic that already has a few case studies.md",
+    "quartz/content/Tally Posts/New Ideas/Perhaps Content Guild can contribute to delegate compensation research.md",
+    "quartz/content/Resources/Delegate Compensation/Quadratic payments, a primer.md",
+    "quartz/content/Crypto Exploration/Layer3.md",
+    "quartz/content/Crypto Exploration/Zksync.md",
+    "quartz/quartz/_index.md",
+    "quartz/content/index.md",
+    "quartz/content/Tally Posts/New Ideas/Paypal launches a centralized stablecoin.md",
+    "quartz/content/Resources/Decentralization/When is decentralizing on a blockchain valuable by Marco Reuter.md",
+    "quartz/content/Tally Posts/New Ideas/The three verticals of bitcoin's decentralization are distribution of wealth, hashpower distribution, and exchange consolidation.md",
+    "quartz/content/Tally Posts/New Ideas/Decentralized platforms tend to come half-baked unlike their polished and bundled centralized counterparts.md",
+    "quartz/content/Resources/Decentralization/Decentralization.md",
+    "quartz/content/Tally Posts/New Ideas/Blockchains make commitments that protect stakeholders from common Web2 risks.md",
+    "quartz/content/Tally Posts/New Ideas/A platform orchestrates resources whereas a pipeline controls resources.md",
+    "quartz/content/Tally Posts/New Ideas/Whereas businesses are meant to be maximally extractive, protocols should be minimally extractive.md",
+    "quartz/content/Tally Posts/New Ideas/Typical lifecycle for centralized platforms is to extract from users and market participants (businesses, creators, developers) as they go up the S-curve of adoption.md",
+    "Pasted image 20230829162507.png",
+    "Pasted image 20230829145043.png",
+    "Pasted image 20230829144723.png",
+    "Pasted image 20230824103302.png",
+    "quartz/content/Pasted image 20230810114838.png"
+  ]
+}

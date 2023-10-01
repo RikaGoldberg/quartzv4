@@ -1,9 +1,0 @@
-
-
-Carl Gustav Jung (/jʊŋ/ YUUNG;[21][22] born Karl Gustav Jung, German: [kaʁl ˈjʊŋ]; 26 July 1875 – 6 June 1961) was a Swiss psychiatrist and psychoanalyst who founded analytical psychology. Jung's work has been influential in the fields of psychiatry, anthropology, archaeology, literature, philosophy, psychology,[23] and religious studies. Jung worked as a research scientist at the famous Burghölzli hospital, under Eugen Bleuler. During this time, he came to the attention of Sigmund Freud, the founder of psychoanalysis. The two men conducted a lengthy correspondence and collaborated, for a while, on a joint vision of human psychology.
-
-Freud saw the younger Jung as the heir he had been seeking to take forward his "new science" of psychoanalysis and to this end secured his appointment as President of his newly founded International Psychoanalytical Association. Jung's research and personal vision, however, made it impossible for him to follow his older colleague's doctrine and a schism became inevitable. This division was personally painful for Jung and resulted in the establishment of Jung's analytical psychology as a comprehensive system separate from psychoanalysis.
-
-**Among the central concepts of analytical psychology is individuation—the lifelong psychological process of differentiation of the self out of each individual's conscious and unconscious elements.** Jung considered it to be the main task of human development. **He created some of the best known psychological concepts, including synchronicity, archetypal phenomena, the collective unconscious, the psychological complex and extraversion and introversion.**
-
-Jung was also an artist, craftsman, builder and a prolific writer. Many of his works were not published until after his death and some are still awaiting publication.[24]

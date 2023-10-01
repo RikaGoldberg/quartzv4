@@ -1,4 +1,0 @@
-I. Introduction: DAO Wei and Metafactory
-	A. In this story, I will leverage principles from systems thinking to elaborate on the DAO Wei. I was deeply inspired by Donnella Meadows, a legendary systems thinker and teacher. Her book Thinking in Systems shaped many of the ideas you will read about. 
-	A. I feel lucky that all of the DAOs in the Metacartel family build and experiment with a mindset that is aligned with Donella’s - creating a natural fit for me to leverage her teachings in explaining the DAO Wei and using Metafactory as a case study. 
-	B.  I realized there was an opportunity to formalize the DAO Wei and think deeper about what principles would be helpful for DAO contributors, including myself, as I, like you, start to contribute to more DAOs and find my wei. 

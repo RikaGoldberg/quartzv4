@@ -1,1 +1,0 @@
-**![swag dao submission](https://lh5.googleusercontent.com/jYHCzVT59ElWrroA2DJ_QQf6kn_md-wZ6Xs1nB4CAsAtLBAWSB1xbSHQFW0DLaxBAtqC3mXNLViZzAm3VyMZw3Ekw8bS4yJTvC0YPq0pniZMrEoz3ftufhnfbYCNjvVLfUC2X_G_)![](https://lh5.googleusercontent.com/8IWwv3ZksbLdthgvnalq9xwUsqeFdjiH8BuH2RQ45zIMfho1ZcjFrKd__rd7kW-tRH9OYufIuLfL-1HNI8rkiaiVeAbrFCGV0VKsKAvj3OCisFWoE9183wO7_tDV-18Tbe2Ma-j4)**
