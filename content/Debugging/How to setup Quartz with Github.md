@@ -1,4 +1,4 @@
-#technical_thingies 
+#debug 
 
 **#1 Clone Jacky’s repo locally using git commands**
 cdmkdir QuartzV4

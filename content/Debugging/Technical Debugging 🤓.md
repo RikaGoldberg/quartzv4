@@ -1,4 +1,4 @@
-#technical_thingies
+#debug 
 
 One of my (probably) neurotic traits is to wrangle with technology for just a tad too long. When something technical is not working, I can go into a hyper focused mode that blocks my ability to see the bigger picture. Then, my energy gets zapped. Although I do eventually solve the problem, I don't *feel good.* When a similar problem happens again, I tend to go through the same pattern. 
 

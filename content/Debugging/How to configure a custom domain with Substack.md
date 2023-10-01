@@ -1,4 +1,4 @@
-#technical_thingies 
+#debug
 #### How to configure a custom domain (and subdomain) with Substack
 
 I found it easy to configure a custom domain with Substack, but a subdomain was not as intuitive. The key is to use the subdomain right off the bat in the custom domain configuration. 

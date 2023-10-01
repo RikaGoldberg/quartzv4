@@ -1,4 +1,4 @@
-#technical_thingies 
+#debug 
 ### Domain Names
 
 #### How to host a domain name

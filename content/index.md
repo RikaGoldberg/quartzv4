@@ -20,6 +20,10 @@ If you're not familiar with digital gardening, you can read this: [digital garde
 #saplings  **single nodes or thoughts**
 
 #fruits      **new pieces of content**
+  
+## 😵‍💫 Debugging
+
+Sometimes Quartz or Cloudflare doesn't work. Here are some common problems that I experience and their solutions: #debug 
 
 
 
