@@ -1,8 +1,8 @@
  #Resource 
 
 ## Source
-![[Measuring_Switching_Costs_and_the_Determinants_of_.pdf]]
 
+![[Measuring_Switching_Costs_and_the_Determinants_of_.pdf]]
 ## Quotes
 >The ability to create switching
 costs and build customer loyalty has also been argued
