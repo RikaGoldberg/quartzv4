@@ -18,4 +18,6 @@ tags:
 
 #### Read Full Story
 
+Download for free on [Gumroad](https://rikagoldberg628.gumroad.com/l/metafactory?layout=profile)
+
 ![[YODA_ DAO Wei and MetaFactory Story 2.pdf]]

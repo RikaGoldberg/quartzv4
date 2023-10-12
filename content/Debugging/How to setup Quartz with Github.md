@@ -21,4 +21,4 @@ git push --set-upstream origin v4
 
 Git add . 
 Git commit -m 
-Git push
+Git push origin
