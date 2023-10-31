@@ -14,4 +14,6 @@ A pattern of cooperation followed by intense competition, exploitation, and extr
 
 [[Dangers of building and using centralized platforms]]
 
+**Tangible Resource:** [[Arbitrum's Strategic Priorities]]
+
 

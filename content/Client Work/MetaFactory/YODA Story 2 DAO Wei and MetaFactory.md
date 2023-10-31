@@ -6,6 +6,7 @@ client: MetaFactory
 status: Published
 tags:
   - Lore
+  - published
 ---
 #### Genre
 

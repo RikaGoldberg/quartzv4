@@ -4,11 +4,18 @@ published date: 10/25/2022
 distribution channel: Mirror
 client: Tally
 status: Published
+tags:
+  - published
+  - Organizational_Design
+  - DAO
 ---
 [READ ME HERE](https://tally.mirror.xyz/tGkYuQZUtM2_5YLzXBNn8UwNVonWMZSQUEnDP3Wa6BM)
 
-**Key Insights**
+### Key Insights
 
 - Working groups are an organizational structure born out of anarchistic organizations
 - Anarchy in this context is not a society with no rules, but rather self-governance based on consensus
 - Wildfire DAO and Metafactory DAO are real-world examples of DAOs successfully implementing working groups
+
+
+

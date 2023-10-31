@@ -1,29 +1,4 @@
 {
-	"nodes":[
-		{"type":"text","text":"Uniswap Token","id":"657eeeb85956d945","x":-120,"y":-240,"width":250,"height":60,"color":"4"},
-		{"type":"text","text":"Governance","id":"586ea90f4e65b5e3","x":-80,"y":-400,"width":250,"height":60},
-		{"type":"text","text":"Vote with your coins","id":"ac9f9a067a935f2e","x":284,"y":-402,"width":250,"height":60},
-		{"type":"text","text":"The more coins you have, the greater your voting power","id":"c20ca17dff9c12ba","x":286,"y":-255,"width":250,"height":60},
-		{"type":"text","text":"Vote based on # of coins = concentration of voting","id":"969ccb031d1aad47","x":291,"y":-118,"width":250,"height":60},
-		{"type":"text","text":"Governance beyond coin voting","id":"9e39a93ffcff2a4e","x":-460,"y":-399,"width":250,"height":60},
-		{"type":"text","text":"Optimism has started this with Citizens House (future initiative)","id":"559191e166b5d331","x":-461,"y":-261,"width":251,"height":100},
-		{"type":"text","text":"Beyond coin voting ","id":"5b2da6103f4f6925","x":-461,"y":-116,"width":250,"height":60},
-		{"type":"text","text":"Decentralized (token holders make decisions)\n","id":"09e441b6cb2e9dce","x":-145,"y":-69,"width":250,"height":60},
-		{"type":"text","text":"Governance rights helps retain users","id":"17262acb1921bd84","x":-152,"y":68,"width":250,"height":60},
-		{"type":"text","text":"Token holders want to hold on to tokens to make future decisions about the protocol like how $ will be used","id":"38e692a0607704e4","x":205,"y":44,"width":262,"height":84},
-		{"type":"text","text":"In practice, big token holders have a lot of governance rights. I can always buy more UNI later and get governance. If I sell my uNI, delegate loses voting power","id":"27c5d6a203c9a987","x":-134,"y":192,"width":323,"height":154}
-	],
-	"edges":[
-		{"id":"f8f2c8e6b717f00b","fromNode":"657eeeb85956d945","fromSide":"top","toNode":"586ea90f4e65b5e3","toSide":"bottom"},
-		{"id":"8744c8bc5f8fcbfd","fromNode":"586ea90f4e65b5e3","fromSide":"right","toNode":"ac9f9a067a935f2e","toSide":"left"},
-		{"id":"36d50b1addaaf1b9","fromNode":"ac9f9a067a935f2e","fromSide":"bottom","toNode":"c20ca17dff9c12ba","toSide":"top"},
-		{"id":"12b134950e36be30","fromNode":"c20ca17dff9c12ba","fromSide":"bottom","toNode":"969ccb031d1aad47","toSide":"top"},
-		{"id":"0839962a2e523f81","fromNode":"586ea90f4e65b5e3","fromSide":"left","toNode":"9e39a93ffcff2a4e","toSide":"right"},
-		{"id":"152a4a62299dcb7c","fromNode":"9e39a93ffcff2a4e","fromSide":"bottom","toNode":"559191e166b5d331","toSide":"top"},
-		{"id":"18d11d7da4beacfa","fromNode":"559191e166b5d331","fromSide":"bottom","toNode":"5b2da6103f4f6925","toSide":"top"},
-		{"id":"92195612cbcdbb19","fromNode":"657eeeb85956d945","fromSide":"bottom","toNode":"09e441b6cb2e9dce","toSide":"top"},
-		{"id":"7273e16bbc6c62f8","fromNode":"09e441b6cb2e9dce","fromSide":"bottom","toNode":"17262acb1921bd84","toSide":"top"},
-		{"id":"c2acf65da46026b6","fromNode":"09e441b6cb2e9dce","fromSide":"right","toNode":"38e692a0607704e4","toSide":"left"},
-		{"id":"f40850ac911db6d6","fromNode":"17262acb1921bd84","fromSide":"bottom","toNode":"27c5d6a203c9a987","toSide":"top"}
-	]
+	"nodes":[],
+	"edges":[]
 }

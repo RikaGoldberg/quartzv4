@@ -4,6 +4,10 @@ published date: 8/7/23
 distribution channel: Mirror
 client: Tally
 status: Published
+tags:
+  - published
+  - DAO
+  - Governance
 ---
 [READ THE FULL POST ON MIRROR](https://tally.mirror.xyz/H_G5KF8CByhQO4jO88RrP2jBHbnyS6M2iAYDaxi2ubI)
 

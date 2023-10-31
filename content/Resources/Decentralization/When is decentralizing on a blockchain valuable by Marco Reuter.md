@@ -3,7 +3,6 @@ Source: [When is decentralizing on a blockchain valuable](https://a16zcrypto.com
 
 [[Decentralized governance is the carrot for a crypto business to lock-in users]] #saplings  
 
-[
 ### Notes
 
 Assume users are smart. 

@@ -4,6 +4,10 @@ published date: 1/26/23
 client: BlockScience
 distribution channel: Medium
 status: Published
+tags:
+  - published
+  - DAO
+  - Organizational_Design
 ---
 [READ ME ON MEDIUM](https://medium.com/block-science/disambiguating-autonomy-ca84ac87a0bf)
 

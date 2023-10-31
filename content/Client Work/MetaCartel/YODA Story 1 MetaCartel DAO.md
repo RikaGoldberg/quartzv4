@@ -6,6 +6,7 @@ client: MetaCartel
 status: Published
 tags:
   - Lore
+  - published
 ---
 ### Source
 

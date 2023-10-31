@@ -4,6 +4,9 @@ published date: 7/24/23
 distribution channel: Paragraph
 client: Meta Gamma Delta
 status: Published
+tags:
+  - Lore
+  - published
 ---
 [READ ME HERE](https://paragraph.xyz/@rikagoldberg/yoda-story-3-meta-gamma-delta-dao)
 
