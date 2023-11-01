@@ -18,7 +18,7 @@ IV. Price of ETH
 I. Introduction
   A. The Merge was executed - test
   B. What is proof-of-stake
-       A. [Most broadly, staking is a cryptoeconomic model that incentivizes the correct behavior of network participants using penalties and rewards in order to strengthen its underlying security](https://blog.chain.link/liquid-staking/)
+       A. [Most broadly, staking is a cryptoeconomic model that incentivizes the correct behavior of network participants using penalties and rewards in order to strengthen its underlying security](https://blog.chain.link/liquid-staking/
   B. Benefits of proof-of-stake 
        i. Vitalik article (very theoretical, not necessarily grounded in practice?)
          A. See Paragraph post 

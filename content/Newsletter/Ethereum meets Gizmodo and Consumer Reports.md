@@ -8,4 +8,4 @@ status: Published
 https://paragraph.xyz/@sharingiscaring/breaking-down-ethereum-protocols-products
 
 ### Staking
-[[1 Ethereum Staking]]
+[[Newsletter/1 Ethereum Staking/Outline]]
