@@ -3,11 +3,8 @@ title: Reviewing Ethereum Staking
 client: Rika
 status: outline
 distribution channel: Paragraph
-tags:
-  - next
+tags: []
 ---
-#next Review forum for anything interesting/relevant https://research.lido.fi/
-
 Fixed intro for each post 
 I. Each post should align on the definition of Ethereum and ETH 
 II. Identify which stakeholder(s) the post is addressing
@@ -16,7 +13,7 @@ III. Market cap of ETH
 IV. Price of ETH
 
 I. Introduction
-  A. The Merge was executed - test
+  A. The Merge was executed 
   B. What is proof-of-stake
        A. [Most broadly, staking is a cryptoeconomic model that incentivizes the correct behavior of network participants using penalties and rewards in order to strengthen its underlying security](https://blog.chain.link/liquid-staking/
   B. Benefits of proof-of-stake 
@@ -55,7 +52,7 @@ II. Ways to stake ETH
         i.  Rocket Pool 
         ii.  Kiln
  D. Liquid Staking
-      i. Pooled staking with a twist! 
+      i. Pooled staking with a twist! [While not all pooled staking platforms offer liquid staking tokens to users, others do](https://www.ledger.com/academy/pooled-staking-how-crypto-staking-pools-work)
       A. Benefits 
         a. unlocks liquidity for staked tokens with composability (a new token is minted e.g. stETH that represents a claim to your staked eth)
         b.  composability (use on defi protocols for lending and such
@@ -85,8 +82,9 @@ IV. Risks of staking (macro & micro risks)
        i. impermanent loss? 
        ii. smart contract risk
 
-III. Further Learning
-A. Visual Learners: https://www.youtube.com/watch?v=YudpU58uYuM
+V. Conclusions
+A. Learn more about proof-of-stake, for visual Learners: https://www.youtube.com/watch?v=YudpU58uYuM
+B. Recc. for solo stakers is to get started by using the staking launchpad on Ethereum.org's website  https://ethereum.org/en/staking/solo/#get-started-on-the-staking-launchpad. Remember to practice on a testnet!
 
 IV. Things I enjoyed reading this week 
 A. Check Substack saved 

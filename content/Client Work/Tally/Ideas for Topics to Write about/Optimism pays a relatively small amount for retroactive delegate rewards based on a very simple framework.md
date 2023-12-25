@@ -6,7 +6,7 @@ In Season 3, The Foundation identified three criteria that it deemed important a
 
 Criteria: increased resiliency of the governance system, participated in reflection period, and contributed across the Collective. 
 
-Specific votes: Agora test vote, voting in Reflection period so special cycle #9a or #9b and badgeholder elections, and nominated a final project for RetroPGF. 
+Specific votes: Agora test vote, voting in Reflection period so special cycle 9a or 9b and badgeholder elections, and nominated a final project for RetroPGF. 
 
 They did not use an across-the-board participation metric based on quantity of votes. Delegates had to vote on specific items that foundation deemed was important to the collective. 
 

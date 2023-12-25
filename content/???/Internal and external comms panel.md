@@ -1,0 +1,14 @@
+
+- What do you mean with internal communications for a DAO? How do you communicate with new members especially those who are not as familiar with DAOs?
+	- Content Guild, MetaCartel, 404 DAO -- delegate to defi protocol DAOs.
+	- New members ? 
+- How can your internal communication affect onboarding?
+	- I
+- How should your external communication and onboarding be?
+- How do you distinguish from internal & external comms, since DAOs are so fluid & sometimes hard to tell where their borders are?
+- How can we make the “communicating” concept a true two way action: one where listening is as important as the broadcasting?
+	- 
+- What are efficient ways of communicating external messages, and when something is fit for media versus best fit for the DAOs own social channels?
+	- Not sure. . . . . . . . . 
+- How do you handle crisis communications? Fired CEO. 
+- How do you communicate to new members especially those who are not familiar with DAOs? We don't ... all of the communication is developer relations focused. Getting more devs. 

@@ -5,7 +5,7 @@
 		{"type":"text","text":"Vote with your coins","id":"ac9f9a067a935f2e","x":284,"y":-402,"width":250,"height":60},
 		{"type":"text","text":"The more coins you have, the greater your voting power","id":"c20ca17dff9c12ba","x":286,"y":-255,"width":250,"height":60},
 		{"type":"text","text":"Vote based on # of coins = concentration of voting","id":"969ccb031d1aad47","x":291,"y":-118,"width":250,"height":60},
-		{"type":"text","text":"Governance beyond coin voting","id":"9e39a93ffcff2a4e","x":-460,"y":-399,"width":250,"height":60},
+		{"type":"text","text":"Governance beyond coin voting ","id":"9e39a93ffcff2a4e","x":-460,"y":-399,"width":250,"height":60},
 		{"type":"text","text":"Optimism has started this with Citizens House (future initiative)","id":"559191e166b5d331","x":-461,"y":-261,"width":251,"height":100},
 		{"type":"text","text":"Beyond coin voting ","id":"5b2da6103f4f6925","x":-461,"y":-116,"width":250,"height":60},
 		{"type":"text","text":"Decentralized (token holders make decisions)\n","id":"09e441b6cb2e9dce","x":-145,"y":-69,"width":250,"height":60},

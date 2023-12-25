@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"713d65aa11002646","type":"text","text":"**Security**\n\n“Arbitrum is security-minded, and the safety of the system should be weighed heavily when considering any protocol changes. In particular, **Arbitrum One is a proper L2 rollup chain**, and as such, **derives its security from Ethereum**; any changes made to Arbitrum One should preserve this property.”","x":-620,"y":-720,"width":360,"height":360},
+		{"id":"36da967e8ad4924d","type":"text","text":"**User focused**\n\n“The Arbitrum ecosystem should be managed for the benefit of all Arbitrum users.”","x":-620,"y":-220,"width":280,"height":160},
+		{"id":"27a583670aac04ac","type":"text","text":"**Alignment with ethereum**\n\nArbitrum is part of the Ethereum ecosystem, and the Arbitrum community is part of the Ethereum community. **Although the ArbitrumDAO makes its own decisions and pursues its own goals, ==it is deeply aligned with Ethereum== and sees itself as an active and constructive participant in the Ethereum community**\n","x":150,"y":-760,"width":350,"height":340},
+		{"id":"606dbb226200794b","type":"text","text":"**Technically inclusive**\n\nIt should remain possible for ordinary people, with **ordinary computer systems**, t**o participate as fully as possible in the Arbitrum protocol if they wish to do so**","x":-300,"y":-200,"width":450,"height":220},
+		{"id":"41cae1fd0ca7f500","type":"text","text":"**Constitutional Values**","x":-200,"y":-900,"width":250,"height":60,"color":"3"},
+		{"id":"7c4d9111a6630821","type":"text","text":"**Socially inclusive**\n\n“The community should be **open and welcoming to all people who wish to participate constructively**. **Differences in knowledge, resources, geography, language, and life experience** should be seen as **opportunities to learn and to grow the community.**”","x":-245,"y":-540,"width":365,"height":240},
+		{"id":"c9cc1ae3deec084f","type":"text","text":"**sustainable**\n\nThe Arbitrum ecosystem should be managed for the benefit of all Arbitrum users","x":190,"y":-360,"width":270,"height":160},
+		{"id":"589b2959ab585654","type":"text","text":"**Neutral & Open**\n\nArbitrum governance should not pick winners and losers but should **foster open innovation, interoperation, user choice**\n\n","x":-215,"y":-810,"width":280,"height":220}
+	],
+	"edges":[]
+}

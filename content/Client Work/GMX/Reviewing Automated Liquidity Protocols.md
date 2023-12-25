@@ -1,9 +1,9 @@
 ---
 title: Reviewing Automated Liquidity Protocols
-client: GMX
+client: GFX
 distribution channel: 
 tags:
-  - "#next"
+  - inbox
 ---
 ![[Pasted image 20231020142712.png]]  
 

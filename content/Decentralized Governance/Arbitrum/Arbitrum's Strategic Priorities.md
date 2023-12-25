@@ -2,6 +2,8 @@
 tags:
   - decentralization
   - DeGov
+status: proposal
+author: Disruption Joe
 ---
 **Source:** 
 https://forum.arbitrum.foundation/t/thankarb-a-strategy-framework-platform-for-arbitrum-s-success/19130
