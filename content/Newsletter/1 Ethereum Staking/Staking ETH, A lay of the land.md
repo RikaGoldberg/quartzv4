@@ -249,7 +249,7 @@ Users benefit by using a staking pool because they earn staking rewards without 
 
 Liquid staking is staking with a [DeFi](https://ethereum.org/en/defi/) (decentralized finance) twist.
 
-**The purpose of liquid staking is to unlock liquidity in staked ETH by creating a financial product: a [derivative](https://www.investopedia.com/articles/optioninvestor/10/derivatives-101.asp). Similar to any other type of derivative traded on traditional financial exchanges, a liquid staking derivative represents some value of the underlying staked ETH.**
+**The purpose of liquid staking is to unlock liquidity in staked ETH by creating a financial product: a [derivative](https://www.investopedia.com/articles/optioninvestor/10/derivatives-101.asp). Similar to derivatives traded on traditional financial exchanges, a liquid staking derivative represents some value of the underlying staked ETH.**
 
 Many staking pool operators offer liquid staking derivatives. This means when a user deposits some amount of ETH into the pool, they receive a transferable receipt token (i.e., liquid staking token) that represents their share in the pool. This token allows withdrawal rights and, unlike other types of staking, it can be transferred to other wallets.
 
