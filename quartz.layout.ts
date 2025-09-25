@@ -1,5 +1,7 @@
 import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
+import Banner from "./quartz/components/Banner"
+import RightMenu from "./quartz/components/RightMenu"
 
 // components shared across all pages
 export const sharedPageComponents: SharedLayout = {
@@ -7,16 +9,20 @@ export const sharedPageComponents: SharedLayout = {
   header: [],
   afterBody: [],
   footer: Component.Footer({
+    text: "© 2025 Rika Goldberg",
     links: {
-      GitHub: "https://github.com/jackyzha0/quartz",
-      "Discord Community": "https://discord.gg/cRFFHYye7t",
+      X: "https://x.com/RikaGoldberg",
+      Newsletter: "https://paragraph.xyz/@sharingiscaring",
+      Soundcloud: "https://soundcloud.com/rikagoldberg"
     },
   }),
 }
 
+
 // components for pages that display a single page (e.g. a single note)
 export const defaultContentPageLayout: PageLayout = {
   beforeBody: [
+    Banner({ height: 250 }),
     Component.ConditionalRender({
       component: Component.Breadcrumbs(),
       condition: (page) => page.fileData.slug !== "index",
@@ -41,10 +47,16 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Explorer(),
   ],
   right: [
-    Component.Graph(),
-    Component.DesktopOnly(Component.TableOfContents()),
-    Component.Backlinks(),
-  ],
+  Component.ConditionalRender({
+    component: Component.Graph(),
+    condition: (page) => page.fileData.slug !== "index",
+  }),
+  Component.ConditionalRender({
+    component: Component.Backlinks(),
+    condition: (page) => page.fileData.slug !== "index",
+  }),
+  Component.RightMenu(), // 👈 add this line
+],
 }
 
 // components for pages that display lists of pages  (e.g. tags or folders)

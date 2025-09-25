@@ -89,15 +89,19 @@ function computeFolderInfo(
   return folderInfo
 }
 
-function _getFolders(slug: FullSlug): SimpleSlug[] {
-  var folderName = path.dirname(slug ?? "") as SimpleSlug
-  const parentFolderNames = [folderName]
+function _getFolders(slug: SimpleSlug): SimpleSlug[] {
+  // normalize and split; filter(Boolean) drops empty segments
+  const parts = stripSlashes(slug as string).split("/").filter(Boolean)
 
-  while (folderName !== ".") {
-    folderName = path.dirname(folderName ?? "") as SimpleSlug
-    parentFolderNames.push(folderName)
+  // if there's no folder (note at vault root), return empty list
+  if (parts.length <= 1) return []
+
+  // build intermediate folders: a/b/c/note -> ["a", "a/b", "a/b/c"]
+  const folders: SimpleSlug[] = []
+  for (let i = 0; i < parts.length - 1; i++) {
+    folders.push(parts.slice(0, i + 1).join("/") as SimpleSlug)
   }
-  return parentFolderNames
+  return folders
 }
 
 export const FolderPage: QuartzEmitterPlugin<Partial<FolderPageOptions>> = (userOpts) => {

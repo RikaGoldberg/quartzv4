@@ -1,3 +1,96 @@
-@use "./base.scss";
+@use "./base.scss"; 
 
-// put your custom CSS here!
+/* Base body */
+body {
+  font-family: "Inter", sans-serif;
+  font-size: 14px;      /* bigger than default */
+  line-height: 1.65;    /* adds readability */
+}
+
+/* Headers */
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Caveat", cursive;
+  font-weight: 700;
+  line-height: 1.2;
+  margin: 1.5rem 0 1rem;
+}
+h1 {
+  font-size: 42px;   /* 3rem */
+}
+
+h2 {
+  font-size: 38px;   /* */
+}
+
+h3 {
+  font-size: 32px;   /* rem */
+}
+
+h4 {
+  font-size: 28px;   /* 2.5rem */
+}
+
+
+/* Sidebar Explorer */
+.explorer {
+  font-size: 14px;    /* overall sidebar text size */
+  font-family: "Caveat", cursive;
+}
+
+/* Folder titles in Explorer */
+.explorer .folder {
+  font-size: 12px;    /* smaller than pages */
+}
+
+/* Page links in Explorer */
+.explorer .page {
+  font-size: 14px;    /* slightly bigger than folders */
+  font-family: "Caveat", cursive;
+}
+
+/* Code blocks */
+code, pre {
+  font-family: "JetBrains Mono", monospace;
+  font-size: 0.95rem;
+  line-height: 1.5;
+
+nav, nav * {
+  font-family: "Inter", sans-serif;
+  font-size: 1rem;
+  font-weight: 400;
+
+.right-menu {
+  margin-top: 2rem;
+  padding: 1rem;
+  background: #f7f7f7;
+  border-left: 1px solid #ddd;
+  border-radius: 6px;
+  max-width: 220px;
+}
+
+.right-menu h2 {
+  font-size: 1rem;
+  margin-bottom: 0.5rem;
+}
+
+.right-menu ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.right-menu li {
+  margin: 0.3rem 0;
+}
+
+.right-menu a {
+  text-decoration: none;
+  color: #333;
+}
+
+.right-menu a:hover {
+  text-decoration: underline;
+}
+}
+} 
+

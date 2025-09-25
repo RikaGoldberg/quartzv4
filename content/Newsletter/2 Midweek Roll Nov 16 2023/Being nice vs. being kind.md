@@ -1,12 +1,11 @@
 ---
 tags:
   - ethics
+link: https://www.scu.edu/the-big-q/being-nice-vs-being-kind/
 ---
-Source: https://www.scu.edu/the-big-q/being-nice-vs-being-kind/
-
 ### Summary
 
-"Nice" and "kind" are commonly used interchangeably, but they carry distinct meanings. Unlike "nice," which lacks ethical significance and can describe inanimate objects (e.g., a nice dress), "kind" specifically conveys benevolence. The key difference between a "kind" and a "nice" person lies in their motivation. While a nice person seeks to please others, often with expectations of reciprocity, a kind person may act in ways that are not necessarily pleasing but align with benevolence, such as delivering difficult news.
+"Nice" and "kind" are commonly used interchangeably, but they carry distinct meanings. Unlike "nice," which lacks ethical significance and can describe inanimate objects (e.g., a nice dress), "kind" specifically conveys benevolence. The key difference between a "kind" and a "nice" person lies in their motivation. ==While a nice person seeks to please others, often with expectations of reciprocity, a kind person may act in ways that are not necessarily pleasing but align with benevolence, such as delivering difficult news.==
 
 ## Are they the same?
 

@@ -1,1 +1,0 @@
-Make sure you're using nvm 20

@@ -3,17 +3,10 @@ title: Ethereum meets Gizmodo and Consumer Reports
 published date: 10/20/23
 distribution channel: Paragraph
 client: Rika
-status: Published
+tags:
+  - published
 ---
-Final published: https://paragraph.xyz/@sharingiscaring/breaking-down-ethereum-protocols-products
-
-# A gentle introduction to my new newsletter
-
-## You can think of it like Ethereum meets Gizmodo/Consumer Reports
-
-- ![User avatar](https://paragraph.xyz/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Fpapyrus_images%2Faed209452feec1d4b7e55a02265ffeb6&w=96&q=75)
-
-### Rika
+#### [Read Full Newsletter Here](https://paragraph.xyz/@sharingiscaring/breaking-down-ethereum-protocols-products)
 
 October 20, 2023
 
@@ -78,7 +71,7 @@ You can expect to read breakdowns of:
 
 ## Conclusion
 
-My vision for this newsletter is to write digestible breakdowns of complex protocols and products in the Ethereum ecosystem. There will be no hype pieces, no shilling, and no paywall. Just quality substantive content for the crypto-curious -- people who are either newer to crypto or advanced users who value learning and refreshers on foundational elements.
+My vision for this newsletter is to write digestible breakdowns of complex protocols and products in the Ethereum ecosystem. There will be no hype pieces, no shilling, and no paywall. Just [[Quality]] substantive content for the crypto-curious -- people who are either newer to crypto or advanced users who value learning and refreshers on foundational elements.
 
 Migrating from Substack to Paragraph allows me to explore new avenues for distribution and monetization. I do have a day job so this newsletter will serve as a passion project, at least for now. I'm hoping that if I take the right steps, follow a process, and with a little luck on my side, I can grow this newsletter to become a sustainable income stream.
 

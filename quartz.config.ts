@@ -1,28 +1,22 @@
+// quartz.config.ts  (full, working config using Caveat for body)
 import { QuartzConfig } from "./quartz/cfg"
 import * as Plugin from "./quartz/plugins"
 
-/**
- * Quartz 4 Configuration
- *
- * See https://quartz.jzhao.xyz/configuration for more information.
- */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "👋🏻 Welcome",
-    enableSPA: true,
+    pageTitle: "👾 GmGm",
+    enableSPA: false,
     enablePopovers: true,
-    analytics: {
-      provider: "plausible",
-    },
+    analytics: { provider: "plausible" },
     baseUrl: "rikagoldberg.xyz",
     defaultDateType: "created",
-    ignorePatterns: ["private", "templates"],
+    ignorePatterns: ["private", "templates"], // allow images next to notes if you want
     theme: {
-      fontOrigin: "googleFonts",
+      fontOrigin: "googleFonts", // Quartz will fetch fonts from Google
       cdnCaching: true,
       typography: {
-        header: "Schibsted Grotesk",
-        body: "Source Sans Pro",
+        header: "Caveat", // keep your heading font
+        body: "Caveat",              // 👈 switch body to Caveat
         code: "IBM Plex Mono",
       },
       colors: {
@@ -54,17 +48,9 @@ const config: QuartzConfig = {
   plugins: {
     transformers: [
       Plugin.FrontMatter(),
-      Plugin.CreatedModifiedDate({
-        priority: ["frontmatter", "git", "filesystem"],
-      }),
-      Plugin.SyntaxHighlighting({
-        theme: {
-          light: "github-light",
-          dark: "github-dark",
-        },
-        keepBackground: false,
-      }),
-      Plugin.ObsidianFlavoredMarkdown({ enableInHtmlEmbed: false }),
+      Plugin.CreatedModifiedDate({ priority: ["frontmatter", "git", "filesystem"] }),
+      Plugin.SyntaxHighlighting({ theme: { light: "github-light", dark: "github-dark" }, keepBackground: false }),
+      Plugin.ObsidianFlavoredMarkdown({ enableInHtmlEmbed: true }),
       Plugin.GitHubFlavoredMarkdown(),
       Plugin.TableOfContents(),
       Plugin.CrawlLinks({ markdownLinkResolution: "shortest" }),
@@ -78,10 +64,7 @@ const config: QuartzConfig = {
       Plugin.ContentPage(),
       Plugin.FolderPage(),
       Plugin.TagPage(),
-      Plugin.ContentIndex({
-        enableSiteMap: true,
-        enableRSS: true,
-      }),
+      Plugin.ContentIndex({ enableSiteMap: true, enableRSS: true }),
       Plugin.Assets(),
       Plugin.Static(),
     ],

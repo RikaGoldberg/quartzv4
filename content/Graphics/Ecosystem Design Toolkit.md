@@ -1,1 +1,0 @@
-![[aalto_ecosystemdesigntoolkit_v01jan20_200122v1_ve.pdf]]

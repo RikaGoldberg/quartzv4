@@ -1,1 +1,0 @@
-https://layer3.xyz/quests/a-zksync-era [[Zksync]]

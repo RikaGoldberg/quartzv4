@@ -4,27 +4,9 @@ client: Rika
 published date: 11/8/23
 status: Published
 ---
-Final published: https://paragraph.xyz/@sharingiscaring/midweek-roll
+#### [Read Newsletter Here](https://paragraph.xyz/@sharingiscaring/midweek-roll)
 
-[[Britney Spears’s American horror story]]
-[[Would you sell them out?]]
-[[The Extremist's Gambit Helps Explain Why Hamas Attacked Now]]
-
-# Midweek Roll
-
-## Several pieces of (non-crypto) content for your reading pleasure
-
-- ![User avatar](https://paragraph.xyz/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Fpapyrus_images%2Faed209452feec1d4b7e55a02265ffeb6&w=96&q=75)
-
-### Rika
-
-November 8, 2023
-
-[](https://rainbow.me/0x28Cd26d85b4ac655A489Aa3f259F81283BD1A804)[](https://twitter.com/rikagoldberg)
-
-Share
-
-Collect
+#### Several pieces of (non-crypto) content for your reading pleasure
 
 Gm readers,
 
@@ -34,7 +16,7 @@ Enjoy.
 
 ---
 
-## **Would you sell them out?**
+#### **Would you sell them out?**
 
 ![](https://storage.googleapis.com/papyrus_images/fcb0dd3749f9d7e63044d30bff589e8e.jpg)
 
@@ -52,7 +34,7 @@ Read the article [here](https://snyder.substack.com/p/would-you-sell-them-out?ut
 
 ---
 
-## The Extremist's Gambit Helps Explain Why Hamas Attacked Now
+#### The Extremist's Gambit Helps Explain Why Hamas Attacked Now
 
 ![](https://storage.googleapis.com/papyrus_images/12cbbbe3190e961e10f61b1112f0ab7f.jpg)
 

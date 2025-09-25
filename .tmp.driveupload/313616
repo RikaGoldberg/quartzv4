@@ -1,0 +1,10 @@
+{
+	"nodes":[
+		{"id":"acb200c68bf2102c","type":"text","text":"A trader/investor buys LSTs to earn yield on ETH. I have written about wstETH, rETH, and cbETH, so I'll probably focus on these. \n\nStrategy 1: Hold the LSTs and don't do anything with them. Earn yield on the LST.\n\nStrategy 2: Use the LST as collateral to gain leverage and borrow a stablecoin such as USDC. Continue to earn yield on the LST & now you also have USDC. Can use that USDC let's say to pay Opolis. Eventually will need to pay back USDC. Can repay loan using the position you used USDC for (not Opolis, that would be like taking out credit card debt). The position needs to make a profit so you can pay back USDC. \n\n\n","x":-380,"y":-280,"width":660,"height":360},
+		{"id":"fe00ec1cdba107f6","type":"text","text":"Leveraged means borrowed stablecoin is used to buy more stETH so now you have more collateral so you can borrow more (take on more debt). The more collateral you put the more debt you can take. \n\nWhy take on debt? To trade (very risky)","x":-380,"y":120,"width":380,"height":200},
+		{"id":"04edf66f5bc3cdb5","type":"text","text":"What is liquidation? How to avoid liquidation. \n\nLiquidation is when the value of the collateral drops below a specified liquidation ratio (collateral to borrowed amount). \n\nYou can add more collateral. You can repay your debt. \n\n","x":90,"y":120,"width":380,"height":200},
+		{"id":"e8b117e5712233e1","type":"file","file":"Archive/Open Dollar/LST Strategies/LST Strategies - Draft.md","x":-680,"y":-720,"width":400,"height":400},
+		{"id":"b74832338fe7d38d","type":"text","text":"Yield farming is when you deposit a LP token into a yield farm & earn yield on it ...\n\nYield farming is a way to generate rewards with cryptocurrency assets. It involves **lending crypto on DEXs** to provide liquidity for trading. In return, yield farmers **earn fees and interest** on their deposits.\n\nhttps://simpleswap.io/learn/analytics/defi/uniswap-yield-farming","x":340,"y":-720,"width":420,"height":440}
+	],
+	"edges":[]
+}

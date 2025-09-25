@@ -1,1 +1,0 @@
-![[NGUHTGv1 1.pdf]]

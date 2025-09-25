@@ -1,1 +1,11 @@
-{}
+{
+  "app:delete-file": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "D"
+    }
+  ],
+  "editor:delete-paragraph": []
+}

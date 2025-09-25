@@ -1,7 +1,0 @@
-- Use native apps only.
-	- E.G. SAFE 3rd party apps are buggy. Uniswap (tried to swap ETH to USDC, ended up using CowSwap instead, which somehow worked) was buggy & Hop (tried to bridge from ETH to Polygon)
-		- Use native Polygon bridge
-		- Use native swapping dApp e.g Uniswap 
-- Through my writing, I seek to cut through crypto's noise, bringing you real and valuable ideas. Although cutting through the noise is a platitude, at least in my circles, there is a real form factor to it ...
-- Financial sovereignty
-	- https://financialpost.com/business-trends/the-financial-sovereignty-you-need-right-now
