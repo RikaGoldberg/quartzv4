@@ -1,0 +1,14 @@
+0000000000000000000000000000000000000000 18ccdb68f06f41d3c592c29a8580ee8cdb0010db RikaGoldberg <rikagoldberg628@gmail.com> 1694191842 -0400	branch: Created from HEAD
+18ccdb68f06f41d3c592c29a8580ee8cdb0010db 0d66d0c3836ee2a4343a993ff428a8d1d1e453ae RikaGoldberg <rikagoldberg628@gmail.com> 1696195354 -0400	commit: hi
+0d66d0c3836ee2a4343a993ff428a8d1d1e453ae 43d583c1af9ec9228d931bba1d875742f46c8ad2 RikaGoldberg <rikagoldberg628@gmail.com> 1696197881 -0400	commit (merge): hi
+43d583c1af9ec9228d931bba1d875742f46c8ad2 9e9e87fe67023b949e4f24575321de4fa9f7fc62 RikaGoldberg <rikagoldberg628@gmail.com> 1696199539 -0400	commit: testing
+9e9e87fe67023b949e4f24575321de4fa9f7fc62 68e85cef32f6406bad4c90e06ba4fecc6efed2d4 RikaGoldberg <rikagoldberg628@gmail.com> 1696253629 -0400	commit: new
+68e85cef32f6406bad4c90e06ba4fecc6efed2d4 2c2c5bd38ed5fa7b081868ae887e088cfbd54a8c RikaGoldberg <rikagoldberg628@gmail.com> 1697123666 -0400	commit: hi
+2c2c5bd38ed5fa7b081868ae887e088cfbd54a8c f07c2c47bc6dbc47e5459e1e7c537a84c91f1c3d RikaGoldberg <rikagoldberg628@gmail.com> 1697123824 -0400	commit: hi
+f07c2c47bc6dbc47e5459e1e7c537a84c91f1c3d 7b0581cd586fff4c2e61746bedd883acb9fdfe47 RikaGoldberg <rikagoldberg628@gmail.com> 1698775876 -0400	commit: latest
+7b0581cd586fff4c2e61746bedd883acb9fdfe47 ea89a6dc309fccca08d16d404810676479e4b6e7 RikaGoldberg <rikagoldberg628@gmail.com> 1698776826 -0400	commit: latest
+ea89a6dc309fccca08d16d404810676479e4b6e7 67cc435ce309add4cdebcd8fedb93d06f0a12075 RikaGoldberg <rikagoldberg628@gmail.com> 1698873960 -0400	commit: hi
+67cc435ce309add4cdebcd8fedb93d06f0a12075 df8539d55e2e1e66492cd199603ad110a8f8fd06 RikaGoldberg <rikagoldberg628@gmail.com> 1703517912 -0500	commit: xmas
+df8539d55e2e1e66492cd199603ad110a8f8fd06 16d89ac7a21712505002f51eb54360bfa6a048b4 RikaGoldberg <rikagoldberg628@gmail.com> 1705679021 -0500	commit: home
+16d89ac7a21712505002f51eb54360bfa6a048b4 4cf17590bbb42bb6ecf002ac40ee96fe116f7ecb RikaGoldberg <rikagoldberg628@gmail.com> 1757860264 -0400	pull --no-rebase --autostash -s recursive -X ours --no-edit upstream v4: Merge made by the 'recursive' strategy.
+4cf17590bbb42bb6ecf002ac40ee96fe116f7ecb 7e6c75c0b650b93f7348bc848c0d7bab21ac66f8 RikaGoldberg <rikagoldberg628@gmail.com> 1758830742 -0400	commit: updates
