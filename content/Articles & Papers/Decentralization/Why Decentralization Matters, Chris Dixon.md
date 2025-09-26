@@ -1,4 +1,4 @@
-#processed  
+ 
 Source: https://cdixon.org/2018/02/18/why-decentralization-matters
 ## Summary
 

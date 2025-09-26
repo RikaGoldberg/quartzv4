@@ -1,4 +1,3 @@
-#processed 
 
 Source:
 https://a16zcrypto.com/posts/article/progressive-decentralization-crypto-product-management/

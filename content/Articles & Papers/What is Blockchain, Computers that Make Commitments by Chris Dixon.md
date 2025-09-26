@@ -1,5 +1,4 @@
 Source: https://a16zcrypto.com/posts/article/computers-that-make-commitments/
-#processed
 ## Notes
 
 Blockchains are computers that make commitments, meaning there are programmed rules. 

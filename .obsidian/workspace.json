@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "7507a26430a06746",
+        "id": "03f69e6d348866b7",
         "type": "tabs",
         "children": [
           {
-            "id": "7796187524b2a557",
+            "id": "9331d6b7efee3ee3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/index.md",
+                "file": "content/Articles & Papers/Decentralization/Why Decentralization Matters, Chris Dixon.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Why Decentralization Matters, Chris Dixon"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "index.md",
+                "query": "tag:#processed  ",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/index.md",
+                "file": "content/Articles & Papers/Decentralization/Why Decentralization Matters, Chris Dixon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for index"
+              "title": "Backlinks for Why Decentralization Matters, Chris Dixon"
             }
           },
           {
@@ -182,10 +182,32 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7796187524b2a557",
+  "active": "9331d6b7efee3ee3",
   "lastOpenFiles": [
-    "content/Images/Pasted image 20230913095107.png",
+    "content/Articles & Papers/What is Blockchain, Computers that Make Commitments by Chris Dixon.md",
+    "content/Articles & Papers/Decentralization/Progressive Decentralization, a16z crypto.md",
+    "content/Articles & Papers/Decentralization/Notes, The Value of Decentralization Using The Blockchain by Marco Reuters.md",
+    "content/Articles & Papers/Ethereum Staking/The Risks of Liquid Staking Derivatives.md",
+    "content/Newsletter/2 Midweek Roll Nov 16 2023/Gaza Israel’s ‘Open-Air Prison’ at 15.md",
+    "content/DeFi/LSTs and leveraged ETH staking strategies at DeFi Saver.md",
+    "docs/features/index.md",
     "docs/index.md",
+    "content/Images/Pasted image 20230913095107.png",
+    "content/DeFi/Popular Liquid Staking Tokens on Arbitrum/Popular Liquid Staking Tokens on Arbitrum.md",
+    "content/DeFi/Popular Liquid Staking Tokens on Arbitrum/Popular Liquid Staking Tokens on Arbitrum.canvas",
+    "content/DeFi/Popular Liquid Staking Tokens on Arbitrum",
+    "content/DeFi/Your Guide to the Collateralized Stablecoin Landscape.md",
+    "content/DeFi/Leveraged Long Position on Aave Tutorial.md",
+    "content/DeFi/Leveraged Lending DeFi Strategy.md",
+    "content/DeFi/LST Strategies.canvas",
+    "content/DeFi/A primer on NFVs and how Non-Fungible Vaults improve CDPs.md",
+    "content/DeFi",
+    "content/Graphics/Dangers of building and using centralized platforms.md",
+    "content/Graphics",
+    "content/index.md",
+    "content/Articles & Papers/Cryptoeconomic Research/MEV Auction Auctioning transaction ordering rights as a solution to Miner Extractable Value.md",
+    "content/Articles & Papers/Cryptoeconomic Research/Flash Boys 2.0 - Frontrunning, Transaction Reordering, andConsensus Instability in Decentralized Exchanges.md",
+    "content/Articles & Papers/Cryptoeconomic Research",
     "docs/plugins/index.md",
     "docs/advanced/index.md",
     "docs/images/francegarden.jpeg",
@@ -198,41 +220,19 @@
     "quartz/static/Untitled.md",
     "quartz/static",
     "Untitled.md",
-    "content/Graphics/Dangers of building and using centralized platforms.md",
-    "content/index.md",
     "content/Decentralization",
-    "content/DeFi/Popular Liquid Staking Tokens on Arbitrum/Popular Liquid Staking Tokens on Arbitrum.md",
-    "content/DeFi/Popular Liquid Staking Tokens on Arbitrum/Popular Liquid Staking Tokens on Arbitrum.canvas",
-    "content/DeFi/Your Guide to the Collateralized Stablecoin Landscape.md",
-    "content/DeFi/Popular Liquid Staking Tokens on Arbitrum",
-    "content/DeFi/Leveraged Long Position on Aave Tutorial.md",
-    "content/DeFi/Leveraged Lending DeFi Strategy.md",
-    "content/DeFi/LSTs and leveraged ETH staking strategies at DeFi Saver.md",
-    "content/DeFi/LST Strategies.canvas",
-    "content/DeFi/A primer on NFVs and how Non-Fungible Vaults improve CDPs.md",
-    "content/DeFi",
-    "content/Graphics",
     "content/Newsletter/2 Midweek Roll Nov 16 2023/Midweek Roll November 16 2023.md",
-    "content/Newsletter/2 Midweek Roll Nov 16 2023/Gaza Israel’s ‘Open-Air Prison’ at 15.md",
     "content/Newsletter/2 Midweek Roll Nov 16 2023/College Presidents Debate When to Speak Out — and When to Keep Quiet.md",
     "content/Newsletter/2 Midweek Roll Nov 16 2023/Being nice vs. being kind.md",
     "content/Newsletter/2 Midweek Roll Nov 16 2023/Being nice vs. being kind (1).md",
     "content/Newsletter/2 Midweek Roll Nov 16 2023",
     "content/Newsletter/1 Ethereum Staking/Staking ETH, A lay of the land.md",
-    "content/Newsletter/1 Ethereum Staking/Outline.md",
     "content/Newsletter/1 Ethereum Staking",
-    "content/Newsletter/5 Decentralized Finance/Possible Resources.md",
-    "content/Newsletter/5 Decentralized Finance/5 Decentralized Finance - final.md",
-    "content/Newsletter/5 Decentralized Finance/How does it make sense to invest in stETH? Lets look at my personal experience..md",
-    "content/Newsletter/5 Decentralized Finance/Brain Dump PRIVATE.md",
-    "content/Newsletter/5 Decentralized Finance/5 Decentralized Finance - Tweet.md",
     "content/Newsletter/5 Decentralized Finance",
     "content/Newsletter/3 Wallets/Sharing is Caring - Wallets.canvas",
     "content/Newsletter/3 Wallets",
-    "content/Newsletter/1.5 Midweek Roll",
     "content/Images/Pasted image 20230928095047.png",
     "content/Images/Pasted image 20230928094947.png",
-    "content/Images/Pasted image 20230928094509.png",
     "public/Newsletter/3-Wallets/Sharing-is-Caring---Wallets.canvas",
     "public/DeFi/Popular-Liquid-Staking-Tokens-on-Arbitrum/Popular-Liquid-Staking-Tokens-on-Arbitrum.canvas",
     "public/DeFi/LST-Strategies.canvas",
