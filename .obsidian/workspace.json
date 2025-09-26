@@ -183,6 +183,7 @@
   },
   "active": "7796187524b2a557",
   "lastOpenFiles": [
+    "deploy.yml",
     "deploy.yaml",
     "content/index.md",
     "content/Decentralization",
@@ -199,7 +200,6 @@
     "content/Articles & Papers/Ethereum Staking/Comparing staking options. Native, Pooled, and Liquid. Finding the right approach for you.md",
     "content/Articles & Papers/Ethereum Staking/A rollup centric ethereum roadmap (Oct. 2020).md",
     "content/Articles & Papers/Ethereum Staking",
-    "deploy.yml",
     "eval \"$(ssh-agent -s)\".pub",
     "eval \"$(ssh-agent -s)\"",
     "content/Articles & Papers/Pipelines, Platforms, and the New Rules of Strategy, Harvard Business Review.md",
