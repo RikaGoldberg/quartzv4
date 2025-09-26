@@ -1,6 +1,6 @@
 import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
-import Banner from "./quartz/components/Banner"
+import Banner from "./quartz/components/banner"
 import RightMenu from "./quartz/components/RightMenu"
 
 // components shared across all pages
