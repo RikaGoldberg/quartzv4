@@ -5,6 +5,7 @@ distribution channel: Paragraph
 client: Rika
 tags:
   - published
+  - newsletter
 ---
 #### [Read Full Newsletter Here](https://paragraph.xyz/@sharingiscaring/breaking-down-ethereum-protocols-products)
 

@@ -23,5 +23,5 @@ A growing list of writing that has influenced me.
 
 - [Philosophy of Games](https://philarchive.org/archive/NGUPCP)
 - [Credible Neutrality as a Guiding Principle](https://balajis.com/p/credible-neutrality)
-- [Identity Defining Beliefs on Socal Media](https://www.researchgate.net/publication/363885159_Identity-Defining_Beliefs_on_Social_Media#read)
+- [Identity Defining Beliefs on Social Media](https://www.researchgate.net/publication/363885159_Identity-Defining_Beliefs_on_Social_Media#read)
 - [Love vs. Fame: A framework for social applications](https://www.lisnewsletter.com/p/love-vs-fame-a-framework-for-social)

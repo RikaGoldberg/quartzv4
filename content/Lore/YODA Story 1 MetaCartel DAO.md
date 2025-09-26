@@ -6,6 +6,7 @@ client: MetaCartel
 status: Published
 tags:
   - published
+  - "#lore"
 ---
 ## [Read full story](https://mirror.xyz/rikasukenik.eth/ypr4aOWQIJqyvY3vxNgWk9YMfysXOzd62bPPLexY2Mg)
 ## Key Insights

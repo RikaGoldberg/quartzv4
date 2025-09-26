@@ -1,6 +1,6 @@
 ---
 tags:
-  - untagged
+  - strategy
 link: https://hbr.org/2016/04/pipelines-platforms-and-the-new-rules-of-strategy
 ---
 [[content/index|index]]

@@ -6,6 +6,8 @@ status: Published
 distribution channel: Paragraph
 tags:
   - newsletter
+  - "#published"
+  - wallets
 ---
 **Final Published:** https://paragraph.xyz/@sharingiscaring/navigating-ethereum-wallets
 

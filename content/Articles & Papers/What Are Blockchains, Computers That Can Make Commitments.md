@@ -1,7 +1,7 @@
 ---
 title: "What Are Blockchains: Computers That Can Make Commitments"
 tags:
-  - untagged
+  - chrisdixon
 link: https://a16zcrypto.com/posts/article/computers-that-make-commitments/
 author: chris dixon
 ---

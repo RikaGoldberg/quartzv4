@@ -1,4 +1,9 @@
-#published 
+---
+tags:
+  - defi
+  - published
+---
+
 #### [Read Full Article](https://mirror.xyz/0x8a81CEeb0a12998616F1aB932cDbc941F0d539E9/eHkUevK2ssPvwOTweAQBTO5nWxVN_io0FJ8AOPFW7H8)
 
 Despite going through the coldest of crypto winters, DeFi continues to gain leverage over inefficient Tradfi products. Lending, in particular, has found a strong product-market fit, as it enables users to borrow tokens by locking their assets in [Collateralized Debt Positions](https://www.bitdegree.org/crypto/learn/crypto-terms/what-is-collateralized-debt-position-cdp) (CDPs).

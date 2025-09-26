@@ -6,6 +6,7 @@ client: Tally
 status: Published
 tags:
   - published
+  - governance
 ---
 #### [Read Full Article](https://tally.mirror.xyz/P5WzF4C407UXDtroRFDCgM-60CP8424pYqbdZkKCASE)
 ## Introduction

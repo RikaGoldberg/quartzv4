@@ -2,6 +2,10 @@
 link: https://paragraph.xyz/editor/OxquVv7S1CWYGxTwOMNB
 status: Published
 distribution channel: Paragraph
+tags:
+  - published
+  - newsletter
+  - socialmedia
 ---
 #### [Read Full Newsletter](https://paragraph.xyz/editor/OxquVv7S1CWYGxTwOMNB)
 

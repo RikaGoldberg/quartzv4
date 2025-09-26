@@ -6,6 +6,7 @@ client: Meta Gamma Delta
 status: Published
 tags:
   - published
+  - "#lore"
 ---
 #### [Read Full Story]( https://paragraph.xyz/@sharingiscaring/yoda-story-3-meta-gamma-delta-dao)
 

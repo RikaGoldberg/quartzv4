@@ -6,6 +6,8 @@ client: Tally
 status: Published
 tags:
   - published
+  - workinggroups
+  - articlepaper
 ---
 #### [Read Full Article](https://tally.mirror.xyz/tGkYuQZUtM2_5YLzXBNn8UwNVonWMZSQUEnDP3Wa6BM)
 

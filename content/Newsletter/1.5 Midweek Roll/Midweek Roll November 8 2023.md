@@ -3,6 +3,9 @@ title: Midweek Roll
 client: Rika
 published date: 11/8/23
 status: Published
+tags:
+  - "#published"
+  - "#newsletter"
 ---
 #### [Read Newsletter Here](https://paragraph.xyz/@sharingiscaring/midweek-roll)
 

@@ -5,6 +5,7 @@ published date: 11/05/23
 status: Published
 tags:
   - staking
+  - "#newsletter"
 distribution channel: Paragraph
 ---
 Final published: https://paragraph.xyz/@sharingiscaring/staking-eth-a-lay-of-the-land
