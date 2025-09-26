@@ -16,7 +16,7 @@ function RightMenu(props: QuartzComponentProps) {
     <nav className="right-menu">
       {randomNote && (
         <div className="random-note">
-          <h4>🎲 Random Note</h4>
+          <h3>🎲 Random Note</h3>
           <a href={`/${randomNote.slug}`}>
             {randomNote.frontmatter?.title ?? randomNote.slug}
           </a>

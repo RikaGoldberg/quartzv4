@@ -7,8 +7,8 @@ status: Published
 tags:
   - published
 ---
-#### [Read full story](https://mirror.xyz/rikasukenik.eth/ypr4aOWQIJqyvY3vxNgWk9YMfysXOzd62bPPLexY2Mg)
-#### Key Insights
+## [Read full story](https://mirror.xyz/rikasukenik.eth/ypr4aOWQIJqyvY3vxNgWk9YMfysXOzd62bPPLexY2Mg)
+## Key Insights
 
 - This is the story of Metacartel DAO, which has served as a pioneer in the DAO space
 - Rika shares their personal journey from the corporate world to discovering DAOs and cryptocurrency
@@ -16,7 +16,7 @@ tags:
 
 `Hello, friends. Welcome to a short story about Decentralized Autonomous Organizations (DAOs). This short story will become part of an anthology of short stories: a book.`
 
-#### Prologue
+## Prologue
 
 **The book is for you if you have started to peek inside the DAO rabbit hole. Perhaps DAOs are still a black hole for you, or maybe you have started to see the light but feel overwhelmed. Either way, you are curious and want to explore.**
 
