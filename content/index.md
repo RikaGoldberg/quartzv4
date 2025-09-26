@@ -1,6 +1,6 @@
 ---
 title: Welcome to my notes
-cover: /images/francegarden.jpeg
+cover: /static/francegarden.jpeg
 ---
 Welcome! This is my corner of the internet where I follow threads of curiosity across crypto, finance, governance, and decentralized social networks—and occasionally wander beyond.  
 

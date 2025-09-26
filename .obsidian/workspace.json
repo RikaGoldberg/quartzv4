@@ -11,12 +11,14 @@
             "id": "7796187524b2a557",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "content/Images/francegarden.jpeg"
+                "file": "content/index.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "francegarden"
+              "icon": "lucide-file",
+              "title": "index"
             }
           }
         ]
@@ -72,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -92,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/Images/francegarden.jpeg",
+                "file": "content/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for francegarden"
+              "title": "Backlinks for index"
             }
           },
           {
@@ -181,18 +184,23 @@
   },
   "active": "7796187524b2a557",
   "lastOpenFiles": [
-    "docs/images/francegarden.jpeg",
-    "content/Graphics/Dangers of building and using centralized platforms.md",
-    "docs/images/giscus-example.png",
-    "docs/images/quartz transform pipeline.png",
-    "docs/images/social-image-preview-light.png",
-    "docs/images/giscus-discussion.png",
-    "docs/images/giscus-repo.png",
+    "content/Images/Pasted image 20230913095107.png",
+    "docs/index.md",
     "docs/plugins/index.md",
+    "docs/advanced/index.md",
+    "docs/images/francegarden.jpeg",
+    "docs/images/giscus-repo.png",
+    "docs/images/giscus-discussion.png",
+    "docs/images/social-image-preview-light.png",
+    "docs/images/quartz transform pipeline.png",
+    "docs/images/giscus-example.png",
+    "quartz/static/francegarden.jpeg",
+    "quartz/static/Untitled.md",
+    "quartz/static",
+    "Untitled.md",
+    "content/Graphics/Dangers of building and using centralized platforms.md",
     "content/index.md",
     "content/Decentralization",
-    "content/Images/francegarden.jpeg",
-    "docs/advanced/index.md",
     "content/DeFi/Popular Liquid Staking Tokens on Arbitrum/Popular Liquid Staking Tokens on Arbitrum.md",
     "content/DeFi/Popular Liquid Staking Tokens on Arbitrum/Popular Liquid Staking Tokens on Arbitrum.canvas",
     "content/DeFi/Your Guide to the Collateralized Stablecoin Landscape.md",
@@ -218,14 +226,10 @@
     "content/Newsletter/5 Decentralized Finance/How does it make sense to invest in stETH? Lets look at my personal experience..md",
     "content/Newsletter/5 Decentralized Finance/Brain Dump PRIVATE.md",
     "content/Newsletter/5 Decentralized Finance/5 Decentralized Finance - Tweet.md",
-    "content/Newsletter/5 Decentralized Finance/5 Decentralized Finance - Outline.md",
-    "content/Newsletter/5 Decentralized Finance/5 Decentralized Finance - 1st Draft.md",
     "content/Newsletter/5 Decentralized Finance",
-    "content/Newsletter/3 Wallets/Words that I cut.md",
     "content/Newsletter/3 Wallets/Sharing is Caring - Wallets.canvas",
     "content/Newsletter/3 Wallets",
     "content/Newsletter/1.5 Midweek Roll",
-    "content/Articles & Papers/Flashboys 2.0.pdf",
     "content/Images/Pasted image 20230928095047.png",
     "content/Images/Pasted image 20230928094947.png",
     "content/Images/Pasted image 20230928094509.png",
