@@ -1,4 +1,4 @@
-// quartz/components/Banner.tsx
+// quartz/components/banner.tsx
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
 
 function resolveCoverSrc(p: QuartzComponentProps): string | null {
