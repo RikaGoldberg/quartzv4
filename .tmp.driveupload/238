@@ -183,6 +183,7 @@
   },
   "active": "7796187524b2a557",
   "lastOpenFiles": [
+    "deploy.yml",
     "eval \"$(ssh-agent -s)\".pub",
     "eval \"$(ssh-agent -s)\"",
     "content/Articles & Papers/Pipelines, Platforms, and the New Rules of Strategy, Harvard Business Review.md",
@@ -202,7 +203,6 @@
     "public/DeFi/Leveraged-Lending-DeFi-Strategy.html",
     "public/DeFi/LSTs-and-leveraged-ETH-staking-strategies-at-DeFi-Saver.html",
     "public/DeFi/A-primer-on-NFVs-and-how-Non-Fungible-Vaults-improve-CDPs.html",
-    "public/Articles--and--Papers/Why-Decentralization-Matters.html",
     "public/Newsletter/4-Decentralized-Social-Media/Decentralized-Social.png",
     "public/Newsletter/3-Wallets/Sharing-is-Caring---Wallets.canvas",
     "public/Images/francegarden.jpeg",
