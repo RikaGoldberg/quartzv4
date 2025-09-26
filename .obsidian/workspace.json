@@ -13,7 +13,7 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "docs/images/francegarden.jpeg"
+                "file": "content/Images/francegarden.jpeg"
               },
               "icon": "lucide-image",
               "title": "francegarden"
@@ -92,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/images/francegarden.jpeg",
+                "file": "content/Images/francegarden.jpeg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,12 +181,13 @@
   },
   "active": "7796187524b2a557",
   "lastOpenFiles": [
+    "docs/images/francegarden.jpeg",
+    "content/Graphics/Dangers of building and using centralized platforms.md",
     "docs/images/giscus-example.png",
     "docs/images/quartz transform pipeline.png",
     "docs/images/social-image-preview-light.png",
     "docs/images/giscus-discussion.png",
     "docs/images/giscus-repo.png",
-    "docs/images/francegarden.jpeg",
     "docs/plugins/index.md",
     "content/index.md",
     "content/Decentralization",
@@ -202,7 +203,6 @@
     "content/DeFi/LST Strategies.canvas",
     "content/DeFi/A primer on NFVs and how Non-Fungible Vaults improve CDPs.md",
     "content/DeFi",
-    "content/Graphics/Dangers of building and using centralized platforms.md",
     "content/Graphics",
     "content/Newsletter/2 Midweek Roll Nov 16 2023/Midweek Roll November 16 2023.md",
     "content/Newsletter/2 Midweek Roll Nov 16 2023/Gaza Israel’s ‘Open-Air Prison’ at 15.md",
@@ -229,7 +229,6 @@
     "content/Images/Pasted image 20230928095047.png",
     "content/Images/Pasted image 20230928094947.png",
     "content/Images/Pasted image 20230928094509.png",
-    "content/Images/Pasted image 20230928094308.png",
     "public/Newsletter/3-Wallets/Sharing-is-Caring---Wallets.canvas",
     "public/DeFi/Popular-Liquid-Staking-Tokens-on-Arbitrum/Popular-Liquid-Staking-Tokens-on-Arbitrum.canvas",
     "public/DeFi/LST-Strategies.canvas",
