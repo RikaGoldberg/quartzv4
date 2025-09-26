@@ -9,8 +9,8 @@
 	url = git@github.com:RikaGoldberg/quartzv4.git
 	fetch = +refs/heads/*:refs/remotes/origin/*
 [branch "v4"]
-	remote = https://github.com/RikaGoldberg/quartzv4
-	merge = HEAD
+	remote = origin
+	merge = refs/heads/v4
 [pull]
 	rebase = false
 [remote "upstream"]
