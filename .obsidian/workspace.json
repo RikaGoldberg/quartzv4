@@ -11,14 +11,12 @@
             "id": "7796187524b2a557",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "content/index.md",
-                "mode": "source",
-                "source": false
+                "file": "docs/images/francegarden.jpeg"
               },
-              "icon": "lucide-file",
-              "title": "index"
+              "icon": "lucide-image",
+              "title": "francegarden"
             }
           }
         ]
@@ -94,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/index.md",
+                "file": "docs/images/francegarden.jpeg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +102,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for index"
+              "title": "Backlinks for francegarden"
             }
           },
           {
@@ -183,9 +181,16 @@
   },
   "active": "7796187524b2a557",
   "lastOpenFiles": [
-    "content/Images/francegarden.jpeg",
-    "content/index.md",
+    "docs/images/giscus-example.png",
+    "docs/images/quartz transform pipeline.png",
+    "docs/images/social-image-preview-light.png",
+    "docs/images/giscus-discussion.png",
+    "docs/images/giscus-repo.png",
+    "docs/images/francegarden.jpeg",
     "docs/plugins/index.md",
+    "content/index.md",
+    "content/Decentralization",
+    "content/Images/francegarden.jpeg",
     "docs/advanced/index.md",
     "content/DeFi/Popular Liquid Staking Tokens on Arbitrum/Popular Liquid Staking Tokens on Arbitrum.md",
     "content/DeFi/Popular Liquid Staking Tokens on Arbitrum/Popular Liquid Staking Tokens on Arbitrum.canvas",
@@ -221,17 +226,11 @@
     "content/Newsletter/3 Wallets",
     "content/Newsletter/1.5 Midweek Roll",
     "content/Articles & Papers/Flashboys 2.0.pdf",
-    "content/Articles & Papers/Ethereum Staking",
     "content/Images/Pasted image 20230928095047.png",
     "content/Images/Pasted image 20230928094947.png",
     "content/Images/Pasted image 20230928094509.png",
     "content/Images/Pasted image 20230928094308.png",
-    "content/Images/Pasted image 20230928094106.png",
-    "content/Images/Pasted image 20230928093940.png",
-    "content/Images/Pasted image 20230913095107.png",
-    "public/Newsletter/4-Decentralized-Social-Media/Decentralized-Social.png",
     "public/Newsletter/3-Wallets/Sharing-is-Caring---Wallets.canvas",
-    "public/Images/francegarden.jpeg",
     "public/DeFi/Popular-Liquid-Staking-Tokens-on-Arbitrum/Popular-Liquid-Staking-Tokens-on-Arbitrum.canvas",
     "public/DeFi/LST-Strategies.canvas",
     "public/Archive/DeFi/Popular-Liquid-Staking-Tokens-on-Arbitrum/Popular-Liquid-Staking-Tokens-on-Arbitrum.canvas",
