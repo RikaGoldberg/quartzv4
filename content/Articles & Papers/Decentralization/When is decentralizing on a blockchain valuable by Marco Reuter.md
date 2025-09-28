@@ -1,3 +1,8 @@
+---
+tags:
+  - decentralization
+---
+
 Source: [When is decentralizing on a blockchain valuable](https://a16zcrypto.com/posts/article/when-is-decentralizing-on-a-blockchain-valuable/ ) 
 
 ### Notes

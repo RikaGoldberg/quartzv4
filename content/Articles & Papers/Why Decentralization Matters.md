@@ -3,6 +3,7 @@ title: Why Decentralization Matters
 author: chris dixon
 tags:
   - decentralization
+  - chrisdixon
 link: https://cdixon.org/2018/02/18/why-decentralization-matters
 ---
 ## Summary

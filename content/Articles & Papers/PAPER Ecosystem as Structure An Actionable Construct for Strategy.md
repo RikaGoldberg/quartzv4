@@ -2,6 +2,8 @@
 title: Ecosystem as Structure An Actionable Construct for Strategy
 author: Ron Adnor
 tags:
+  - strategy
+  - articlepaper
 ---
 ## Summary
 

@@ -1,3 +1,8 @@
+---
+tags:
+  - staking
+---
+
 Source: https://ethereum.org/en/staking/saas/
 
 ### Quotes

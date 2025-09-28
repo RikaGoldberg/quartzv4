@@ -1,4 +1,8 @@
-#saplings 
+---
+tags:
+  - staking
+---
+
 
 1. Solo Staking
 - Gold standard - run a full node

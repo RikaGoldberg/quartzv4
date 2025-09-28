@@ -1,6 +1,7 @@
 ---
 tags:
   - books
+  - defi
 ---
 
 ![[Introduction to On-Chain Analysis v3.pdf]]

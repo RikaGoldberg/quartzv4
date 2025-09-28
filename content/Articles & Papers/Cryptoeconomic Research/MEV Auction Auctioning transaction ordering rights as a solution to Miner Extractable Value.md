@@ -1,3 +1,9 @@
+---
+tags:
+  - articlepaper
+  - defi
+---
+
 https://ethresear.ch/t/mev-auction-auctioning-transaction-ordering-rights-as-a-solution-to-miner-extractable-value/6788
 
 _Special thanks to Vitalik for much of this, Phil Daian as well (& his amazing research on MEV), Barry Whitehat for also [coming up with this idea 283](https://ethresear.ch/t/spam-resistant-block-creator-selection-via-burn-auction/5851), and **Ben Jones** for the rest!_

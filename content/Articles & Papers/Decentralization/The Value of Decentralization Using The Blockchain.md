@@ -3,6 +3,7 @@ title: The Value of Decentralization Using The Blockchain
 author: Marco Reuters
 tags:
   - decentralization
+  - articlepaper
 ---
 Source: [[PAPER The Value of Decentralization Using The Blockchain by Marco Reuters]]
 

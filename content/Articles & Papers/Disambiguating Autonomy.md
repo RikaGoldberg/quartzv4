@@ -5,7 +5,8 @@ client: BlockScience
 distribution channel: Medium
 status: Published
 tags:
-  - Autonomy
+  - governance
+  - published
 link: https://medium.com/block-science/disambiguating-autonomy-ca84ac87a0bf)
 ---
 [Published on Medium](https://medium.com/block-science/disambiguating-autonomy-ca84ac87a0bf)

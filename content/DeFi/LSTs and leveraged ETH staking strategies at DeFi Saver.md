@@ -1,4 +1,10 @@
+---
+tags:
+  - staking
+  - articlepaper
+---
 Source: https://blog.defisaver.com/lsts-and-leveraged-eth-staking/
+
 
 The Ethereum Shanghai upgrade is live and LSTs and **leveraged ETH staking strategies** are now available in the DeFi Saver app! Check out this article and find out the best way to utilize this feature!
 

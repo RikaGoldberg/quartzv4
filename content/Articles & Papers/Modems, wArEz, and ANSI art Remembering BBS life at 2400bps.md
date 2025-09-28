@@ -3,7 +3,6 @@ title: "Modems, wArEz, and ANSI art: Remembering BBS life at 2400bps"
 author: lee hutchinson
 link: https://arstechnica.com/gadgets/2014/01/modems-warez-and-ansi-art-remembering-bbs-life-at-2400bps/
 tags:
-  - toprocess
 ---
 You've almost certainly never seen the place where I grew up, and you never will because it's long gone, buried by progress and made unreachable by technological erosion and the fine grind of time. What I did and learned there shaped me, but that knowledge is archaic and useless—who today needs to know the Hayes AT command set, the true baud rates of most common connection speeds, or the inner secrets of TheDraw? I am a wizard whose time has passed—a brilliant steam engine mechanic standing agape in the engine room of the starship _Enterprise._
 

@@ -1,3 +1,9 @@
+---
+tags:
+  - articlepaper
+  - defi
+---
+
 https://arxiv.org/pdf/1904.05234.pdf
 ## Quotes
 We show that MEV creates systemic consensus-layer vulnerabilities

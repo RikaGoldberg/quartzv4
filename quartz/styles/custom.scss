@@ -1,68 +1,76 @@
 @use "./base.scss"; 
 
-/* Base body */
+/* =======================
+   Base body
+   ======================= */
 body {
   font-family: "Inter", sans-serif;
-  font-size: 14px;      /* bigger than default */
-  line-height: 1.65;    /* adds readability */
+  font-size: 14px;
+  line-height: 1.65;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  color: #222;
 }
 
-/* Headers */
+/* =======================
+   Headers (content area)
+   ======================= */
 h1, h2, h3, h4, h5, h6 {
   font-family: "Caveat", cursive;
   font-weight: 700;
   line-height: 1.2;
   margin: 1.5rem 0 1rem;
-}
-h1 {
-  font-size: 42px;   /* 3rem */
-}
-
-h2 {
-  font-size: 38px;   /* */
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
 }
 
-h3 {
-  font-size: 28px;   /* rem */
-}
+h1 { font-size: 42px; }
+h2 { font-size: 38px; }
+h3 { font-size: 18px; }
+h4 { font-size: 14px; }
 
-h4 {
-  font-size: 14px;   /* 2.5rem */
-}
-
-
-/* Sidebar Explorer */
+/* =======================
+   Sidebar Explorer
+   ======================= */
 .explorer {
-  font-size: 14px;    /* overall sidebar text size */
   font-family: "Caveat", cursive;
+  font-size: 14px;
 }
 
-/* Folder titles in Explorer */
 .explorer .folder {
-  font-size: 18px;    /* smaller than pages */
+  font-size: 16px;
+  font-weight: 600;
+  margin-top: 0.75rem;
+  margin-bottom: 0.25rem;
+  line-height: 1.4;
 }
 
-/* Page links in Explorer */
 .explorer .page {
-  font-size: 14px;    /* slightly bigger than folders */
-  font-family: "Caveat", cursive;
+  font-size: 15px;
+  font-weight: 400;
+  margin: 0.4rem 0 0.4rem 0.75rem;
+  line-height: 1.4;
 }
 
-/* Code blocks */
+/* =======================
+   Code blocks
+   ======================= */
 code, pre {
   font-family: "JetBrains Mono", monospace;
   font-size: 0.95rem;
   line-height: 1.5;
-
+  background: #f5f5f5;
+  border-radius: 6px;
 }
 
-nav, nav * {
-  font-family: "Inter", sans-serif;
-  font-size: 1rem;
-  font-weight: 400;
+pre {
+  padding: 1rem;
+  overflow-x: auto;
 }
 
-/* Right menu box */
+/* =======================
+   Right menu container
+   ======================= */
 .right-menu {
   margin-top: 2rem;
   padding: 1rem;
@@ -72,54 +80,51 @@ nav, nav * {
   max-width: 220px;
 }
 
-/* Sidebar section headers (TOC + Random Note) */
+/* =======================
+   Sidebar section headers (TOC + Random Note)
+   ======================= */
 .right-menu h2,
 .right-menu h3,
-.toc-header h2,
-.toc-header h3 {
-  font-family: "Caveat", cursive;  /* match main headers */
-  font-size: 22px;                 /* balanced, not too huge */
+.toc-title,
+.random-note h2 {
+  font-family: "Caveat", cursive;
+  font-size: 22px;
   font-weight: 700;
   margin: 0 0 0.75rem 0;
   line-height: 1.3;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
 }
-/* TOC note titles (links inside Table of Contents) */
+
+/* =======================
+   TOC links
+   ======================= */
 .toc-content li a {
   font-size: 16px;
-  font-family: "Caveat", cursive; /* or switch to Caveat if you want */
+  font-family: "Inter", sans-serif;
   font-weight: 500;
   color: #333;
   text-decoration: none;
-  transition: color 0.2s ease, padding-left 0.2s ease;
   display: block;
   padding: 0.2rem 0;
+  transition: color 0.2s ease, padding-left 0.2s ease;
 }
 
-/* Hover effect */
 .toc-content li a:hover {
   color: #1a4d7c;
-  padding-left: 0.3rem; /* subtle slide-in effect */
+  padding-left: 0.3rem;
 }
 
-/* Depth-based styling */
-.toc-content li.depth-1 a {
-  font-weight: 600;
-}
+.toc-content li.depth-1 a { font-weight: 600; }
+.toc-content li.depth-2 a { font-size: 15px; color: #666; }
+.toc-content li.depth-3 a { font-size: 14px; color: #999; }
 
-.toc-content li.depth-2 a {
-  font-size: 15px;
-  color: #666;
-}
-
-.toc-content li.depth-3 a {
-  font-size: 14px;
-  color: #999;
-}
-
-/* Random Note link styling */
+/* =======================
+   Random Note link
+   ======================= */
 .random-note a {
   font-size: 16px;
-  font-family: "Caveat", cursve;  /* keep body font for readability */
+  font-family: "Inter", sans-serif;
   font-weight: 500;
   color: #1a4d7c;
   text-decoration: none;
@@ -128,30 +133,7 @@ nav, nav * {
   transition: color 0.2s ease, padding-left 0.2s ease;
 }
 
-/* Hover effect */
 .random-note a:hover {
   color: #0d2d4c;
-  padding-left: 0.3rem;  /* subtle slide-in, like TOC links */
-}
-
-/* Explorer sidebar list items */
-.explorer .folder,
-.explorer .page {
-  margin: 0.4rem 0;       /* vertical spacing between items */
-  line-height: 1.5;       /* improve readability */
-  display: block;
-}
-
-/* Explorer folder headings */
-.explorer .folder {
-  font-weight: 600;
-  font-size: 16px;
-  margin-top: 0.75rem;    /* extra space before a new folder */
-}
-
-/* Explorer page links */
-.explorer .page {
-  font-weight: 400;
-  font-size: 15px;
-  margin-left: 0.75rem;   /* indent under folder */
+  padding-left: 0.3rem;
 }

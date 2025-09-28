@@ -1,3 +1,9 @@
+---
+tags:
+  - staking
+---
+
+
 Source: https://ethereum.org/en/staking/pools/
 
 ### Quotes

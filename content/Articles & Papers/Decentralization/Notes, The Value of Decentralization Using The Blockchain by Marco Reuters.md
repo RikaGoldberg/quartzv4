@@ -1,3 +1,8 @@
+---
+tags:
+  - articlepaper
+  - decentralization
+---
 
 Source: [[PAPER The Value of Decentralization Using The Blockchain by Marco Reuters]]
 

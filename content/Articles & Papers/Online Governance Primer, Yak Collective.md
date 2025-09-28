@@ -1,6 +1,7 @@
 ---
 tags:
-  - article
+  - governance
+  - articlepaper
 ---
 
 Source: 

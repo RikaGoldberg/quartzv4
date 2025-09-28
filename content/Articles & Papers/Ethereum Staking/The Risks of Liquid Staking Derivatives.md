@@ -1,3 +1,8 @@
+---
+tags:
+  - staking
+---
+
 Source: https://notes.ethereum.org/@djrtwo/risks-of-lsd
 ### Liquid Staking Derivatives cannot safely exceed consensus thresholds
 

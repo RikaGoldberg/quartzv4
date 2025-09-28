@@ -13,26 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "node_modules/serve-handler/README.md",
+                "file": "content/Articles & Papers/Credible Neutrality and Foundations.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
-            }
-          },
-          {
-            "id": "4e5cb49e14737678",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/index.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "index"
+              "title": "Credible Neutrality and Foundations"
             }
           }
         ]
@@ -67,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "private",
+                "query": "lst",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -197,46 +182,46 @@
   },
   "active": "9331d6b7efee3ee3",
   "lastOpenFiles": [
-    "content/Newsletter/2 Midweek Roll Nov 16 2023/Being nice vs. being kind.md",
-    "content/Newsletter/5 Decentralized Finance/How does it make sense to invest in stETH? Lets look at my personal experience..md",
-    "content/Newsletter/5 Decentralized Finance/Brain Dump PRIVATE.md",
+    "content/Articles & Papers/Ethereum Staking/Where we are and what's to come.md",
+    "content/Articles & Papers/Ethereum Staking/Ways to stake ETH.md",
+    "content/Articles & Papers/Ethereum Staking/The Risks of Liquid Staking Derivatives.md",
+    "content/Articles & Papers/Ethereum Staking/Staking as a service.md",
+    "content/Articles & Papers/Ethereum Staking/Rocket Pool - Staking Protocol Part 1.md",
+    "content/Articles & Papers/Ethereum Staking/Relevant definitions.md",
+    "content/Articles & Papers/Ethereum Staking/Proof-of-stake is a superior consensus mechanism.md",
+    "content/Articles & Papers/Ethereum Staking/Proof-of-stake is a superior consensus mechanism (1).md",
+    "content/Articles & Papers/Ethereum Staking/Pooled Staking.md",
+    "content/Articles & Papers/Ethereum Staking/mauve paper.md",
     "content/Articles & Papers/Ethereum Staking/A rollup centric ethereum roadmap (Oct. 2020).md",
-    "node_modules/buffer/AUTHORS.md",
-    "content/Newsletter/3 Wallets/Appendix.md",
-    "content/DeFi/A primer on NFVs and how Non-Fungible Vaults improve CDPs.md",
-    "content/Decentralized Governance/A New Approach to Reward DAO Delegates.md",
-    "content/Decentralized Governance/A Look into Autonomy and How DAOs Use Working Groups.md",
-    "content/Newsletter/0 Ethereum meets Gizmodo and Consumer Reports.md",
-    "content/Articles & Papers/Pipelines, Platforms, and the New Rules of Strategy, Harvard Business Review.md",
-    "content/Articles & Papers/What Are Blockchains, Computers That Can Make Commitments.md",
-    "content/Newsletter/3 Wallets/Navigating Ethereum Wallets.md",
-    "content/Newsletter/1 Ethereum Staking/Staking ETH, A lay of the land.md",
-    "content/index.md",
-    "content/Newsletter/2 Midweek Roll Nov 16 2023/Midweek Roll November 16 2023.md",
-    "content/Newsletter/3 Wallets/Sharing is Caring - Wallets.canvas",
-    "content/Newsletter/4 Decentralized Social Media/Exploring Social Media's Evolution.md",
-    "content/Newsletter/4 Decentralized Social Media/Breaking Down Decentralized Social Media-- Master.md",
-    "content/Newsletter/4 Decentralized Social Media/Breaking Down Decentralized Social Media — Outline.md",
-    "content/Newsletter/4 Decentralized Social Media/Decentralized Social.png",
-    "content/Newsletter/3 Wallets/3 Wallets - Outline.md",
-    "content/Newsletter/1.5 Midweek Roll/Midweek Roll November 8 2023.md",
-    "content/Newsletter/2 Midweek Roll Nov 16 2023/Being nice vs. being kind (1).md",
-    "content/Lore/YODA Story 3 Meta Gamma Delta DAO.md",
-    "content/Lore/YODA Story 2 DAO Wei and MetaFactory.md",
-    "content/Lore/YODA Story 1 MetaCartel DAO.md",
-    "content/DeFi/Popular Liquid Staking Tokens on Arbitrum/Popular Liquid Staking Tokens on Arbitrum.md",
+    "content/Articles & Papers/Ethereum Staking/Comparing staking options. Native, Pooled, and Liquid. Finding the right approach for you.md",
+    "content/Articles & Papers/Decentralization/Why Decentralization Matters, Chris Dixon.md",
+    "content/Articles & Papers/Decentralization/When is decentralizing on a blockchain valuable by Marco Reuter.md",
+    "content/Articles & Papers/Decentralization/The Value of Decentralization Using The Blockchain.md",
+    "content/Articles & Papers/Decentralization/The hidden dangers of the decentralized web.md",
+    "content/Articles & Papers/Decentralization/Progressive Decentralization, a16z crypto.md",
+    "content/Articles & Papers/Decentralization/Notes, The Value of Decentralization Using The Blockchain by Marco Reuters.md",
+    "content/Articles & Papers/Decentralization/PAPER The Value of Decentralization Using The Blockchain by Marco Reuters.md",
+    "content/Articles & Papers/Cryptoeconomic Research/MEV Auction Auctioning transaction ordering rights as a solution to Miner Extractable Value.md",
+    "content/Articles & Papers/Cryptoeconomic Research/Flash Boys 2.0 - Frontrunning, Transaction Reordering, andConsensus Instability in Decentralized Exchanges.md",
+    "content/DeFi/LSTs and leveraged ETH staking strategies at DeFi Saver.md",
+    "node_modules/ms/license.md",
+    "content/Articles & Papers/Why Decentralization Matters.md",
+    "content/Articles & Papers/Protocols As Minimally Extractive Coordinators.md",
+    "content/Articles & Papers/PAPER Ecosystem as Structure An Actionable Construct for Strategy.md",
     "content/DeFi/Popular Liquid Staking Tokens on Arbitrum/Popular Liquid Staking Tokens on Arbitrum.canvas",
     "content/DeFi/Popular Liquid Staking Tokens on Arbitrum",
     "content/DeFi/LST Strategies.canvas",
     "content/DeFi",
     "content/Graphics",
     "content/Newsletter/4 Decentralized Social Media/Social Media",
+    "content/Newsletter/4 Decentralized Social Media/Decentralized Social.png",
+    "content/Newsletter/3 Wallets/Sharing is Caring - Wallets.canvas",
+    "content/Newsletter/1 Ethereum Staking",
     "content/Newsletter/5 Decentralized Finance",
     "content/Newsletter/4 Decentralized Social Media",
     "content/Newsletter/3 Wallets",
     "content/Newsletter/2 Midweek Roll Nov 16 2023",
     "content/Newsletter/1.5 Midweek Roll",
-    "content/Newsletter/1 Ethereum Staking",
     "content/Images/Pasted image 20230928095047.png",
     "content/Images/Pasted image 20230928094947.png",
     "content/Images/Pasted image 20230928094509.png",

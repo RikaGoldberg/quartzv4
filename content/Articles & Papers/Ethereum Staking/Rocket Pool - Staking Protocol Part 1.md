@@ -1,3 +1,8 @@
+---
+tags:
+  - staking
+---
+
 Source: https://medium.com/rocket-pool/rocket-pool-staking-protocol-part-1-8be4859e5fbd
 
 Welcome to the Rocket Pool Staking Protocol Explainer series! This is part of a four-part guide that covers all aspects of Rocket Pool, a decentralised, trustless and community owned staking protocol designed for Ethereum.

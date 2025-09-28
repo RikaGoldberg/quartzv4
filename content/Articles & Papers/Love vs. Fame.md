@@ -4,7 +4,7 @@ link: https://open.substack.com/pub/li/p/love-vs-fame-a-framework-for-social?utm
 author: Li Jin
 published date: 9/9/23
 tags:
-  - decentralized_social_networks
+  - socialmedia
 ---
 ### Summary
 

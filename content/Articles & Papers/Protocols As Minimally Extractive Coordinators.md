@@ -2,7 +2,8 @@
 title: Protocols As Minimally Extractive Coordinators
 link: https://www.placeholder.vc/blog/2019/10/6/protocols-as-minimally-extractive-coordinators
 tags:
-  - untagged
+  - articlepaper
+  - strategy
 ---
 ### Summary
 A protocol is not a business, meaning it should not make a profit from its service. Although it should add value, it should be minimally extractive from a money point of view. A protocol is part of an ecosystem that includes the market, consumers, distributors, suppliers, and consumers

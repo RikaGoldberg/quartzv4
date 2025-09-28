@@ -1,6 +1,6 @@
 ---
 tags:
-  - random
+  - ethics
 link: https://www2.units.it/etica/2001_1/cowley.html#:~:text=Above%20all%2C%20Agamemnon%20must%20allow,his%20life%20to%20make%20reparations
 ---
 ### Quotes

@@ -1,7 +1,7 @@
 ---
 title: Proof-of-stake is a superior consensus mechanism
 tags:
-  - Resource
+  - staking
 ---
 See: [[Staking ETH, A lay of the land]]
 
