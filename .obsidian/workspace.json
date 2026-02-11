@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f9db1f0a18213c38",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "public/static/francegarden.gif"
-              },
-              "icon": "lucide-image",
-              "title": "francegarden"
-            }
-          },
-          {
             "id": "a41ffe851c5c3815",
             "type": "leaf",
             "state": {
@@ -33,8 +21,7 @@
               "title": "Axianetwork Validator"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -199,24 +186,17 @@
   },
   "active": "a41ffe851c5c3815",
   "lastOpenFiles": [
-    "content/Validator Operations/NEAR Validator Dashboard.md",
-    "content/Validator Operations/Arterianodes Validator.md",
-    "content/index.md",
-    "content/Validator Operations/Axianetwork Validator.md",
-    "public/static/francegarden.gif",
-    "To-do list.md",
-    "content/DeFi/Creator Coins/Creator Coins.md",
-    "content/To-do list.md",
     "public/index.html",
     "public/Validator-Operations/validator.html",
     "public/Validator-Operations/NEAR-Validator-Dashboard.html",
     "public/Validator-Operations/Metapool's-Node-Studio-Program.html",
     "public/Validator-Operations/Axianetwork-Validator.html",
     "public/Validator-Operations/Arterianodes-Validator.html",
-    "public/To-do-list.html",
     "public/Newsletter/Template.html",
     "public/Newsletter/Privacy-Newsletter-Draft.html",
     "public/Newsletter/Moral-Dilemmas-in-Greek-Tragedies,-a-Discussion-of-Aeschylus’s-Agamemnon-and-Sophokles’s-Antigone.html",
+    "public/Newsletter/Borrowing-and-Lending.html",
+    "public/Newsletter/5-Decentralized-Finance/Possible-Resources.html",
     "public/Newsletter/4-Decentralized-Social-Media/Decentralized-Social.png",
     "public/Newsletter/3-Wallets/Sharing-is-Caring---Wallets.canvas",
     "public/DeFi/Liquid-Staking-Tokens-(LSTs)/Popular-Liquid-Staking-Tokens-on-Arbitrum.canvas",
@@ -225,7 +205,15 @@
     "public/static/mynearwallet.png",
     "public/static/meteorlogo.png",
     "public/static/intearwallet.png",
+    "public/static/francegarden.gif",
     "public/static/arterianodes.jpg",
+    "content/Validator Operations/NEAR Validator Dashboard.md",
+    "content/Validator Operations/Arterianodes Validator.md",
+    "content/index.md",
+    "content/Validator Operations/Axianetwork Validator.md",
+    "To-do list.md",
+    "content/DeFi/Creator Coins/Creator Coins.md",
+    "content/To-do list.md",
     "quartz/static/arterianodes.jpg",
     "quartz/static/meteorlogo.png",
     "content/Validator Operations/Metapool's Node Studio Program.md",
