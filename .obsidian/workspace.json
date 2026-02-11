@@ -8,20 +8,33 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9331d6b7efee3ee3",
+            "id": "f9db1f0a18213c38",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "public/static/francegarden.gif"
+              },
+              "icon": "lucide-image",
+              "title": "francegarden"
+            }
+          },
+          {
+            "id": "a41ffe851c5c3815",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Articles & Papers/Credible Neutrality and Foundations.md",
+                "file": "content/Validator Operations/Axianetwork Validator.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Credible Neutrality and Foundations"
+              "title": "Axianetwork Validator"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -53,7 +66,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "lst",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,11 +87,12 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 364.5024719238281
+    "width": 228.5
   },
   "right": {
     "id": "1e2831d147fe2c8a",
@@ -94,6 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "content/Images/Pasted image 20230928093940.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Pasted image 20230928093940"
             }
           },
           {
@@ -112,11 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "content/Images/Pasted image 20230928093940.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Pasted image 20230928093940"
             }
           },
           {
@@ -162,7 +178,8 @@
               "title": "All properties"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -180,63 +197,62 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9331d6b7efee3ee3",
+  "active": "a41ffe851c5c3815",
   "lastOpenFiles": [
-    "content/Articles & Papers/Ethereum Staking/Where we are and what's to come.md",
-    "content/Articles & Papers/Ethereum Staking/Ways to stake ETH.md",
-    "content/Articles & Papers/Ethereum Staking/The Risks of Liquid Staking Derivatives.md",
-    "content/Articles & Papers/Ethereum Staking/Staking as a service.md",
-    "content/Articles & Papers/Ethereum Staking/Rocket Pool - Staking Protocol Part 1.md",
-    "content/Articles & Papers/Ethereum Staking/Relevant definitions.md",
-    "content/Articles & Papers/Ethereum Staking/Proof-of-stake is a superior consensus mechanism.md",
-    "content/Articles & Papers/Ethereum Staking/Proof-of-stake is a superior consensus mechanism (1).md",
-    "content/Articles & Papers/Ethereum Staking/Pooled Staking.md",
-    "content/Articles & Papers/Ethereum Staking/mauve paper.md",
-    "content/Articles & Papers/Ethereum Staking/A rollup centric ethereum roadmap (Oct. 2020).md",
-    "content/Articles & Papers/Ethereum Staking/Comparing staking options. Native, Pooled, and Liquid. Finding the right approach for you.md",
-    "content/Articles & Papers/Decentralization/Why Decentralization Matters, Chris Dixon.md",
-    "content/Articles & Papers/Decentralization/When is decentralizing on a blockchain valuable by Marco Reuter.md",
-    "content/Articles & Papers/Decentralization/The Value of Decentralization Using The Blockchain.md",
-    "content/Articles & Papers/Decentralization/The hidden dangers of the decentralized web.md",
-    "content/Articles & Papers/Decentralization/Progressive Decentralization, a16z crypto.md",
-    "content/Articles & Papers/Decentralization/Notes, The Value of Decentralization Using The Blockchain by Marco Reuters.md",
-    "content/Articles & Papers/Decentralization/PAPER The Value of Decentralization Using The Blockchain by Marco Reuters.md",
-    "content/Articles & Papers/Cryptoeconomic Research/MEV Auction Auctioning transaction ordering rights as a solution to Miner Extractable Value.md",
-    "content/Articles & Papers/Cryptoeconomic Research/Flash Boys 2.0 - Frontrunning, Transaction Reordering, andConsensus Instability in Decentralized Exchanges.md",
-    "content/DeFi/LSTs and leveraged ETH staking strategies at DeFi Saver.md",
-    "node_modules/ms/license.md",
-    "content/Articles & Papers/Why Decentralization Matters.md",
-    "content/Articles & Papers/Protocols As Minimally Extractive Coordinators.md",
-    "content/Articles & Papers/PAPER Ecosystem as Structure An Actionable Construct for Strategy.md",
-    "content/DeFi/Popular Liquid Staking Tokens on Arbitrum/Popular Liquid Staking Tokens on Arbitrum.canvas",
-    "content/DeFi/Popular Liquid Staking Tokens on Arbitrum",
-    "content/DeFi/LST Strategies.canvas",
-    "content/DeFi",
-    "content/Graphics",
-    "content/Newsletter/4 Decentralized Social Media/Social Media",
-    "content/Newsletter/4 Decentralized Social Media/Decentralized Social.png",
-    "content/Newsletter/3 Wallets/Sharing is Caring - Wallets.canvas",
-    "content/Newsletter/1 Ethereum Staking",
-    "content/Newsletter/5 Decentralized Finance",
-    "content/Newsletter/4 Decentralized Social Media",
-    "content/Newsletter/3 Wallets",
-    "content/Newsletter/2 Midweek Roll Nov 16 2023",
-    "content/Newsletter/1.5 Midweek Roll",
-    "content/Images/Pasted image 20230928095047.png",
-    "content/Images/Pasted image 20230928094947.png",
-    "content/Images/Pasted image 20230928094509.png",
-    "content/Images/Pasted image 20230928094308.png",
-    "content/Images/Pasted image 20230928094106.png",
-    "content/Images/Pasted image 20230928093940.png",
-    "content/Images/Pasted image 20230913095107.png",
-    "public/DeFi/Popular-Liquid-Staking-Tokens-on-Arbitrum/Popular-Liquid-Staking-Tokens-on-Arbitrum.canvas",
+    "content/Validator Operations/NEAR Validator Dashboard.md",
+    "content/Validator Operations/Arterianodes Validator.md",
+    "content/index.md",
+    "content/Validator Operations/Axianetwork Validator.md",
+    "public/static/francegarden.gif",
+    "To-do list.md",
+    "content/DeFi/Creator Coins/Creator Coins.md",
+    "content/To-do list.md",
+    "public/index.html",
+    "public/Validator-Operations/validator.html",
+    "public/Validator-Operations/NEAR-Validator-Dashboard.html",
+    "public/Validator-Operations/Metapool's-Node-Studio-Program.html",
+    "public/Validator-Operations/Axianetwork-Validator.html",
+    "public/Validator-Operations/Arterianodes-Validator.html",
+    "public/To-do-list.html",
+    "public/Newsletter/Template.html",
+    "public/Newsletter/Privacy-Newsletter-Draft.html",
+    "public/Newsletter/Moral-Dilemmas-in-Greek-Tragedies,-a-Discussion-of-Aeschylus’s-Agamemnon-and-Sophokles’s-Antigone.html",
     "public/Newsletter/4-Decentralized-Social-Media/Decentralized-Social.png",
     "public/Newsletter/3-Wallets/Sharing-is-Caring---Wallets.canvas",
-    "public/Images/Pasted-image-20230928095047.png",
+    "public/DeFi/Liquid-Staking-Tokens-(LSTs)/Popular-Liquid-Staking-Tokens-on-Arbitrum.canvas",
+    "public/static/test.png",
+    "public/static/nearlogo.png",
+    "public/static/mynearwallet.png",
+    "public/static/meteorlogo.png",
+    "public/static/intearwallet.png",
+    "public/static/arterianodes.jpg",
+    "quartz/static/arterianodes.jpg",
+    "quartz/static/meteorlogo.png",
+    "content/Validator Operations/Metapool's Node Studio Program.md",
+    "content/Validator Operations/axianetwork.pool.near.md",
+    "content/Newsletter/Borrowing and Lending.md",
+    "content/Newsletter/2026 Predictions/2026 Predictions Brain Dump.md",
+    "Sovereignty.md",
+    "README.md",
+    "content/Newsletter/2026 Predictions/Tweet.md",
+    "content/Newsletter/2026 Predictions/Draft 2.md",
+    "static/Pasted.md",
+    "content/Articles & Papers/Credible Neutrality and Foundations.md",
+    "content/Articles & Papers/Ethereum Staking/Comparing staking options. Native, Pooled, and Liquid. Finding the right approach for you.md",
+    "content/Newsletter/1 Ethereum Staking/Staking ETH, A lay of the land.md",
+    "Geeks, MOPs, and sociopaths in subculture evolution.md",
+    "Privacy/The Trustless Manifesto.md",
+    "content/Images/NEAR Logo.md",
+    "content/Images/near_logo.md",
+    "Privacy/Privacy and The Cypherpunk Revival.md",
+    "content/Validator Operations/validator.md",
+    "content/DeFi/Liquid Staking Tokens (LSTs)/Popular Liquid Staking Tokens on Arbitrum.canvas",
+    "content/DeFi/LST Strategies.canvas",
+    "public/DeFi/Popular-Liquid-Staking-Tokens-on-Arbitrum/Popular-Liquid-Staking-Tokens-on-Arbitrum.canvas",
     "public/DeFi/LST-Strategies.canvas",
+    "content/Newsletter/3 Wallets/Sharing is Caring - Wallets.canvas",
     "public/Archive/DeFi/Popular-Liquid-Staking-Tokens-on-Arbitrum/Popular-Liquid-Staking-Tokens-on-Arbitrum.canvas",
     "public/Archive/DeFi/LST-Strategies.canvas",
-    "content/Payroll & Finance System (1).canvas",
-    "content/Payroll & Finance System.canvas"
+    "content/Payroll & Finance System (1).canvas"
   ]
 }

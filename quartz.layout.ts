@@ -5,7 +5,11 @@ import RightMenu from "./quartz/components/RightMenu"
 
 // components shared across all pages
 export const sharedPageComponents: SharedLayout = {
-  head: Component.Head(),
+  head: Component.Head({
+  additionalScripts: [
+    { src: "/static/hero-motion.js?v=1", defer: true },
+  ],
+}),
   header: [],
   afterBody: [],
   footer: Component.Footer({
@@ -17,7 +21,14 @@ export const sharedPageComponents: SharedLayout = {
     },
   }),
 }
-
+  footer: Component.Footer({
+    text: "© 2025 Rika Goldberg",
+    links: {
+      X: "https://x.com/RikaGoldberg",
+      Newsletter: "https://paragraph.xyz/@sharingiscaring",
+      Soundcloud: "https://soundcloud.com/rikagoldberg"
+    },
+  })
 
 // components for pages that display a single page (e.g. a single note)
 export const defaultContentPageLayout: PageLayout = {

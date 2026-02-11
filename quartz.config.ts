@@ -1,6 +1,8 @@
-// quartz.config.ts  (full, working config using Caveat for body)
+// quartz.config.ts  (fixed)
 import { QuartzConfig } from "./quartz/cfg"
 import * as Plugin from "./quartz/plugins"
+// Remove or comment out HeroMotion for now
+// import { HeroMotion } from "./quartz/plugins/transformers/heromotion.ts"
 
 const config: QuartzConfig = {
   configuration: {
@@ -10,13 +12,13 @@ const config: QuartzConfig = {
     analytics: { provider: "plausible" },
     baseUrl: "rikagoldberg.xyz",
     defaultDateType: "created",
-    ignorePatterns: ["private", "templates"], // allow images next to notes if you want
+    ignorePatterns: ["private", "templates"],
     theme: {
-      fontOrigin: "googleFonts", // Quartz will fetch fonts from Google
+      fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Caveat", // keep your heading font
-        body: "Caveat",              // 👈 switch body to Caveat
+        header: "Inter",
+        body: "Inter",
         code: "IBM Plex Mono",
       },
       colors: {

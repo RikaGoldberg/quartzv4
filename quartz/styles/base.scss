@@ -67,6 +67,15 @@ ul,
   }
 }
 
+@keyframes slowDrift {
+  0%, 100% { 
+    transform: translate(0, 0) scale(1.08); 
+  }
+  50% { 
+    transform: translate(-2%, 2%) scale(1.05); 
+  }
+}
+
 article {
   > mjx-container.MathJax,
   blockquote > div > mjx-container.MathJax {
@@ -563,6 +572,11 @@ img {
   border-radius: 5px;
   margin: 1rem 0;
   content-visibility: auto;
+
+  // Add animation to hero/featured images
+  &.hero-image {
+    animation: slowDrift 20s ease-in-out infinite;
+  }
 }
 
 p > img + em {
@@ -644,3 +658,4 @@ iframe.pdf {
   transition: width 0.2s ease;
   z-index: 9999;
 }
+

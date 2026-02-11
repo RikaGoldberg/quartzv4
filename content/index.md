@@ -1,27 +1,37 @@
 ---
-title: Welcome to my notes
-cover: /static/francegarden.jpeg
+title: Working in public
 ---
-Welcome! This is my corner of the internet where I follow threads of curiosity across crypto, finance, governance, and decentralized social networks—and occasionally wander beyond.  
+<img
+  src="/static/francegarden.gif"
+  alt="Garden"
+  class="hero-image"
+  style="
+    width: 100%;
+    max-height: 400px;
+    object-fit: cover;
+    border-radius: 12px;
+    display: block;
+    margin-bottom: 2rem;
+  "
+/>
 
-What you’ll find here is a mix: some notes are messy ideas, others are more fully-formed essays, and plenty are just notes and highlights on thought-provoking articles and papers. Together they make up a living notebook that is always growing with new ideas and reshaping as my interests change. 
 
-The notebook, by design, is never quite finished.
+## Welcome to my little corner of the Internet
 
-## Start Here
+This is a place for notes and ideas. In a nutshell, it's a <a href="https://jzhao.xyz/posts/digital-gardening">Digital Garden</a>.
 
-You can start by exploring the sidebar on the left.
+The topics I cover cross crypto, governance, and decentralized finance. Feel free to explore and maybe you will learn a few things. 
 
-A couple more things to point out:
-- the left sidebar surfaces a random note on each refresh
-- each page (except this one) shows a graph of connected notes
-- don't underestimate the power of the Search bar!
+Follow me on [Twitter ](https://x.com/RikaGoldberg)(feel free to drop me a DM and introduce yourself!) and subscribe to [my newsletter](https://paragraph.com/@sharingiscaring). 
+## Start exploring
 
-## My influences
+<div style="display: flex; flex-direction: column; gap: 0.75rem; margin-top: 1rem;"> <div style="padding: 0.75rem 1rem; background: var(--lightgray); border-radius: 6px; color: var(--darkgray);"> 📚 <strong>Browse the sidebar</strong> — Discover notes organized by topic </div> <div style="padding: 0.75rem 1rem; background: var(--lightgray); border-radius: 6px; color: var(--darkgray);"> 🎲 <strong>Random note</strong> — Refresh the page to surface a new note </div> <div style="padding: 0.75rem 1rem; background: var(--lightgray); border-radius: 6px; color: var(--darkgray);"> 🔍 <strong>Search</strong> — Find exactly what you're looking for </div> <div style="padding: 0.75rem 1rem; background: var(--lightgray); border-radius: 6px; color: var(--darkgray);"> 🕸️ <strong>Graph view</strong> — See how notes connect </div> </div>
 
-A growing list of writing that has influenced me.
+## Top of Mind
 
-- [Philosophy of Games](https://philarchive.org/archive/NGUPCP)
-- [Credible Neutrality as a Guiding Principle](https://balajis.com/p/credible-neutrality)
-- [Identity Defining Beliefs on Social Media](https://www.researchgate.net/publication/363885159_Identity-Defining_Beliefs_on_Social_Media#read)
-- [Love vs. Fame: A framework for social applications](https://www.lisnewsletter.com/p/love-vs-fame-a-framework-for-social)
+An evolving list. Stay tuned.
+
+- [[NEAR Validator Dashboard]]
+- [[Creator Coins]]
+
+
