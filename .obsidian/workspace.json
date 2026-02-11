@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "do not publish",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -183,31 +184,31 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a41ffe851c5c3815",
+  "active": "a1aa750da388a9d8",
   "lastOpenFiles": [
     "public/index.html",
-    "public/Validator-Operations/validator.html",
-    "public/Validator-Operations/NEAR-Validator-Dashboard.html",
-    "public/Validator-Operations/Metapool's-Node-Studio-Program.html",
-    "public/Validator-Operations/Axianetwork-Validator.html",
-    "public/Validator-Operations/Arterianodes-Validator.html",
     "public/Newsletter/Template.html",
-    "public/Newsletter/Privacy-Newsletter-Draft.html",
-    "public/Newsletter/Moral-Dilemmas-in-Greek-Tragedies,-a-Discussion-of-Aeschylus’s-Agamemnon-and-Sophokles’s-Antigone.html",
-    "public/Newsletter/Borrowing-and-Lending.html",
-    "public/Newsletter/5-Decentralized-Finance/Possible-Resources.html",
+    "public/Lore/YODA-Story-3-Meta-Gamma-Delta-DAO.html",
+    "public/Lore/YODA-Story-2-DAO-Wei-and-MetaFactory.html",
+    "public/Lore/YODA-Story-1-MetaCartel-DAO.html",
+    "public/DeFi/NEAR/NEAR-tokens.html",
+    "public/DeFi/Liquid-Staking-Tokens-(LSTs)/Popular-Liquid-Staking-Tokens-on-Arbitrum.html",
+    "public/DeFi/Liquid-Staking-Tokens-(LSTs)/A-primer-on-NFVs-and-how-Non-Fungible-Vaults-improve-CDPs.html",
+    "public/DeFi/Creator-Coins/Creator-Coins.html",
+    "public/DeFi/Borrowing--and--Lending/Leveraged-Long-Position-on-Aave-Tutorial.html",
+    "public/DeFi/Borrowing--and--Lending/Leveraged-Lending-DeFi-Strategy.html",
+    "public/DeFi/Liquid-Staking-Tokens-(LSTs)/Popular-Liquid-Staking-Tokens-on-Arbitrum.canvas",
     "public/Newsletter/4-Decentralized-Social-Media/Decentralized-Social.png",
     "public/Newsletter/3-Wallets/Sharing-is-Caring---Wallets.canvas",
     "public/static/test.png",
     "public/static/nearlogo.png",
-    "public/DeFi/Liquid-Staking-Tokens-(LSTs)/Popular-Liquid-Staking-Tokens-on-Arbitrum.canvas",
     "public/static/mynearwallet.png",
     "public/static/meteorlogo.png",
     "public/static/intearwallet.png",
     "public/static/francegarden.gif",
     "public/static/axialogo.jpg",
     "public/static/arterianodes.jpg",
-    "quartz/static/axialogo.jpg",
+    "public/static/OG image.jpg",
     "content/Validator Operations/Axianetwork Validator.md",
     "content/Validator Operations/NEAR Validator Dashboard.md",
     "content/Validator Operations/Arterianodes Validator.md",
