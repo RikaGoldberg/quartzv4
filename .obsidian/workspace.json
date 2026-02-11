@@ -74,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -184,8 +183,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a41ffe851c5c3815",
+  "active": "61721f4af6972c13",
   "lastOpenFiles": [
+    "quartz/static/axialogo.jpg",
+    "quartz/static/axia logo.jpg",
+    "axia logo.jpg",
     "public/index.html",
     "public/Validator-Operations/validator.html",
     "public/Validator-Operations/NEAR-Validator-Dashboard.html",
@@ -196,7 +198,6 @@
     "public/Newsletter/Privacy-Newsletter-Draft.html",
     "public/Newsletter/Moral-Dilemmas-in-Greek-Tragedies,-a-Discussion-of-Aeschylus’s-Agamemnon-and-Sophokles’s-Antigone.html",
     "public/Newsletter/Borrowing-and-Lending.html",
-    "public/Newsletter/5-Decentralized-Finance/Possible-Resources.html",
     "public/Newsletter/4-Decentralized-Social-Media/Decentralized-Social.png",
     "public/Newsletter/3-Wallets/Sharing-is-Caring---Wallets.canvas",
     "public/DeFi/Liquid-Staking-Tokens-(LSTs)/Popular-Liquid-Staking-Tokens-on-Arbitrum.canvas",
@@ -214,8 +215,6 @@
     "To-do list.md",
     "content/DeFi/Creator Coins/Creator Coins.md",
     "content/To-do list.md",
-    "quartz/static/arterianodes.jpg",
-    "quartz/static/meteorlogo.png",
     "content/Validator Operations/Metapool's Node Studio Program.md",
     "content/Validator Operations/axianetwork.pool.near.md",
     "content/Newsletter/Borrowing and Lending.md",
