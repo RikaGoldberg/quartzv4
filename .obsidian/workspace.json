@@ -74,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -184,8 +183,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a1aa750da388a9d8",
+  "active": "61721f4af6972c13",
   "lastOpenFiles": [
+    "quartz/static/og-image.png",
+    "content/Validator Operations/Axianetwork Validator.md",
     "quartz/static/og-image.jpg",
     "quartz/static/Og-image.jpg",
     "public/index.html",
@@ -208,8 +209,6 @@
     "public/static/intearwallet.png",
     "public/static/francegarden.gif",
     "public/static/axialogo.jpg",
-    "public/static/arterianodes.jpg",
-    "content/Validator Operations/Axianetwork Validator.md",
     "content/Validator Operations/NEAR Validator Dashboard.md",
     "content/Validator Operations/Arterianodes Validator.md",
     "content/index.md",
