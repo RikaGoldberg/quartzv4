@@ -6,7 +6,7 @@ tags:
   - about
 ---
 
-I'm Rika Goldberg — founder of [Axia Network](https://axianetwork.io), a governance advisory firm for blockchain protocols.
+I'm Rika Goldberg — founder of Axia Network, a governance advisory firm for blockchain protocols.
 
 Axia supports leading Layer 1 and Layer 2 ecosystems navigate decentralized governance, and operates a validator node on NEAR. A long-term goal close to my heart: helping expand meaningful enterprise and institutional participation in on-chain governance — moving it beyond a niche activity into something that shapes the future of these networks.
 

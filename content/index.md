@@ -15,23 +15,22 @@ title: Working in public
   "
 />
 
+I'm Rika Goldberg — founder of Axia Network, a governance advisory firm for blockchain protocols.
 
-## Welcome to my little corner of the Internet
+Axia supports leading Layer 1 and Layer 2 ecosystems navigate decentralized governance, and operates a validator node on NEAR. A long-term goal close to my heart: helping expand meaningful enterprise and institutional participation in on-chain governance — moving it beyond a niche activity into something that shapes the future of these networks.
 
-This is a place for notes and ideas. In a nutshell, it's a <a href="https://jzhao.xyz/posts/digital-gardening">Digital Garden</a>.
+## Background
 
-The topics I cover cross crypto, governance, and decentralized finance. Feel free to explore and maybe you will learn a few things. 
+Before founding Axia, I worked on the governance team at 404 Gov, a company built out of the Georgia Tech Blockchain Club. I've also worked as a Product Manager across the Ethereum ecosystem, including at ConsenSys. In a past life, I was a CPA and technologist implementing enterprise resource planning systems for enterprises.
 
-Follow me on [Twitter ](https://x.com/RikaGoldberg)(feel free to drop me a DM and introduce yourself!) and subscribe to [my newsletter](https://paragraph.com/@sharingiscaring). 
-## Start exploring
+## Why I write
 
-<div style="display: flex; flex-direction: column; gap: 0.75rem; margin-top: 1rem;"> <div style="padding: 0.75rem 1rem; background: var(--lightgray); border-radius: 6px; color: var(--darkgray);"> 📚 <strong>Browse the sidebar</strong> — Discover notes organized by topic </div> <div style="padding: 0.75rem 1rem; background: var(--lightgray); border-radius: 6px; color: var(--darkgray);"> 🎲 <strong>Random note</strong> — Refresh the page to surface a new note </div> <div style="padding: 0.75rem 1rem; background: var(--lightgray); border-radius: 6px; color: var(--darkgray);"> 🔍 <strong>Search</strong> — Find exactly what you're looking for </div> <div style="padding: 0.75rem 1rem; background: var(--lightgray); border-radius: 6px; color: var(--darkgray);"> 🕸️ <strong>Graph view</strong> — See how notes connect </div> </div>
+I believe in building in public. Sharing what I'm learning, what I'm thinking, and what I'm getting wrong is how I process my work and contribute to the protocols, projects, and ecosystems that I believe in.
 
-## Top of Mind
+This site is my digital garden — a place where notes grow over time and ideas cross-pollinate. I was inspired by the [digital garden](https://jzhao.xyz/posts/digital-gardening) community and the ethos that building in public is more valuable than waiting until you have something polished.
 
-An evolving list. Stay tuned.
+I also write a newsletter called **[Sharing is Caring](https://paragraph.xyz/@sharingiscaring)** — longer form pieces on crypto, governance, and decentralized finance.
 
-- [[NEAR Validator Dashboard]]
-- [[Creator Coins]]
+## Get in touch
 
-
+The best way to reach me is on [X (Twitter)](https://x.com/RikaGoldberg) — feel free to DM and introduce yourself.
