@@ -1,5 +1,9 @@
 ---
 title: About
+published date: 2/24/26
+status: Published
+tags:
+  - about
 ---
 
 I'm Rika Goldberg — founder of [Axia Network](https://axianetwork.io), a governance advisory firm for blockchain protocols.
