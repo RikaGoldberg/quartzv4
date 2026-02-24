@@ -63,7 +63,7 @@ export default (() => {
         <meta property="og:image:alt" content={description} />
 
         {!usesCustomOgImage && (
-          <
+          <>
             <meta property="og:image" content={ogImageDefaultPath} />
             <meta property="og:image:url" content={ogImageDefaultPath} />
             <meta name="twitter:image" content={ogImageDefaultPath} />
