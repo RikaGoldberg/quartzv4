@@ -1,0 +1,11 @@
+#newsletter 
+ 
+ **Blockworks Daily Newsletter**
+
+After a brief dip and recovery, majors continued to oscillate overnight within tight 2-3% ranges. Notable movers of the day include Cowswap (COW) and Illuvium (ILV). COW has been up-only this week thanks to a proposal in governance to select and test different fee models for the protocol. Cowswap is easily one of the best aggregators on the market, and the protocol offers value through MEV protection. When the protocol airdropped COW tokens in March 2022, there was no clear utility besides “governance,” and as a result the token only went lower as time passed.
+
+Illuvium came out with a big announcement that the Web3 gaming studio’s PVP Beta is set for release on Epic Games’ marketplace on November 28. The teams behind this have been building and fundraising for years, and it finally looks like crypto gaming’s big moment is quickly approaching. Epic Games’ marketplace offers exposure to 180M+ users and gained most of its fame from Fortnite, which significantly impacted gaming culture over the past few years. 
+
+==In other news, Binance finally dropped their “mass onboard the next billion users” news==. The exchange took a page from Coinbase’s book and launched **Binance Web3 Wallet**, which allows users to self-custody crypto and utilize dApps within the Binance app. ==**The wallet utilizes Multi-Party Computation (MPC) to create three different key files, which are split between different locations for added security.**==
+
+This wallet move makes a ton of sense for Binance. In the peak of the last bull run, BSC saw tons of volume and users, and one of the biggest fumbles of that time period was the fact that BSC users had to turn to third party wallets, such as Trust Wallet or MetaMask, to access the chain. Now, users will have an enhanced experience, and **Binance** gets to silo these users within its ecosystem. ==As the UX improves, we can only get more and more bullish on crypto.==
